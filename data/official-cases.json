@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "agentic-tools",
+    "title": "Official Agentic Tool-Use Cases",
+    "description": "Meta's launch examples showing Muse Image using code, search, and self-refinement before generating the final visual.",
+    "cases": [
+      {
+        "id": 1,
+        "title": "Scannable conference QR code in a manhwa scene",
+        "media": [{ "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1523338612067235&version=1783318616&transcode_extension=webp", "height": 420 }],
+        "prompt": "Create a 3:2 Korean manhwa-style conference scene with a young woman checking her phone beside an ICML 2025 poster. Generate and verify a scannable QR code for https://meta.ai, place it naturally on the poster, and keep the code readable after composition."
+      },
+      {
+        "id": 2,
+        "title": "Swiss poster with coded Julia and Sierpinski fractals",
+        "media": [{ "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1499727434782014&version=1783727678&transcode_extension=webp", "height": 420 }],
+        "prompt": "Code a Julia set and an IFS Sierpinski triangle, render both accurately, then arrange them as a mid-century Swiss poster on warm off-white. Use an asymmetrical grid, generous white space, red, blue, and black geometric accents, and clean left-aligned labels."
+      },
+      {
+        "id": 3,
+        "title": "Search-grounded moon-formation infographic",
+        "media": [{ "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1016087987876304&version=1783727678&transcode_extension=webp", "height": 420 }],
+        "prompt": "Research reputable sources on the giant-impact hypothesis, then create a vertical six-stage infographic covering proto-Earth, Theia, collision, debris disk, Moon formation, and present-day evidence. Use accurate labels, coherent cinematic space visuals, and concise evidence and counterpoint boxes."
+      },
+      {
+        "id": 4,
+        "title": "Marketplace-grounded bedroom redesign",
+        "media": [{ "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1674431693776784&version=1783727678&transcode_extension=webp", "height": 420 }],
+        "prompt": "Using the uploaded bedroom and San Francisco location, redesign the room with warm, simple vintage pieces found through current Facebook Marketplace searches. Preserve the architecture and camera view; integrate a wood nightstand, dresser, rug, lamp, rattan chair, and autumn landscape art with realistic scale, light, and contact shadows."
+      }
+    ]
+  },
+  {
+    "slug": "precision-editing",
+    "title": "Official Precision Editing Cases",
+    "description": "Short natural-language edits published by Meta, paired with the resulting Muse Image media.",
+    "cases": [
+      {
+        "id": 5,
+        "title": "Historical photo restoration",
+        "media": [
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1497625018273802&version=1783371765", "label": "Before", "height": 340 },
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1234655725368510&version=1783371828", "label": "After", "height": 340 }
+        ],
+        "prompt": "Restore this image."
+      },
+      {
+        "id": 6,
+        "title": "Fog removal with valley reveal",
+        "media": [
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1542641807320755&version=1783371854", "label": "Before", "height": 340 },
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1555696182918676&version=1783371872", "label": "After", "height": 340 }
+        ],
+        "prompt": "Edit this to clear up the fog and reveal the beautiful valley below."
+      },
+      {
+        "id": 7,
+        "title": "Rainbow-gradient flower edit",
+        "media": [
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2073875150007095&version=1783371892", "label": "Before", "height": 340 },
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1031962309364259&version=1783371926", "label": "After", "height": 340 }
+        ],
+        "prompt": "Change the flower so the petals form a rainbow gradient."
+      },
+      {
+        "id": 8,
+        "title": "Exact parking-sign text replacement",
+        "media": [
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1496618395832148&version=1783371947", "label": "Before", "height": 340 },
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=4419784281629180&version=1783371971", "label": "After", "height": 340 }
+        ],
+        "prompt": "Change this image to be '$3.00 ALL DAY', change the 'NO FREE PARKING' text to 'FREE PARKING ON WEEKENDS', and change the phone number to 555-5555."
+      },
+      {
+        "id": 9,
+        "title": "Context-preserving zoom-out",
+        "media": [
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2461873970995790&version=1783371998", "label": "Before", "height": 340 },
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2222922151829879&version=1783372013", "label": "After", "height": 340 }
+        ],
+        "prompt": "Zoom out slightly to show the chaos the dog has seen, giving context to its sheepish look."
+      }
+    ]
+  },
+  {
+    "slug": "multi-turn-composition",
+    "title": "Official Multi-Turn Composition Case",
+    "description": "A scene carried across multiple edits while identity, environment, and an embedded reference remain coherent.",
+    "cases": [
+      {
+        "id": 10,
+        "title": "Cat-and-dog picnic becomes a complete cafe identity",
+        "media": [
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1719369075952525&version=1783727678", "label": "Picnic", "height": 300 },
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2094485221415221&version=1783727678", "label": "Interior", "height": 300 },
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1506241741199488&version=1783727678", "label": "Exterior", "height": 300 }
+        ],
+        "prompt": "Make an image of the referenced cat and dog as best friends having a picnic on a sunny day in vintage 35mm style. Then place that exact picnic image in a frame on a cozy cafe wall, and finally show the cafe exterior while keeping the framed photo visible through the window."
+      }
+    ]
+  }
+]

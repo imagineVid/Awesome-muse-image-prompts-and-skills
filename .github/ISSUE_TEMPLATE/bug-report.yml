@@ -1,0 +1,61 @@
+# [INPUT]: Receives repository display, prompt-data, and localization defects from contributors.
+# [OUTPUT]: Produces a structured issue carrying the bug label and reproducible evidence.
+# [POS]: GitHub issue intake for failures specific to the Muse Image collection.
+# [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
+name: Muse Image Collection Bug
+description: Report broken prompt data, media, localization, or README rendering
+title: "[Bug] <Affected prompt or locale>"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Muse Image collection bug
+
+        Thanks for helping us keep the collection accurate and usable.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: Identify the affected prompt, locale, image, link, or generated README section
+      placeholder: "Example: README_fr-FR.md shows an English fallback for prompt No. 12."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: Provide the shortest path that reproduces the problem
+      placeholder: |
+        1. Open the affected README or source record.
+        2. Locate the prompt or section.
+        3. Describe the incorrect result.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: Describe the accurate data or rendering you expected
+      placeholder: "The localized title should match the English source prompt."
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: Describe the current incorrect result
+      placeholder: "The title falls back to English while the interface is localized."
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add the source URL, screenshot, validation output, or suggested correction
+      placeholder: "Include evidence that lets a maintainer verify the correction."

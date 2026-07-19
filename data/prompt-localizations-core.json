@@ -1,0 +1,56 @@
+{
+  "zh": {
+    "1": { "title": "实时市场价格新闻摄影", "description": "让 Muse Image 检索当地现价，并把价格以清晰可读的市场标签呈现在纪实照片中。" },
+    "2": { "title": "无场景漂移的角色替换", "description": "只替换电影剧照中的目标人物，同时保留镜头、服装、姿态、遮挡、光线和影像质感。" },
+    "3": { "title": "四卡无缝全景轮播图", "description": "先完成一张连续主画面，再切成四张竖图，确保透视、光线、角色与接缝完全一致。" },
+    "4": { "title": "古典大师风扶手椅肖像", "description": "以旧皮革、斑驳蓝绿色墙面、侧向光和厚重电影调色构成克制的编辑肖像。" },
+    "5": { "title": "从 Unity 编辑器中走出来", "description": "把软件视口变成真实边界的趣味参考编辑，并通过第二轮只强化玻璃破碎效果。" },
+    "6": { "title": "土耳其独立科幻电影海报", "description": "用简短指令测试概念创作、竖版构图和准确可读的本地化片名。" },
+    "7": { "title": "质数生物图鉴", "description": "将 2 到 47 的每个质数映射成独特收藏生物，测试严格网格、计数与文字准确性。" }
+  },
+  "ja-JP": {
+    "1": { "title": "リアルタイム市場価格の報道写真", "description": "最新の地域価格を調べ、読みやすい値札として市場の報道写真に反映するワークフローです。" },
+    "2": { "title": "シーンを崩さないキャラクター置換", "description": "構図、衣装、姿勢、遮蔽、照明、写真質感を維持しながら人物だけを置き換えます。" },
+    "3": { "title": "4枚でつながるパノラマカルーセル", "description": "1枚の連続マスターを仕上げてから4枚に分割し、遠近、光、同一性、継ぎ目を保ちます。" },
+    "4": { "title": "古典絵画風のウィングバックチェア肖像", "description": "使い込まれた革、青緑の壁、方向性のある光、深い色調で静かな編集肖像を作ります。" },
+    "5": { "title": "Unity Editorから現実へ踏み出す", "description": "ソフトウェアのビューポートを物理的な境界に変え、次の編集でガラス破砕だけを強めます。" },
+    "6": { "title": "トルコのインディーSF映画ポスター", "description": "独自コンセプト、縦構図、正確なトルコ語タイトルを短い指示でテストします。" },
+    "7": { "title": "素数クリーチャー図鑑", "description": "2から47までの各素数に固有の生物を割り当て、グリッド、数、文字の正確さを試します。" }
+  },
+  "ko-KR": {
+    "1": { "title": "실시간 시장 가격 보도 사진", "description": "최신 현지 가격을 조사해 읽기 쉬운 시장 표지판으로 표현하는 사실 기반 편집 이미지입니다." },
+    "2": { "title": "장면 흔들림 없는 캐릭터 교체", "description": "구도, 의상, 포즈, 가림, 조명, 필름 질감은 그대로 두고 대상 인물만 교체합니다." },
+    "3": { "title": "네 장으로 이어지는 파노라마 캐러셀", "description": "하나의 연속 마스터를 완성한 뒤 네 장으로 나눠 원근, 조명, 정체성, 이음새를 유지합니다." },
+    "4": { "title": "고전 회화풍 윙백 체어 초상", "description": "낡은 가죽, 청록색 회벽, 방향성 조명, 깊은 색보정으로 절제된 편집 초상을 만듭니다." },
+    "5": { "title": "Unity Editor 밖으로 걸어 나오기", "description": "소프트웨어 뷰포트를 물리적 경계로 만들고 후속 편집에서는 깨진 유리만 강화합니다." },
+    "6": { "title": "튀르키예 독립 SF 영화 포스터", "description": "독창적인 콘셉트, 세로 구성, 정확한 현지 제목 표현을 시험하는 간결한 프롬프트입니다." },
+    "7": { "title": "소수 생물 도감", "description": "2부터 47까지 각 소수에 고유 생물을 배정해 격자, 개수, 텍스트 정확도를 시험합니다." }
+  },
+  "es-ES": {
+    "1": { "title": "Fotografía periodística con precios de mercado actuales", "description": "Una imagen editorial basada en datos que investiga precios locales y los muestra en carteles legibles del puesto." },
+    "2": { "title": "Transferencia de personaje sin alterar la escena", "description": "Sustituye solo al personaje objetivo y conserva plano, vestuario, pose, oclusiones, luz y textura fotográfica." },
+    "3": { "title": "Carrusel panorámico continuo de cuatro tarjetas", "description": "Crea una única obra maestra y córtala después, sin perder perspectiva, luz, identidad ni continuidad en las uniones." },
+    "4": { "title": "Retrato de sillón con aire de maestros antiguos", "description": "Un retrato editorial sobrio de cuero gastado, yeso verde azulado, luz lateral y gradación cinematográfica profunda." },
+    "5": { "title": "Salir del editor de Unity", "description": "Convierte el visor del programa en una frontera física y usa una segunda edición para ampliar solo el cristal roto." },
+    "6": { "title": "Cartel turco de ciencia ficción independiente", "description": "Una prueba compacta de concepto, composición vertical y título localizado legible." },
+    "7": { "title": "Índice de criaturas de números primos", "description": "Asigna una criatura distinta a cada primo entre 2 y 47 para exigir precisión de cuadrícula, recuento y texto." }
+  },
+  "de-DE": {
+    "1": { "title": "Reportagefoto mit aktuellen Marktpreisen", "description": "Ein faktenbasiertes Editorialmotiv, das aktuelle lokale Preise recherchiert und als lesbare Marktschilder darstellt." },
+    "2": { "title": "Charaktertausch ohne Szenendrift", "description": "Ersetzt nur die Zielperson und bewahrt Einstellung, Kleidung, Pose, Verdeckungen, Licht und fotografische Textur." },
+    "3": { "title": "Nahtloses Panorama-Karussell aus vier Karten", "description": "Erst ein durchgehendes Mastermotiv erstellen, dann in vier Hochformate schneiden, ohne Perspektiv- oder Lichtbruch." },
+    "4": { "title": "Sesselporträt im Stil alter Meister", "description": "Ein ruhiges Editorialporträt aus abgenutztem Leder, blaugrünem Putz, Seitenlicht und dichter Kinogradierung." },
+    "5": { "title": "Aus dem Unity Editor heraustreten", "description": "Macht den Software-Viewport zur physischen Grenze und verstärkt im zweiten Edit ausschließlich den Glasbruch." },
+    "6": { "title": "Türkisches Independent-Sci-Fi-Poster", "description": "Ein kompakter Test für Konzept, Hochformat und gut lesbare lokalisierte Titelschrift." },
+    "7": { "title": "Primzahl-Kreaturenindex", "description": "Ordnet jeder Primzahl von 2 bis 47 ein eigenes Wesen zu und prüft Raster, Zählung und Textgenauigkeit." }
+  },
+  "fr-FR": {
+    "1": { "title": "Photo de presse avec prix du marché en temps réel", "description": "Un visuel éditorial factuel qui recherche les prix locaux et les affiche sur des étiquettes de marché lisibles." },
+    "2": { "title": "Transfert de personnage sans dérive de scène", "description": "Remplace uniquement le personnage ciblé en préservant plan, tenue, pose, occlusions, lumière et texture photo." },
+    "3": { "title": "Carrousel panoramique continu en quatre cartes", "description": "Crée un seul master continu puis découpe-le sans rompre perspective, lumière, identité ni raccords." },
+    "4": { "title": "Portrait en fauteuil inspiré des maîtres anciens", "description": "Un portrait éditorial retenu, fait de cuir patiné, plâtre bleu-vert, lumière latérale et étalonnage profond." },
+    "5": { "title": "Sortir de l'éditeur Unity", "description": "Transforme la fenêtre logicielle en frontière physique puis amplifie seulement l'effet de verre brisé." },
+    "6": { "title": "Affiche turque de science-fiction indépendante", "description": "Un test concis d'invention, de composition verticale et de titre localisé lisible." },
+    "7": { "title": "Index de créatures associées aux nombres premiers", "description": "Associe une créature distincte à chaque nombre premier de 2 à 47 pour tester grille, comptage et texte." }
+  }
+}

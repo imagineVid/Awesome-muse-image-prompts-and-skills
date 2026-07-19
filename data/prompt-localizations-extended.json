@@ -1,0 +1,65 @@
+{
+  "it-IT": {
+    "1": { "title": "Foto giornalistica con prezzi di mercato aggiornati", "description": "Un'immagine editoriale fondata sui fatti che ricerca prezzi locali e li rende come cartellini leggibili." },
+    "2": { "title": "Trasferimento del personaggio senza deriva della scena", "description": "Sostituisce solo il soggetto mantenendo inquadratura, abiti, posa, occlusioni, luce e texture fotografica." },
+    "3": { "title": "Carosello panoramico continuo in quattro schede", "description": "Crea un unico master e dividilo dopo, preservando prospettiva, luce, identità e continuità delle giunture." },
+    "4": { "title": "Ritratto in poltrona ispirato agli antichi maestri", "description": "Un ritratto sobrio con pelle consumata, intonaco verde petrolio, luce laterale e grading cinematografico." },
+    "5": { "title": "Uscire dall'editor di Unity", "description": "Trasforma il viewport in un confine fisico e usa un secondo edit per ampliare solo il vetro infranto." },
+    "6": { "title": "Poster turco di fantascienza indipendente", "description": "Test compatto di concept, composizione verticale e titolo localizzato leggibile." },
+    "7": { "title": "Indice di creature dei numeri primi", "description": "Associa una creatura unica a ogni numero primo da 2 a 47 per verificare griglia, conteggio e testo." }
+  },
+  "pt-PT": {
+    "1": { "title": "Fotografia noticiosa com preços atuais do mercado", "description": "Imagem editorial factual que pesquisa preços locais e os apresenta em etiquetas de banca legíveis." },
+    "2": { "title": "Transferência de personagem sem alterar a cena", "description": "Substitui apenas a personagem-alvo, preservando plano, roupa, pose, oclusões, luz e textura fotográfica." },
+    "3": { "title": "Carrossel panorâmico contínuo em quatro cartões", "description": "Cria um único master e só depois o divide, mantendo perspetiva, luz, identidade e continuidade." },
+    "4": { "title": "Retrato em poltrona inspirado nos mestres antigos", "description": "Retrato editorial contido com couro gasto, reboco azul-petróleo, luz lateral e gradação cinematográfica." },
+    "5": { "title": "Sair do editor Unity", "description": "Transforma a janela do software numa fronteira física e amplia apenas o vidro partido na segunda edição." },
+    "6": { "title": "Cartaz turco de ficção científica independente", "description": "Teste compacto de conceito, composição vertical e título localizado legível." },
+    "7": { "title": "Índice de criaturas dos números primos", "description": "Atribui uma criatura distinta a cada primo de 2 a 47 para testar grelha, contagem e texto." }
+  },
+  "tr-TR": {
+    "1": { "title": "Güncel pazar fiyatlı haber fotoğrafı", "description": "Yerel fiyatları araştırıp okunaklı tezgâh etiketleri olarak gösteren, gerçeğe dayalı editoryal görsel." },
+    "2": { "title": "Sahneyi bozmadan karakter aktarımı", "description": "Kadrajı, kostümü, pozu, örtüşmeleri, ışığı ve fotoğraf dokusunu koruyarak yalnızca hedef kişiyi değiştirir." },
+    "3": { "title": "Dört kartlık kesintisiz panorama", "description": "Tek bir kesintisiz ana görsel oluşturur; perspektif, ışık, kimlik ve dikişler korunarak dört karta böler." },
+    "4": { "title": "Eski ustalar esintili koltuk portresi", "description": "Yıpranmış deri, petrol mavisi sıva, yanal ışık ve yoğun sinema renkleriyle ölçülü bir portre." },
+    "5": { "title": "Unity Editor'dan dışarı adım atmak", "description": "Yazılım görünümünü fiziksel sınıra dönüştürür; ikinci düzenlemede yalnızca kırılan camı büyütür." },
+    "6": { "title": "Bağımsız Türk bilimkurgu afişi", "description": "Özgün fikir, dikey kompozisyon ve okunaklı Türkçe başlık için kısa bir test." },
+    "7": { "title": "Asal sayı yaratıkları dizini", "description": "2 ile 47 arasındaki her asal sayıya ayrı bir yaratık atayarak ızgara, sayım ve metin doğruluğunu sınar." }
+  },
+  "ar-SA": {
+    "1": { "title": "صورة صحفية بأسعار السوق الحالية", "description": "مشهد تحريري يستند إلى بحث الأسعار المحلية ويعرضها على بطاقات سوق واضحة." },
+    "2": { "title": "نقل الشخصية من دون انحراف المشهد", "description": "يستبدل الشخصية المستهدفة فقط مع الحفاظ على اللقطة والملابس والوضعية والحجب والإضاءة والملمس." },
+    "3": { "title": "بانوراما متصلة من أربع بطاقات", "description": "ينشئ لوحة رئيسية واحدة ثم يقسمها مع الحفاظ على المنظور والضوء والهوية وتطابق الوصلات." },
+    "4": { "title": "بورتريه كرسي بروح الأساتذة القدامى", "description": "صورة تحريرية هادئة بجلد معتق وجدار أزرق مخضر وإضاءة جانبية وتدرج سينمائي عميق." },
+    "5": { "title": "الخروج من محرر Unity", "description": "يحوّل نافذة البرنامج إلى حد مادي ثم يوسّع الزجاج المتشقق فقط في التعديل التالي." },
+    "6": { "title": "ملصق خيال علمي تركي مستقل", "description": "اختبار موجز لابتكار الفكرة والتكوين الرأسي ووضوح العنوان المحلي." },
+    "7": { "title": "فهرس مخلوقات الأعداد الأولية", "description": "يربط كل عدد أولي من 2 إلى 47 بمخلوق فريد لاختبار الشبكة والعد ودقة النص." }
+  },
+  "ru-RU": {
+    "1": { "title": "Новостная фотография с актуальными рыночными ценами", "description": "Фактологический кадр, который исследует местные цены и выводит их на читаемых ценниках." },
+    "2": { "title": "Перенос персонажа без дрейфа сцены", "description": "Меняет только нужного героя, сохраняя кадр, одежду, позу, перекрытия, свет и фототекстуру." },
+    "3": { "title": "Бесшовная панорама из четырех карточек", "description": "Сначала создаёт единый мастер, затем режет его на четыре части без разрыва перспективы и света." },
+    "4": { "title": "Портрет в кресле в духе старых мастеров", "description": "Сдержанный портрет с потертой кожей, сине-зелёной штукатуркой, боковым светом и плотным грейдом." },
+    "5": { "title": "Шаг из редактора Unity", "description": "Превращает окно программы в физическую границу и во втором проходе усиливает только разбитое стекло." },
+    "6": { "title": "Турецкий независимый научно-фантастический постер", "description": "Короткий тест идеи, вертикальной композиции и читаемого локализованного заголовка." },
+    "7": { "title": "Каталог существ по простым числам", "description": "Сопоставляет каждому простому числу от 2 до 47 уникальное существо, проверяя сетку, счёт и текст." }
+  },
+  "nl-NL": {
+    "1": { "title": "Nieuwsbeeld met actuele marktprijzen", "description": "Een feitelijk redactioneel beeld dat lokale prijzen onderzoekt en als leesbare marktbordjes toont." },
+    "2": { "title": "Karakteroverdracht zonder scènedrift", "description": "Vervangt alleen het doelpersonage en bewaart shot, kleding, pose, occlusies, licht en fototextuur." },
+    "3": { "title": "Naadloze panoramacarrousel van vier kaarten", "description": "Maakt één doorlopend masterbeeld en snijdt het daarna zonder breuken in perspectief, licht of identiteit." },
+    "4": { "title": "Fauteuilportret in de sfeer van oude meesters", "description": "Een ingetogen portret met versleten leer, blauwgroen pleisterwerk, zijlicht en diepe filmgrading." },
+    "5": { "title": "Uit de Unity Editor stappen", "description": "Maakt de softwareviewport tot een fysieke grens en vergroot in een tweede edit alleen het gebroken glas." },
+    "6": { "title": "Turkse onafhankelijke sciencefictionposter", "description": "Compacte test van concept, verticale compositie en leesbare gelokaliseerde titel." },
+    "7": { "title": "Index van priemgetalwezens", "description": "Koppelt elk priemgetal van 2 tot 47 aan een uniek wezen en test raster, telling en tekst." }
+  },
+  "pl-PL": {
+    "1": { "title": "Zdjęcie prasowe z aktualnymi cenami targowymi", "description": "Faktograficzny obraz redakcyjny, który bada ceny lokalne i pokazuje je na czytelnych etykietach." },
+    "2": { "title": "Przeniesienie postaci bez zmiany sceny", "description": "Zastępuje tylko wskazaną postać, zachowując kadr, strój, pozę, przesłonięcia, światło i fakturę zdjęcia." },
+    "3": { "title": "Bezszwowa panorama z czterech kart", "description": "Najpierw tworzy jeden master, a potem dzieli go bez utraty perspektywy, światła, tożsamości i ciągłości." },
+    "4": { "title": "Portret w fotelu w duchu dawnych mistrzów", "description": "Powściągliwy portret z wytartą skórą, turkusowym tynkiem, bocznym światłem i głębokim gradingiem." },
+    "5": { "title": "Wyjście z edytora Unity", "description": "Zmienia okno programu w fizyczną granicę, a w drugim kroku wzmacnia wyłącznie efekt tłuczonego szkła." },
+    "6": { "title": "Turecki niezależny plakat science fiction", "description": "Zwięzły test pomysłu, pionowej kompozycji i czytelnego lokalnego tytułu." },
+    "7": { "title": "Indeks stworzeń liczb pierwszych", "description": "Przypisuje unikalne stworzenie każdej liczbie pierwszej od 2 do 47, testując siatkę, liczenie i tekst." }
+  }
+}
