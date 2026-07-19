@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | 총 프롬프트 | **7** |
 | 추천 | **3** |
-| 마지막 업데이트 | **2026년 7월 19일 일요일 오후 4시 53분 12초 UTC** |
+| 마지막 업데이트 | **2026년 7월 19일 일요일 오후 8시 40분 56초 UTC** |
 
 </div>
 
@@ -762,6 +762,6 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 **[프롬프트 제출](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[저장소에 Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-19T16:53:12.938Z</sub>
+<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-19T20:40:56.024Z</sub>
 
 </div>
