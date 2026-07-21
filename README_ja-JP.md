@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | プロンプト総数 | **8** |
 | 注目 | **3** |
-| 最終更新 | **2026年7月21日火曜日 13:46:56 UTC** |
+| 最終更新 | **2026年7月21日火曜日 13:49:35 UTC** |
 
 </div>
 
@@ -798,6 +798,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[プロンプトを投稿](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-07-21T13:46:56.706Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-07-21T13:49:35.959Z</sub>
 
 </div>
