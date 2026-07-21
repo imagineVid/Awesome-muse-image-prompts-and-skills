@@ -194,5 +194,33 @@
       "viewCount": 1090,
       "collected_at": "2026-07-19"
     }
+  },
+  {
+    "id": 8,
+    "model": "muse-image",
+    "title": { "en": "Golden-Hour Hausa Luxury Portrait" },
+    "description": { "en": "A reference-led editorial portrait that locks facial identity while coordinating traditional clothing, modern architecture, automotive styling, and natural golden-hour light." },
+    "content": { "en": "Use the uploaded photo as the facial identity reference. Preserve the person's facial structure, skin tone, hairstyle, eyebrows, eyes, nose, lips, ears, age, proportions, and natural expression with maximum accuracy. Create a premium, ultra-realistic full-body portrait of the subject standing confidently outside a modern luxury home during golden hour. Dress him in a light-grey traditional Hausa kaftan made from high-quality fabric, with long sleeves, matching tailored trousers, subtle chest embroidery, a patterned Hausa cap, and slim transparent eyeglasses. He stands naturally with one hand in his pocket, looking slightly downward with a calm, thoughtful expression. Behind him, show a dark-grey contemporary mansion with large glass windows, warm wall lights, ornamental palms in black planters, and part of a glossy black luxury sedan. Use interlocking grey-and-black driveway stones, soft golden sunlight, realistic shadows, shallow depth of field, natural skin texture, crisp fabric folds, restrained HDR, and premium lifestyle-magazine composition. Full-frame camera, 85mm lens, f/2, ISO 100, eye-level vertical 4:5 framing. No facial drift, body distortion, extra limbs, text, watermark, or artificial beauty retouching." },
+    "sourceLink": "https://x.com/abs_uiux/status/2076737842399633676",
+    "sourcePublishedAt": "2026-07-13T18:37:40.000Z",
+    "sourceMedia": ["https://pbs.twimg.com/media/HNIODWPWgAA2E9X.jpg"],
+    "author": { "name": "ABS", "link": "https://x.com/abs_uiux" },
+    "language": "en",
+    "featured": false,
+    "sort": 8,
+    "needReferenceImages": true,
+    "imageCategories": { "workflows": [{ "id": 62, "title": "Precision Editing & Scene Preservation", "slug": "precision-editing-scene-preservation" }] },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076737842399633676",
+      "prompt_source": "thread_reply_prompt_normalized",
+      "prompt_tweet_id": "2076737874037289100",
+      "model_evidence": "muse-image",
+      "likeCount": 35,
+      "bookmarkCount": 21,
+      "viewCount": 5187,
+      "collected_at": "2026-07-19",
+      "curation_note": "Recovered from the creator's thread reply; promotional filler was removed while identity, wardrobe, environment, camera, and negative constraints were preserved."
+    }
   }
 ]

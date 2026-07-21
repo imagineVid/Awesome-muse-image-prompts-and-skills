@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | 項目 | 数 |
 |--------|-------|
-| プロンプト総数 | **7** |
+| プロンプト総数 | **8** |
 | 注目 | **3** |
-| 最終更新 | **2026年7月21日火曜日 13:28:21 UTC** |
+| 最終更新 | **2026年7月21日火曜日 13:46:56 UTC** |
 
 </div>
 
@@ -531,7 +531,7 @@ QUALITY CONTROL: reconstruct Cards 01–04 edge-to-edge with zero spacing. Inspe
 
 <a id="workflow-precision-editing-scene-preservation"></a>
 
-### 精密編集とシーン保持 (1)
+### 精密編集とシーン保持 (2)
 
 構図、照明、同一性、対象外の細部を守りながら指定箇所だけを変更する編集。
 
@@ -574,6 +574,42 @@ Refinement: enlarge the shattered-glass effect around the point where I cross th
 
 ---
 
+<a id="prompt-8"></a>
+
+#### No. 2: ゴールデンアワーのハウサ式ラグジュアリーポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### 説明
+
+顔の同一性を厳密に保ちながら、伝統衣装、現代建築、高級車、自然な夕景光を一つの編集写真にまとめます。
+
+##### 原文プロンプト（英語）
+
+```
+Use the uploaded photo as the facial identity reference. Preserve the person's facial structure, skin tone, hairstyle, eyebrows, eyes, nose, lips, ears, age, proportions, and natural expression with maximum accuracy. Create a premium, ultra-realistic full-body portrait of the subject standing confidently outside a modern luxury home during golden hour. Dress him in a light-grey traditional Hausa kaftan made from high-quality fabric, with long sleeves, matching tailored trousers, subtle chest embroidery, a patterned Hausa cap, and slim transparent eyeglasses. He stands naturally with one hand in his pocket, looking slightly downward with a calm, thoughtful expression. Behind him, show a dark-grey contemporary mansion with large glass windows, warm wall lights, ornamental palms in black planters, and part of a glossy black luxury sedan. Use interlocking grey-and-black driveway stones, soft golden sunlight, realistic shadows, shallow depth of field, natural skin texture, crisp fabric folds, restrained HDR, and premium lifestyle-magazine composition. Full-frame camera, 85mm lens, f/2, ISO 100, eye-level vertical 4:5 framing. No facial drift, body distortion, extra limbs, text, watermark, or artificial beauty retouching.
+```
+
+##### 出典画像
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNIODWPWgAA2E9X.jpg" width="100%" alt="ゴールデンアワーのハウサ式ラグジュアリーポートレート - Image 1"></td>
+</tr>
+</table>
+
+##### 詳細
+
+- **作者:** [ABS](https://x.com/abs_uiux)
+- **出典:** [出典](https://x.com/abs_uiux/status/2076737842399633676)
+- **公開日:** 2026年7月13日
+- **言語:** en
+
+**[このプロンプトを使う · ImagineVid](https://imaginevid.io/ja/ai-image-generator)**
+
+---
+
 <a id="workflow-multi-reference-composition-identity"></a>
 
 ### 複数参照合成と同一性 (1)
@@ -592,7 +628,7 @@ Refinement: enlarge the shattered-glass effect around the point where I cross th
 
 <a id="prompt-6"></a>
 
-#### No. 2: トルコのインディーSF映画ポスター
+#### No. 3: トルコのインディーSF映画ポスター
 
 ![Language-TR](https://img.shields.io/badge/Language-TR-blue)
 
@@ -627,7 +663,7 @@ Design a vertical poster for an independent science-fiction film set in Türkiye
 
 <a id="prompt-7"></a>
 
-#### No. 3: 素数クリーチャー図鑑
+#### No. 4: 素数クリーチャー図鑑
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -678,7 +714,7 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-4"></a>
 
-#### No. 4: 古典絵画風のウィングバックチェア肖像
+#### No. 5: 古典絵画風のウィングバックチェア肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -740,9 +776,9 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 ## 謝辞
 
 <details>
-<summary>コミュニティ作者への謝辞 (6)</summary>
+<summary>コミュニティ作者への謝辞 (7)</summary>
 
-[Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -762,6 +798,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[プロンプトを投稿](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-07-21T13:28:21.145Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-07-21T13:46:56.706Z</sub>
 
 </div>

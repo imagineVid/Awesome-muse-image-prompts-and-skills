@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | 항목 | 수량 |
 |--------|-------|
-| 총 프롬프트 | **7** |
+| 총 프롬프트 | **8** |
 | 추천 | **3** |
-| 마지막 업데이트 | **2026년 7월 21일 화요일 오후 1시 28분 21초 UTC** |
+| 마지막 업데이트 | **2026년 7월 21일 화요일 PM 1시 46분 56초 UTC** |
 
 </div>
 
@@ -531,7 +531,7 @@ QUALITY CONTROL: reconstruct Cards 01–04 edge-to-edge with zero spacing. Inspe
 
 <a id="workflow-precision-editing-scene-preservation"></a>
 
-### 정밀 편집 및 장면 보존 (1)
+### 정밀 편집 및 장면 보존 (2)
 
 구도, 조명, 정체성, 주변 세부를 유지하면서 목표만 바꾸는 국소 편집입니다.
 
@@ -574,6 +574,42 @@ Refinement: enlarge the shattered-glass effect around the point where I cross th
 
 ---
 
+<a id="prompt-8"></a>
+
+#### No. 2: 골든아워 하우사 럭셔리 초상
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### 설명
+
+얼굴 정체성을 엄격히 유지하면서 전통 의상, 현대 건축, 고급 자동차와 자연스러운 황금빛 조명을 조율합니다.
+
+##### 원문 프롬프트(영어)
+
+```
+Use the uploaded photo as the facial identity reference. Preserve the person's facial structure, skin tone, hairstyle, eyebrows, eyes, nose, lips, ears, age, proportions, and natural expression with maximum accuracy. Create a premium, ultra-realistic full-body portrait of the subject standing confidently outside a modern luxury home during golden hour. Dress him in a light-grey traditional Hausa kaftan made from high-quality fabric, with long sleeves, matching tailored trousers, subtle chest embroidery, a patterned Hausa cap, and slim transparent eyeglasses. He stands naturally with one hand in his pocket, looking slightly downward with a calm, thoughtful expression. Behind him, show a dark-grey contemporary mansion with large glass windows, warm wall lights, ornamental palms in black planters, and part of a glossy black luxury sedan. Use interlocking grey-and-black driveway stones, soft golden sunlight, realistic shadows, shallow depth of field, natural skin texture, crisp fabric folds, restrained HDR, and premium lifestyle-magazine composition. Full-frame camera, 85mm lens, f/2, ISO 100, eye-level vertical 4:5 framing. No facial drift, body distortion, extra limbs, text, watermark, or artificial beauty retouching.
+```
+
+##### 출처 이미지
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNIODWPWgAA2E9X.jpg" width="100%" alt="골든아워 하우사 럭셔리 초상 - Image 1"></td>
+</tr>
+</table>
+
+##### 세부 정보
+
+- **작성자:** [ABS](https://x.com/abs_uiux)
+- **출처:** [출처](https://x.com/abs_uiux/status/2076737842399633676)
+- **게시일:** 2026년 7월 13일
+- **언어:** en
+
+**[이 프롬프트 사용 · ImagineVid](https://imaginevid.io/ko/ai-image-generator)**
+
+---
+
 <a id="workflow-multi-reference-composition-identity"></a>
 
 ### 다중 참조 합성 및 정체성 (1)
@@ -592,7 +628,7 @@ Refinement: enlarge the shattered-glass effect around the point where I cross th
 
 <a id="prompt-6"></a>
 
-#### No. 2: 튀르키예 독립 SF 영화 포스터
+#### No. 3: 튀르키예 독립 SF 영화 포스터
 
 ![Language-TR](https://img.shields.io/badge/Language-TR-blue)
 
@@ -627,7 +663,7 @@ Design a vertical poster for an independent science-fiction film set in Türkiye
 
 <a id="prompt-7"></a>
 
-#### No. 3: 소수 생물 도감
+#### No. 4: 소수 생물 도감
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -678,7 +714,7 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-4"></a>
 
-#### No. 4: 고전 회화풍 윙백 체어 초상
+#### No. 5: 고전 회화풍 윙백 체어 초상
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -740,9 +776,9 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 ## 감사의 말
 
 <details>
-<summary>커뮤니티 제작자 감사 명단 (6)</summary>
+<summary>커뮤니티 제작자 감사 명단 (7)</summary>
 
-[Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -762,6 +798,6 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 **[프롬프트 제출](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[저장소에 Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-21T13:28:21.150Z</sub>
+<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-21T13:46:56.708Z</sub>
 
 </div>

@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **7** |
+| 提示词总数 | **8** |
 | 精选 | **3** |
-| 最后更新 | **2026年7月21日星期二 UTC 13:28:21** |
+| 最后更新 | **2026年7月21日星期二 UTC 13:46:56** |
 
 </div>
 
@@ -531,7 +531,7 @@ QUALITY CONTROL: reconstruct Cards 01–04 edge-to-edge with zero spacing. Inspe
 
 <a id="workflow-precision-editing-scene-preservation"></a>
 
-### 精准编辑与场景保留 (1)
+### 精准编辑与场景保留 (2)
 
 只修改目标区域，同时保护构图、光线、身份与未受影响场景细节。
 
@@ -574,6 +574,42 @@ Refinement: enlarge the shattered-glass effect around the point where I cross th
 
 ---
 
+<a id="prompt-8"></a>
+
+#### No. 2: 黄金时刻豪萨奢华肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### 说明
+
+在严格保留面部身份的同时，协调传统服饰、现代建筑、豪华汽车与自然黄金时刻光线。
+
+##### 原始提示词（英文）
+
+```
+Use the uploaded photo as the facial identity reference. Preserve the person's facial structure, skin tone, hairstyle, eyebrows, eyes, nose, lips, ears, age, proportions, and natural expression with maximum accuracy. Create a premium, ultra-realistic full-body portrait of the subject standing confidently outside a modern luxury home during golden hour. Dress him in a light-grey traditional Hausa kaftan made from high-quality fabric, with long sleeves, matching tailored trousers, subtle chest embroidery, a patterned Hausa cap, and slim transparent eyeglasses. He stands naturally with one hand in his pocket, looking slightly downward with a calm, thoughtful expression. Behind him, show a dark-grey contemporary mansion with large glass windows, warm wall lights, ornamental palms in black planters, and part of a glossy black luxury sedan. Use interlocking grey-and-black driveway stones, soft golden sunlight, realistic shadows, shallow depth of field, natural skin texture, crisp fabric folds, restrained HDR, and premium lifestyle-magazine composition. Full-frame camera, 85mm lens, f/2, ISO 100, eye-level vertical 4:5 framing. No facial drift, body distortion, extra limbs, text, watermark, or artificial beauty retouching.
+```
+
+##### 来源结果
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNIODWPWgAA2E9X.jpg" width="100%" alt="黄金时刻豪萨奢华肖像 - Image 1"></td>
+</tr>
+</table>
+
+##### 详情
+
+- **作者:** [ABS](https://x.com/abs_uiux)
+- **来源:** [来源](https://x.com/abs_uiux/status/2076737842399633676)
+- **发布时间:** 2026年7月13日
+- **语言:** en
+
+**[使用这个提示词 · ImagineVid](https://imaginevid.io/zh/ai-image-generator)**
+
+---
+
 <a id="workflow-multi-reference-composition-identity"></a>
 
 ### 多参考合成与身份一致性 (1)
@@ -592,7 +628,7 @@ Refinement: enlarge the shattered-glass effect around the point where I cross th
 
 <a id="prompt-6"></a>
 
-#### No. 2: 土耳其独立科幻电影海报
+#### No. 3: 土耳其独立科幻电影海报
 
 ![Language-TR](https://img.shields.io/badge/Language-TR-blue)
 
@@ -627,7 +663,7 @@ Design a vertical poster for an independent science-fiction film set in Türkiye
 
 <a id="prompt-7"></a>
 
-#### No. 3: 质数生物图鉴
+#### No. 4: 质数生物图鉴
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -678,7 +714,7 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-4"></a>
 
-#### No. 4: 古典大师风扶手椅肖像
+#### No. 5: 古典大师风扶手椅肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -740,9 +776,9 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 ## 致谢
 
 <details>
-<summary>查看并感谢社区作者 (6)</summary>
+<summary>查看并感谢社区作者 (7)</summary>
 
-[Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -762,6 +798,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[提交提示词](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>本 README 自动生成。最后更新： 2026-07-21T13:28:21.141Z</sub>
+<sub>本 README 自动生成。最后更新： 2026-07-21T13:46:56.703Z</sub>
 
 </div>

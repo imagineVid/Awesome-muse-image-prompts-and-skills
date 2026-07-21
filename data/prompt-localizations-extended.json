@@ -6,7 +6,8 @@
     "4": { "title": "Ritratto in poltrona ispirato agli antichi maestri", "description": "Un ritratto sobrio con pelle consumata, intonaco verde petrolio, luce laterale e grading cinematografico." },
     "5": { "title": "Uscire dall'editor di Unity", "description": "Trasforma il viewport in un confine fisico e usa un secondo edit per ampliare solo il vetro infranto." },
     "6": { "title": "Poster turco di fantascienza indipendente", "description": "Test compatto di concept, composizione verticale e titolo localizzato leggibile." },
-    "7": { "title": "Indice di creature dei numeri primi", "description": "Associa una creatura unica a ogni numero primo da 2 a 47 per verificare griglia, conteggio e testo." }
+    "7": { "title": "Indice di creature dei numeri primi", "description": "Associa una creatura unica a ogni numero primo da 2 a 47 per verificare griglia, conteggio e testo." },
+    "8": { "title": "Ritratto di lusso hausa all'ora d'oro", "description": "Mantiene con precisione l'identità del volto e coordina abito tradizionale, architettura moderna, auto di lusso e luce naturale dorata." }
   },
   "pt-PT": {
     "1": { "title": "Fotografia noticiosa com preços atuais do mercado", "description": "Imagem editorial factual que pesquisa preços locais e os apresenta em etiquetas de banca legíveis." },
@@ -15,7 +16,8 @@
     "4": { "title": "Retrato em poltrona inspirado nos mestres antigos", "description": "Retrato editorial contido com couro gasto, reboco azul-petróleo, luz lateral e gradação cinematográfica." },
     "5": { "title": "Sair do editor Unity", "description": "Transforma a janela do software numa fronteira física e amplia apenas o vidro partido na segunda edição." },
     "6": { "title": "Cartaz turco de ficção científica independente", "description": "Teste compacto de conceito, composição vertical e título localizado legível." },
-    "7": { "title": "Índice de criaturas dos números primos", "description": "Atribui uma criatura distinta a cada primo de 2 a 47 para testar grelha, contagem e texto." }
+    "7": { "title": "Índice de criaturas dos números primos", "description": "Atribui uma criatura distinta a cada primo de 2 a 47 para testar grelha, contagem e texto." },
+    "8": { "title": "Retrato de luxo hausa na hora dourada", "description": "Preserva com rigor a identidade facial e articula traje tradicional, arquitetura moderna, automóvel de luxo e luz dourada natural." }
   },
   "tr-TR": {
     "1": { "title": "Güncel pazar fiyatlı haber fotoğrafı", "description": "Yerel fiyatları araştırıp okunaklı tezgâh etiketleri olarak gösteren, gerçeğe dayalı editoryal görsel." },
@@ -24,7 +26,8 @@
     "4": { "title": "Eski ustalar esintili koltuk portresi", "description": "Yıpranmış deri, petrol mavisi sıva, yanal ışık ve yoğun sinema renkleriyle ölçülü bir portre." },
     "5": { "title": "Unity Editor'dan dışarı adım atmak", "description": "Yazılım görünümünü fiziksel sınıra dönüştürür; ikinci düzenlemede yalnızca kırılan camı büyütür." },
     "6": { "title": "Bağımsız Türk bilimkurgu afişi", "description": "Özgün fikir, dikey kompozisyon ve okunaklı Türkçe başlık için kısa bir test." },
-    "7": { "title": "Asal sayı yaratıkları dizini", "description": "2 ile 47 arasındaki her asal sayıya ayrı bir yaratık atayarak ızgara, sayım ve metin doğruluğunu sınar." }
+    "7": { "title": "Asal sayı yaratıkları dizini", "description": "2 ile 47 arasındaki her asal sayıya ayrı bir yaratık atayarak ızgara, sayım ve metin doğruluğunu sınar." },
+    "8": { "title": "Altın saatte lüks Hausa portresi", "description": "Yüz kimliğini eksiksiz korurken geleneksel kıyafeti, modern mimariyi, lüks otomobili ve doğal altın saat ışığını dengeler." }
   },
   "ar-SA": {
     "1": { "title": "صورة صحفية بأسعار السوق الحالية", "description": "مشهد تحريري يستند إلى بحث الأسعار المحلية ويعرضها على بطاقات سوق واضحة." },
@@ -33,7 +36,8 @@
     "4": { "title": "بورتريه كرسي بروح الأساتذة القدامى", "description": "صورة تحريرية هادئة بجلد معتق وجدار أزرق مخضر وإضاءة جانبية وتدرج سينمائي عميق." },
     "5": { "title": "الخروج من محرر Unity", "description": "يحوّل نافذة البرنامج إلى حد مادي ثم يوسّع الزجاج المتشقق فقط في التعديل التالي." },
     "6": { "title": "ملصق خيال علمي تركي مستقل", "description": "اختبار موجز لابتكار الفكرة والتكوين الرأسي ووضوح العنوان المحلي." },
-    "7": { "title": "فهرس مخلوقات الأعداد الأولية", "description": "يربط كل عدد أولي من 2 إلى 47 بمخلوق فريد لاختبار الشبكة والعد ودقة النص." }
+    "7": { "title": "فهرس مخلوقات الأعداد الأولية", "description": "يربط كل عدد أولي من 2 إلى 47 بمخلوق فريد لاختبار الشبكة والعد ودقة النص." },
+    "8": { "title": "بورتريه هوسا فاخر في الساعة الذهبية", "description": "يحافظ بدقة على هوية الوجه ويجمع الزي التقليدي والعمارة الحديثة والسيارة الفاخرة وإضاءة الغروب الطبيعية." }
   },
   "ru-RU": {
     "1": { "title": "Новостная фотография с актуальными рыночными ценами", "description": "Фактологический кадр, который исследует местные цены и выводит их на читаемых ценниках." },
@@ -42,7 +46,8 @@
     "4": { "title": "Портрет в кресле в духе старых мастеров", "description": "Сдержанный портрет с потертой кожей, сине-зелёной штукатуркой, боковым светом и плотным грейдом." },
     "5": { "title": "Шаг из редактора Unity", "description": "Превращает окно программы в физическую границу и во втором проходе усиливает только разбитое стекло." },
     "6": { "title": "Турецкий независимый научно-фантастический постер", "description": "Короткий тест идеи, вертикальной композиции и читаемого локализованного заголовка." },
-    "7": { "title": "Каталог существ по простым числам", "description": "Сопоставляет каждому простому числу от 2 до 47 уникальное существо, проверяя сетку, счёт и текст." }
+    "7": { "title": "Каталог существ по простым числам", "description": "Сопоставляет каждому простому числу от 2 до 47 уникальное существо, проверяя сетку, счёт и текст." },
+    "8": { "title": "Роскошный портрет хауса в золотой час", "description": "Точно сохраняет черты лица и объединяет традиционный костюм, современную архитектуру, премиальный автомобиль и естественный вечерний свет." }
   },
   "nl-NL": {
     "1": { "title": "Nieuwsbeeld met actuele marktprijzen", "description": "Een feitelijk redactioneel beeld dat lokale prijzen onderzoekt en als leesbare marktbordjes toont." },
@@ -51,7 +56,8 @@
     "4": { "title": "Fauteuilportret in de sfeer van oude meesters", "description": "Een ingetogen portret met versleten leer, blauwgroen pleisterwerk, zijlicht en diepe filmgrading." },
     "5": { "title": "Uit de Unity Editor stappen", "description": "Maakt de softwareviewport tot een fysieke grens en vergroot in een tweede edit alleen het gebroken glas." },
     "6": { "title": "Turkse onafhankelijke sciencefictionposter", "description": "Compacte test van concept, verticale compositie en leesbare gelokaliseerde titel." },
-    "7": { "title": "Index van priemgetalwezens", "description": "Koppelt elk priemgetal van 2 tot 47 aan een uniek wezen en test raster, telling en tekst." }
+    "7": { "title": "Index van priemgetalwezens", "description": "Koppelt elk priemgetal van 2 tot 47 aan een uniek wezen en test raster, telling en tekst." },
+    "8": { "title": "Luxe Hausa-portret tijdens het gouden uur", "description": "Bewaart de gezichtsidentiteit nauwkeurig en stemt traditionele kleding, moderne architectuur, een luxeauto en natuurlijk avondlicht op elkaar af." }
   },
   "pl-PL": {
     "1": { "title": "Zdjęcie prasowe z aktualnymi cenami targowymi", "description": "Faktograficzny obraz redakcyjny, który bada ceny lokalne i pokazuje je na czytelnych etykietach." },
@@ -60,6 +66,7 @@
     "4": { "title": "Portret w fotelu w duchu dawnych mistrzów", "description": "Powściągliwy portret z wytartą skórą, turkusowym tynkiem, bocznym światłem i głębokim gradingiem." },
     "5": { "title": "Wyjście z edytora Unity", "description": "Zmienia okno programu w fizyczną granicę, a w drugim kroku wzmacnia wyłącznie efekt tłuczonego szkła." },
     "6": { "title": "Turecki niezależny plakat science fiction", "description": "Zwięzły test pomysłu, pionowej kompozycji i czytelnego lokalnego tytułu." },
-    "7": { "title": "Indeks stworzeń liczb pierwszych", "description": "Przypisuje unikalne stworzenie każdej liczbie pierwszej od 2 do 47, testując siatkę, liczenie i tekst." }
+    "7": { "title": "Indeks stworzeń liczb pierwszych", "description": "Przypisuje unikalne stworzenie każdej liczbie pierwszej od 2 do 47, testując siatkę, liczenie i tekst." },
+    "8": { "title": "Luksusowy portret Hausa w złotej godzinie", "description": "Dokładnie zachowuje tożsamość twarzy, łącząc tradycyjny strój, nowoczesną architekturę, luksusowe auto i naturalne złote światło." }
   }
 }

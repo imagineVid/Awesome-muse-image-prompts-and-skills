@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Métrica | Cantidad |
 |--------|-------|
-| Prompts totales | **7** |
+| Prompts totales | **8** |
 | Destacado | **3** |
-| Última actualización | **martes, 21 de julio de 2026, 13:28:21 UTC** |
+| Última actualización | **martes, 21 de julio de 2026, 13:46:56 UTC** |
 
 </div>
 
@@ -531,7 +531,7 @@ Prompts de investigación que incorporan datos actuales, cálculos o estructuras
 
 <a id="workflow-precision-editing-scene-preservation"></a>
 
-### Edición precisa y preservación de escena (1)
+### Edición precisa y preservación de escena (2)
 
 Ediciones locales que cambian el objetivo y protegen composición, luz, identidad y detalles no afectados.
 
@@ -574,6 +574,42 @@ Refinement: enlarge the shattered-glass effect around the point where I cross th
 
 ---
 
+<a id="prompt-8"></a>
+
+#### No. 2: Retrato de lujo hausa en la hora dorada
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Descripción
+
+Conserva con rigor la identidad facial mientras coordina indumentaria tradicional, arquitectura moderna, automóvil de lujo y luz natural dorada.
+
+##### Prompt original (en inglés)
+
+```
+Use the uploaded photo as the facial identity reference. Preserve the person's facial structure, skin tone, hairstyle, eyebrows, eyes, nose, lips, ears, age, proportions, and natural expression with maximum accuracy. Create a premium, ultra-realistic full-body portrait of the subject standing confidently outside a modern luxury home during golden hour. Dress him in a light-grey traditional Hausa kaftan made from high-quality fabric, with long sleeves, matching tailored trousers, subtle chest embroidery, a patterned Hausa cap, and slim transparent eyeglasses. He stands naturally with one hand in his pocket, looking slightly downward with a calm, thoughtful expression. Behind him, show a dark-grey contemporary mansion with large glass windows, warm wall lights, ornamental palms in black planters, and part of a glossy black luxury sedan. Use interlocking grey-and-black driveway stones, soft golden sunlight, realistic shadows, shallow depth of field, natural skin texture, crisp fabric folds, restrained HDR, and premium lifestyle-magazine composition. Full-frame camera, 85mm lens, f/2, ISO 100, eye-level vertical 4:5 framing. No facial drift, body distortion, extra limbs, text, watermark, or artificial beauty retouching.
+```
+
+##### Resultados de la fuente
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNIODWPWgAA2E9X.jpg" width="100%" alt="Retrato de lujo hausa en la hora dorada - Image 1"></td>
+</tr>
+</table>
+
+##### Detalles
+
+- **Autor:** [ABS](https://x.com/abs_uiux)
+- **Fuente:** [Fuente](https://x.com/abs_uiux/status/2076737842399633676)
+- **Publicado:** 13 de julio de 2026
+- **Idiomas:** en
+
+**[Usar este prompt · ImagineVid](https://imaginevid.io/es/ai-image-generator)**
+
+---
+
 <a id="workflow-multi-reference-composition-identity"></a>
 
 ### Composición multirreferencia e identidad (1)
@@ -592,7 +628,7 @@ Visuales diseñados donde importan la tipografía legible, la jerarquía, el esp
 
 <a id="prompt-6"></a>
 
-#### No. 2: Cartel turco de ciencia ficción independiente
+#### No. 3: Cartel turco de ciencia ficción independiente
 
 ![Language-TR](https://img.shields.io/badge/Language-TR-blue)
 
@@ -627,7 +663,7 @@ Design a vertical poster for an independent science-fiction film set in Türkiye
 
 <a id="prompt-7"></a>
 
-#### No. 3: Índice de criaturas de números primos
+#### No. 4: Índice de criaturas de números primos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -678,7 +714,7 @@ Prompts de retrato y dirección artística guiados por semejanza, textura, luz y
 
 <a id="prompt-4"></a>
 
-#### No. 4: Retrato de sillón con aire de maestros antiguos
+#### No. 5: Retrato de sillón con aire de maestros antiguos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -740,9 +776,9 @@ Publicado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 ## Agradecimientos
 
 <details>
-<summary>Autores de la comunidad (6)</summary>
+<summary>Autores de la comunidad (7)</summary>
 
-[Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -762,6 +798,6 @@ Publicado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Enviar un prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dar star al repo](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Este README se genera automáticamente. Última actualización: 2026-07-21T13:28:21.153Z</sub>
+<sub>Este README se genera automáticamente. Última actualización: 2026-07-21T13:46:56.710Z</sub>
 
 </div>

@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Показатель | Количество |
 |--------|-------|
-| Всего промптов | **7** |
+| Всего промптов | **8** |
 | Избранное | **3** |
-| Обновлено | **вторник, 21 июля 2026 г. в 13:28:21 UTC** |
+| Обновлено | **вторник, 21 июля 2026 г. в 13:46:56 UTC** |
 
 </div>
 
@@ -531,7 +531,7 @@ QUALITY CONTROL: reconstruct Cards 01–04 edge-to-edge with zero spacing. Inspe
 
 <a id="workflow-precision-editing-scene-preservation"></a>
 
-### Точное редактирование и сохранение сцены (1)
+### Точное редактирование и сохранение сцены (2)
 
 Локальные правки цели с сохранением композиции, света, идентичности и остальных деталей сцены.
 
@@ -574,6 +574,42 @@ Refinement: enlarge the shattered-glass effect around the point where I cross th
 
 ---
 
+<a id="prompt-8"></a>
+
+#### No. 2: Роскошный портрет хауса в золотой час
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Описание
+
+Точно сохраняет черты лица и объединяет традиционный костюм, современную архитектуру, премиальный автомобиль и естественный вечерний свет.
+
+##### Оригинальный промпт (на английском)
+
+```
+Use the uploaded photo as the facial identity reference. Preserve the person's facial structure, skin tone, hairstyle, eyebrows, eyes, nose, lips, ears, age, proportions, and natural expression with maximum accuracy. Create a premium, ultra-realistic full-body portrait of the subject standing confidently outside a modern luxury home during golden hour. Dress him in a light-grey traditional Hausa kaftan made from high-quality fabric, with long sleeves, matching tailored trousers, subtle chest embroidery, a patterned Hausa cap, and slim transparent eyeglasses. He stands naturally with one hand in his pocket, looking slightly downward with a calm, thoughtful expression. Behind him, show a dark-grey contemporary mansion with large glass windows, warm wall lights, ornamental palms in black planters, and part of a glossy black luxury sedan. Use interlocking grey-and-black driveway stones, soft golden sunlight, realistic shadows, shallow depth of field, natural skin texture, crisp fabric folds, restrained HDR, and premium lifestyle-magazine composition. Full-frame camera, 85mm lens, f/2, ISO 100, eye-level vertical 4:5 framing. No facial drift, body distortion, extra limbs, text, watermark, or artificial beauty retouching.
+```
+
+##### Результаты из источника
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNIODWPWgAA2E9X.jpg" width="100%" alt="Роскошный портрет хауса в золотой час - Image 1"></td>
+</tr>
+</table>
+
+##### Детали
+
+- **Автор:** [ABS](https://x.com/abs_uiux)
+- **Источник:** [Источник](https://x.com/abs_uiux/status/2076737842399633676)
+- **Опубликовано:** 13 июля 2026 г.
+- **Языки:** en
+
+**[Использовать промпт · ImagineVid](https://imaginevid.io/ru/ai-image-generator)**
+
+---
+
 <a id="workflow-multi-reference-composition-identity"></a>
 
 ### Композиция по нескольким референсам и идентичность (1)
@@ -592,7 +628,7 @@ Refinement: enlarge the shattered-glass effect around the point where I cross th
 
 <a id="prompt-6"></a>
 
-#### No. 2: Турецкий независимый научно-фантастический постер
+#### No. 3: Турецкий независимый научно-фантастический постер
 
 ![Language-TR](https://img.shields.io/badge/Language-TR-blue)
 
@@ -627,7 +663,7 @@ Design a vertical poster for an independent science-fiction film set in Türkiye
 
 <a id="prompt-7"></a>
 
-#### No. 3: Каталог существ по простым числам
+#### No. 4: Каталог существ по простым числам
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -678,7 +714,7 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-4"></a>
 
-#### No. 4: Портрет в кресле в духе старых мастеров
+#### No. 5: Портрет в кресле в духе старых мастеров
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -740,9 +776,9 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 ## Благодарности
 
 <details>
-<summary>Авторы сообщества (6)</summary>
+<summary>Авторы сообщества (7)</summary>
 
-[Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -762,6 +798,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[Отправить промпт](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Этот README создан автоматически. Последнее обновление: 2026-07-21T13:28:21.174Z</sub>
+<sub>Этот README создан автоматически. Последнее обновление: 2026-07-21T13:46:56.722Z</sub>
 
 </div>
