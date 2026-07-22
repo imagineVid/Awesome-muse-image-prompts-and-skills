@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | 項目 | 数 |
 |--------|-------|
-| プロンプト総数 | **8** |
+| プロンプト総数 | **9** |
 | 注目 | **3** |
-| 最終更新 | **2026年7月22日水曜日 13:40:27 UTC** |
+| 最終更新 | **2026年7月22日水曜日 14:40:28 UTC** |
 
 </div>
 
@@ -622,7 +622,7 @@ Use the uploaded photo as the facial identity reference. Preserve the person's f
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### タイポグラフィ、ポスター、構造化レイアウト (2)
+### タイポグラフィ、ポスター、構造化レイアウト (3)
 
 読みやすい文字、階層、余白、再利用できるレイアウト規則が重要なデザイン。
 
@@ -696,6 +696,41 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 ---
 
+<a id="prompt-9"></a>
+
+#### No. 5: 正確なサービス欄を備えた水彩ウェディングポスター
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 説明
+
+水彩の花枠、モノグラム、正確な見出し、4つのサービスアイコン、金縁の相談欄を組み合わせた上質な構成ポスター。
+
+##### 原文プロンプト（英語）
+
+```
+Create a luxury advertising poster for a fictional wedding-planning studio. Modern minimal composition in blush pink, ivory, sage green, and restrained gold. Build a watercolor floral frame from roses, eucalyptus, pampas grass, and gold-leaf line art. At the top center, place a circular E&W monogram inside a botanical wreath. Set the exact headline “ELEGANT WEDDINGS, Perfectly Planned” in bold serif type and the exact subheadline “Your Dream Day, Our Expertise” in gold italic serif. Center a tasteful silhouette of a bride and groom holding hands, surrounded by soft watercolor flowers. Below, create four aligned service icons labeled Decoration, Catering, Photography, and Venue. Finish with a gold-bordered CTA box reading “Book Your Free Consultation Today” and fictional contact details. Professional print finish, vertical 4:5, readable typography, no garbled copy, no extra logos.
+```
+
+##### 出典画像
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="正確なサービス欄を備えた水彩ウェディングポスター - Image 1"></td>
+</tr>
+</table>
+
+##### 詳細
+
+- **作者:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **出典:** [出典](https://x.com/abs_uiux/status/2078805002395492649)
+- **公開日:** 2026年7月19日
+- **言語:** en
+
+**[このプロンプトを使う · ImagineVid](https://imaginevid.io/ja/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### 連続アートとソーシャル形式 (1)
@@ -714,7 +749,7 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-4"></a>
 
-#### No. 5: 古典絵画風のウィングバックチェア肖像
+#### No. 6: 古典絵画風のウィングバックチェア肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -778,7 +813,7 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 <details>
 <summary>コミュニティ作者への謝辞 (7)</summary>
 
-[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -798,6 +833,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[プロンプトを投稿](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-07-22T13:40:27.263Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-07-22T14:40:28.801Z</sub>
 
 </div>

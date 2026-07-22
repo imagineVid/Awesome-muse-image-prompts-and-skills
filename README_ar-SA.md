@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | المقياس | العدد |
 |--------|-------|
-| إجمالي التعليمات | **8** |
+| إجمالي التعليمات | **9** |
 | مميز | **3** |
-| آخر تحديث | **الأربعاء، ٢٢ يوليو ٢٠٢٦ في ١:٤٠:٢٧ م UTC** |
+| آخر تحديث | **الأربعاء، ٢٢ يوليو ٢٠٢٦ في ٢:٤٠:٢٨ م UTC** |
 
 </div>
 
@@ -622,7 +622,7 @@ Use the uploaded photo as the facial identity reference. Preserve the person's f
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### الطباعة والملصقات والتخطيطات المنظمة (2)
+### الطباعة والملصقات والتخطيطات المنظمة (3)
 
 مرئيات مصممة تركز على وضوح النص والتسلسل الهرمي والمسافات وقواعد التخطيط القابلة للتكرار.
 
@@ -696,6 +696,41 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 ---
 
+<a id="prompt-9"></a>
+
+#### No. 5: ملصق زفاف مائي بكتل خدمات دقيقة
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### الوصف
+
+ملصق فاخر منظم يجمع إطاراً نباتياً ومونوغراماً وعناوين دقيقة وأربع أيقونات ودعوة للاستشارة.
+
+##### التعليمة الأصلية (بالإنجليزية)
+
+```
+Create a luxury advertising poster for a fictional wedding-planning studio. Modern minimal composition in blush pink, ivory, sage green, and restrained gold. Build a watercolor floral frame from roses, eucalyptus, pampas grass, and gold-leaf line art. At the top center, place a circular E&W monogram inside a botanical wreath. Set the exact headline “ELEGANT WEDDINGS, Perfectly Planned” in bold serif type and the exact subheadline “Your Dream Day, Our Expertise” in gold italic serif. Center a tasteful silhouette of a bride and groom holding hands, surrounded by soft watercolor flowers. Below, create four aligned service icons labeled Decoration, Catering, Photography, and Venue. Finish with a gold-bordered CTA box reading “Book Your Free Consultation Today” and fictional contact details. Professional print finish, vertical 4:5, readable typography, no garbled copy, no extra logos.
+```
+
+##### نتائج المصدر
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="ملصق زفاف مائي بكتل خدمات دقيقة - Image 1"></td>
+</tr>
+</table>
+
+##### التفاصيل
+
+- **المؤلف:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **المصدر:** [المصدر](https://x.com/abs_uiux/status/2078805002395492649)
+- **تاريخ النشر:** ١٩ يوليو ٢٠٢٦
+- **اللغات:** en
+
+**[استخدم هذه التعليمة · ImagineVid](https://imaginevid.io/ar/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### الفن المتسلسل وتنسيقات التواصل (1)
@@ -714,7 +749,7 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-4"></a>
 
-#### No. 5: بورتريه كرسي بروح الأساتذة القدامى
+#### No. 6: بورتريه كرسي بروح الأساتذة القدامى
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -778,7 +813,7 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 <details>
 <summary>مبدعو المجتمع الذين نشكرهم (7)</summary>
 
-[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -798,6 +833,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[إرسال تعليمة](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمستودع](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-22T13:40:27.289Z</sub>
+<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-22T14:40:28.817Z</sub>
 
 </div>

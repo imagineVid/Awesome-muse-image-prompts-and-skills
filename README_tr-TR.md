@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Metrik | Sayı |
 |--------|-------|
-| Toplam prompt | **8** |
+| Toplam prompt | **9** |
 | Öne çıkan | **3** |
-| Son güncelleme | **22 Temmuz 2026 Çarşamba 13:40:27 UTC** |
+| Son güncelleme | **22 Temmuz 2026 Çarşamba 14:40:28 UTC** |
 
 </div>
 
@@ -622,7 +622,7 @@ Use the uploaded photo as the facial identity reference. Preserve the person's f
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### Tipografi, poster ve yapılandırılmış düzenler (2)
+### Tipografi, poster ve yapılandırılmış düzenler (3)
 
 Okunabilir yazı, hiyerarşi, boşluk ve tekrarlanabilir yerleşim kurallarına dayanan tasarımlar.
 
@@ -696,6 +696,41 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 ---
 
+<a id="prompt-9"></a>
+
+#### No. 5: Net hizmet bloklu suluboya düğün afişi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Açıklama
+
+Çiçek çerçevesi, monogram, kesin başlıklar, dört hizmet simgesi ve danışma çağrısını birleştiren düzenli lüks afiş.
+
+##### Özgün prompt (İngilizce)
+
+```
+Create a luxury advertising poster for a fictional wedding-planning studio. Modern minimal composition in blush pink, ivory, sage green, and restrained gold. Build a watercolor floral frame from roses, eucalyptus, pampas grass, and gold-leaf line art. At the top center, place a circular E&W monogram inside a botanical wreath. Set the exact headline “ELEGANT WEDDINGS, Perfectly Planned” in bold serif type and the exact subheadline “Your Dream Day, Our Expertise” in gold italic serif. Center a tasteful silhouette of a bride and groom holding hands, surrounded by soft watercolor flowers. Below, create four aligned service icons labeled Decoration, Catering, Photography, and Venue. Finish with a gold-bordered CTA box reading “Book Your Free Consultation Today” and fictional contact details. Professional print finish, vertical 4:5, readable typography, no garbled copy, no extra logos.
+```
+
+##### Kaynak sonuçları
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Net hizmet bloklu suluboya düğün afişi - Image 1"></td>
+</tr>
+</table>
+
+##### Detaylar
+
+- **Yazar:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **Kaynak:** [Kaynak](https://x.com/abs_uiux/status/2078805002395492649)
+- **Yayınlandı:** 19 Temmuz 2026
+- **Diller:** en
+
+**[Bu promptu kullan · ImagineVid](https://imaginevid.io/tr/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### Ardışık sanat ve sosyal formatlar (1)
@@ -714,7 +749,7 @@ Benzerlik, malzeme dokusu, ışık ve bilinçli görsel dilin öne çıktığı 
 
 <a id="prompt-4"></a>
 
-#### No. 5: Eski ustalar esintili koltuk portresi
+#### No. 6: Eski ustalar esintili koltuk portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -778,7 +813,7 @@ Tüm kurallar için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına bakın.
 <details>
 <summary>Topluluk üreticileri (7)</summary>
 
-[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -798,6 +833,6 @@ Tüm kurallar için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına bakın.
 **[Prompt gönder](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Depoya Star ver](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Bu README otomatik oluşturuldu. Son güncelleme: 2026-07-22T13:40:27.287Z</sub>
+<sub>Bu README otomatik oluşturuldu. Son güncelleme: 2026-07-22T14:40:28.815Z</sub>
 
 </div>

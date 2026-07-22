@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Metryka | Liczba |
 |--------|-------|
-| Łącznie promptów | **8** |
+| Łącznie promptów | **9** |
 | Polecane | **3** |
-| Ostatnia aktualizacja | **środa, 22 lipca 2026 13:40:27 UTC** |
+| Ostatnia aktualizacja | **środa, 22 lipca 2026 14:40:28 UTC** |
 
 </div>
 
@@ -622,7 +622,7 @@ Kompozycje wieloreferencyjne zachowujące rozpoznawalność osób, produktów, u
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### Typografia, plakaty i uporządkowane układy (2)
+### Typografia, plakaty i uporządkowane układy (3)
 
 Projekty, w których liczą się czytelny tekst, hierarchia, odstępy i powtarzalne zasady układu.
 
@@ -696,6 +696,41 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 ---
 
+<a id="prompt-9"></a>
+
+#### No. 5: Akwarelowy plakat ślubny z precyzyjnymi usługami
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Opis
+
+Uporządkowany luksusowy plakat z kwiatową ramą, monogramem, dokładnymi nagłówkami, czterema ikonami i polem konsultacji.
+
+##### Oryginalny prompt (po angielsku)
+
+```
+Create a luxury advertising poster for a fictional wedding-planning studio. Modern minimal composition in blush pink, ivory, sage green, and restrained gold. Build a watercolor floral frame from roses, eucalyptus, pampas grass, and gold-leaf line art. At the top center, place a circular E&W monogram inside a botanical wreath. Set the exact headline “ELEGANT WEDDINGS, Perfectly Planned” in bold serif type and the exact subheadline “Your Dream Day, Our Expertise” in gold italic serif. Center a tasteful silhouette of a bride and groom holding hands, surrounded by soft watercolor flowers. Below, create four aligned service icons labeled Decoration, Catering, Photography, and Venue. Finish with a gold-bordered CTA box reading “Book Your Free Consultation Today” and fictional contact details. Professional print finish, vertical 4:5, readable typography, no garbled copy, no extra logos.
+```
+
+##### Wyniki źródłowe
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Akwarelowy plakat ślubny z precyzyjnymi usługami - Image 1"></td>
+</tr>
+</table>
+
+##### Szczegóły
+
+- **Autor:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **Źródło:** [Źródło](https://x.com/abs_uiux/status/2078805002395492649)
+- **Opublikowano:** 19 lipca 2026
+- **Języki:** en
+
+**[Użyj tego promptu · ImagineVid](https://imaginevid.io/pl/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### Sztuka sekwencyjna i formaty społecznościowe (1)
@@ -714,7 +749,7 @@ Prompty portretowe i artystyczne oparte na podobieństwie, fakturze, świetle i 
 
 <a id="prompt-4"></a>
 
-#### No. 5: Portret w fotelu w duchu dawnych mistrzów
+#### No. 6: Portret w fotelu w duchu dawnych mistrzów
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -778,7 +813,7 @@ Udostępniono na licencji [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 <details>
 <summary>Twórcy społeczności (7)</summary>
 
-[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -798,6 +833,6 @@ Udostępniono na licencji [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[Zgłoś prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Daj Star repozytorium](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Ten README został wygenerowany automatycznie. Ostatnia aktualizacja: 2026-07-22T13:40:27.298Z</sub>
+<sub>Ten README został wygenerowany automatycznie. Ostatnia aktualizacja: 2026-07-22T14:40:28.822Z</sub>
 
 </div>

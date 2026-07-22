@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Metriek | Aantal |
 |--------|-------|
-| Totaal prompts | **8** |
+| Totaal prompts | **9** |
 | Uitgelicht | **3** |
-| Laatst bijgewerkt | **woensdag 22 juli 2026 om 13:40:27 UTC** |
+| Laatst bijgewerkt | **woensdag 22 juli 2026 om 14:40:28 UTC** |
 
 </div>
 
@@ -622,7 +622,7 @@ Composities met meerdere referenties die personen, producten, kleding of visuele
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### Typografie, posters en gestructureerde lay-outs (2)
+### Typografie, posters en gestructureerde lay-outs (3)
 
 Ontworpen beelden waarin leesbare tekst, hiërarchie, witruimte en herhaalbare lay-outregels centraal staan.
 
@@ -696,6 +696,41 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 ---
 
+<a id="prompt-9"></a>
+
+#### No. 5: Aquarel-huwelijksposter met vaste dienstenblokken
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Beschrijving
+
+Een gestructureerde luxeposter met bloemenkader, monogram, exacte koppen, vier pictogrammen en consultatieblok.
+
+##### Oorspronkelijke prompt (Engels)
+
+```
+Create a luxury advertising poster for a fictional wedding-planning studio. Modern minimal composition in blush pink, ivory, sage green, and restrained gold. Build a watercolor floral frame from roses, eucalyptus, pampas grass, and gold-leaf line art. At the top center, place a circular E&W monogram inside a botanical wreath. Set the exact headline “ELEGANT WEDDINGS, Perfectly Planned” in bold serif type and the exact subheadline “Your Dream Day, Our Expertise” in gold italic serif. Center a tasteful silhouette of a bride and groom holding hands, surrounded by soft watercolor flowers. Below, create four aligned service icons labeled Decoration, Catering, Photography, and Venue. Finish with a gold-bordered CTA box reading “Book Your Free Consultation Today” and fictional contact details. Professional print finish, vertical 4:5, readable typography, no garbled copy, no extra logos.
+```
+
+##### Bronresultaten
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Aquarel-huwelijksposter met vaste dienstenblokken - Image 1"></td>
+</tr>
+</table>
+
+##### Details
+
+- **Auteur:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **Bron:** [Bron](https://x.com/abs_uiux/status/2078805002395492649)
+- **Gepubliceerd:** 19 juli 2026
+- **Talen:** en
+
+**[Gebruik deze prompt · ImagineVid](https://imaginevid.io/nl/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### Sequentiële kunst en sociale formaten (1)
@@ -714,7 +749,7 @@ Portret- en artdirectionprompts waarin gelijkenis, materiaaltextuur, licht en ee
 
 <a id="prompt-4"></a>
 
-#### No. 5: Fauteuilportret in de sfeer van oude meesters
+#### No. 6: Fauteuilportret in de sfeer van oude meesters
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -778,7 +813,7 @@ Uitgegeven onder [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <details>
 <summary>Makers uit de community (7)</summary>
 
-[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -798,6 +833,6 @@ Uitgegeven onder [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt indienen](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef deze repo een Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Deze README is automatisch gegenereerd. Laatst bijgewerkt: 2026-07-22T13:40:27.295Z</sub>
+<sub>Deze README is automatisch gegenereerd. Laatst bijgewerkt: 2026-07-22T14:40:28.820Z</sub>
 
 </div>

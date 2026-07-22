@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | 항목 | 수량 |
 |--------|-------|
-| 총 프롬프트 | **8** |
+| 총 프롬프트 | **9** |
 | 추천 | **3** |
-| 마지막 업데이트 | **2026년 7월 22일 수요일 오후 1시 40분 27초 UTC** |
+| 마지막 업데이트 | **2026년 7월 22일 수요일 PM 2시 40분 28초 UTC** |
 
 </div>
 
@@ -622,7 +622,7 @@ Use the uploaded photo as the facial identity reference. Preserve the person's f
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### 타이포그래피, 포스터 및 구조화 레이아웃 (2)
+### 타이포그래피, 포스터 및 구조화 레이아웃 (3)
 
 읽기 쉬운 글자, 정보 위계, 간격, 반복 가능한 레이아웃 규칙이 중요한 디자인입니다.
 
@@ -696,6 +696,41 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 ---
 
+<a id="prompt-9"></a>
+
+#### No. 5: 정확한 서비스 블록이 있는 수채화 웨딩 포스터
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 설명
+
+수채화 꽃 테두리, 모노그램, 정확한 제목, 네 개의 서비스 아이콘과 금색 상담 상자를 결합한 구조적인 고급 포스터.
+
+##### 원문 프롬프트(영어)
+
+```
+Create a luxury advertising poster for a fictional wedding-planning studio. Modern minimal composition in blush pink, ivory, sage green, and restrained gold. Build a watercolor floral frame from roses, eucalyptus, pampas grass, and gold-leaf line art. At the top center, place a circular E&W monogram inside a botanical wreath. Set the exact headline “ELEGANT WEDDINGS, Perfectly Planned” in bold serif type and the exact subheadline “Your Dream Day, Our Expertise” in gold italic serif. Center a tasteful silhouette of a bride and groom holding hands, surrounded by soft watercolor flowers. Below, create four aligned service icons labeled Decoration, Catering, Photography, and Venue. Finish with a gold-bordered CTA box reading “Book Your Free Consultation Today” and fictional contact details. Professional print finish, vertical 4:5, readable typography, no garbled copy, no extra logos.
+```
+
+##### 출처 이미지
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="정확한 서비스 블록이 있는 수채화 웨딩 포스터 - Image 1"></td>
+</tr>
+</table>
+
+##### 세부 정보
+
+- **작성자:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **출처:** [출처](https://x.com/abs_uiux/status/2078805002395492649)
+- **게시일:** 2026년 7월 19일
+- **언어:** en
+
+**[이 프롬프트 사용 · ImagineVid](https://imaginevid.io/ko/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### 연속 아트 및 소셜 포맷 (1)
@@ -714,7 +749,7 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-4"></a>
 
-#### No. 5: 고전 회화풍 윙백 체어 초상
+#### No. 6: 고전 회화풍 윙백 체어 초상
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -778,7 +813,7 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 <details>
 <summary>커뮤니티 제작자 감사 명단 (7)</summary>
 
-[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -798,6 +833,6 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 **[프롬프트 제출](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[저장소에 Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-22T13:40:27.267Z</sub>
+<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-22T14:40:28.803Z</sub>
 
 </div>

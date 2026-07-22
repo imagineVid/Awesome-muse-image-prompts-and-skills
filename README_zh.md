@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **8** |
+| 提示词总数 | **9** |
 | 精选 | **3** |
-| 最后更新 | **2026年7月22日星期三 UTC 13:40:27** |
+| 最后更新 | **2026年7月22日星期三 UTC 14:40:28** |
 
 </div>
 
@@ -622,7 +622,7 @@ Use the uploaded photo as the facial identity reference. Preserve the person's f
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### 排版、海报与结构化布局 (2)
+### 排版、海报与结构化布局 (3)
 
 强调文字可读性、信息层级、间距与可复用版式规则的设计视觉。
 
@@ -696,6 +696,41 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 ---
 
+<a id="prompt-9"></a>
+
+#### No. 5: 带精确服务模块的水彩婚礼策划海报
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 说明
+
+一张结构化奢华海报，结合水彩花框、字母徽标、精确标题、四个服务图标与描金咨询区。
+
+##### 原始提示词（英文）
+
+```
+Create a luxury advertising poster for a fictional wedding-planning studio. Modern minimal composition in blush pink, ivory, sage green, and restrained gold. Build a watercolor floral frame from roses, eucalyptus, pampas grass, and gold-leaf line art. At the top center, place a circular E&W monogram inside a botanical wreath. Set the exact headline “ELEGANT WEDDINGS, Perfectly Planned” in bold serif type and the exact subheadline “Your Dream Day, Our Expertise” in gold italic serif. Center a tasteful silhouette of a bride and groom holding hands, surrounded by soft watercolor flowers. Below, create four aligned service icons labeled Decoration, Catering, Photography, and Venue. Finish with a gold-bordered CTA box reading “Book Your Free Consultation Today” and fictional contact details. Professional print finish, vertical 4:5, readable typography, no garbled copy, no extra logos.
+```
+
+##### 来源结果
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="带精确服务模块的水彩婚礼策划海报 - Image 1"></td>
+</tr>
+</table>
+
+##### 详情
+
+- **作者:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **来源:** [来源](https://x.com/abs_uiux/status/2078805002395492649)
+- **发布时间:** 2026年7月19日
+- **语言:** en
+
+**[使用这个提示词 · ImagineVid](https://imaginevid.io/zh/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### 连续画面与社交媒体格式 (1)
@@ -714,7 +749,7 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-4"></a>
 
-#### No. 5: 古典大师风扶手椅肖像
+#### No. 6: 古典大师风扶手椅肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -778,7 +813,7 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 <details>
 <summary>查看并感谢社区作者 (7)</summary>
 
-[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -798,6 +833,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[提交提示词](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>本 README 自动生成。最后更新： 2026-07-22T13:40:27.258Z</sub>
+<sub>本 README 自动生成。最后更新： 2026-07-22T14:40:28.800Z</sub>
 
 </div>

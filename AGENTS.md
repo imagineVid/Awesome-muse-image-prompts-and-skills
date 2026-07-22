@@ -2,7 +2,7 @@
 ImagineVid 品牌的 Muse Image 来源可核验提示词与工作流资料仓库。
 
 <directory>
-data/ - 8 条社区提示词、10 条官方能力案例、六类工作流与 13 语本地化覆盖层。
+data/ - 9 条社区提示词、10 条官方能力案例、六类工作流与 13 语本地化覆盖层。
 docs/ - 模型边界、分类规则、贡献规范、本地开发与 X 来源审核政策。
 public/images/ - ImagineVid 自有仓库封面。
 scripts/ - 数据校验、候选评分、Issue 同步与 14 语 README 生成。

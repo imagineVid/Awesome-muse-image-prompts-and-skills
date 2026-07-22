@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Métrica | Quantidade |
 |--------|-------|
-| Total de prompts | **8** |
+| Total de prompts | **9** |
 | Destaque | **3** |
-| Última atualização | **quarta-feira, 22 de julho de 2026 às 13:40:27 UTC** |
+| Última atualização | **quarta-feira, 22 de julho de 2026 às 14:40:28 UTC** |
 
 </div>
 
@@ -622,7 +622,7 @@ Composições com várias referências que preservam pessoas, produtos, vestuár
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### Tipografia, cartazes e layouts estruturados (2)
+### Tipografia, cartazes e layouts estruturados (3)
 
 Visuais de design em que contam texto legível, hierarquia, espaçamento e regras de composição reutilizáveis.
 
@@ -696,6 +696,41 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 ---
 
+<a id="prompt-9"></a>
+
+#### No. 5: Cartaz de casamento em aquarela com serviços exatos
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Descrição
+
+Um cartaz luxuoso e estruturado com moldura floral, monograma, títulos exatos, quatro ícones e chamada de consulta.
+
+##### Prompt original (em inglês)
+
+```
+Create a luxury advertising poster for a fictional wedding-planning studio. Modern minimal composition in blush pink, ivory, sage green, and restrained gold. Build a watercolor floral frame from roses, eucalyptus, pampas grass, and gold-leaf line art. At the top center, place a circular E&W monogram inside a botanical wreath. Set the exact headline “ELEGANT WEDDINGS, Perfectly Planned” in bold serif type and the exact subheadline “Your Dream Day, Our Expertise” in gold italic serif. Center a tasteful silhouette of a bride and groom holding hands, surrounded by soft watercolor flowers. Below, create four aligned service icons labeled Decoration, Catering, Photography, and Venue. Finish with a gold-bordered CTA box reading “Book Your Free Consultation Today” and fictional contact details. Professional print finish, vertical 4:5, readable typography, no garbled copy, no extra logos.
+```
+
+##### Resultados da fonte
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Cartaz de casamento em aquarela com serviços exatos - Image 1"></td>
+</tr>
+</table>
+
+##### Detalhes
+
+- **Autor:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **Fonte:** [Fonte](https://x.com/abs_uiux/status/2078805002395492649)
+- **Publicado:** 19 de julho de 2026
+- **Idiomas:** en
+
+**[Usar este prompt · ImagineVid](https://imaginevid.io/pt/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### Arte sequencial e formatos sociais (1)
@@ -714,7 +749,7 @@ Prompts de retrato e direção artística guiados por semelhança, textura, luz 
 
 <a id="prompt-4"></a>
 
-#### No. 5: Retrato em poltrona inspirado nos mestres antigos
+#### No. 6: Retrato em poltrona inspirado nos mestres antigos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -778,7 +813,7 @@ Disponibilizado sob a licença [CC BY 4.0](https://creativecommons.org/licenses/
 <details>
 <summary>Autores da comunidade (7)</summary>
 
-[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -798,6 +833,6 @@ Disponibilizado sob a licença [CC BY 4.0](https://creativecommons.org/licenses/
 **[Enviar prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adicionar uma Star ao repositório](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>README gerado automaticamente. Última atualização: 2026-07-22T13:40:27.283Z</sub>
+<sub>README gerado automaticamente. Última atualização: 2026-07-22T14:40:28.813Z</sub>
 
 </div>

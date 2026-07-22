@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Metrik | Anzahl |
 |--------|-------|
-| Prompts gesamt | **8** |
+| Prompts gesamt | **9** |
 | Ausgewählt | **3** |
-| Zuletzt aktualisiert | **Mittwoch, 22. Juli 2026 um 13:40:27 UTC** |
+| Zuletzt aktualisiert | **Mittwoch, 22. Juli 2026 um 14:40:28 UTC** |
 
 </div>
 
@@ -622,7 +622,7 @@ Kompositionen aus mehreren Referenzen, die Personen, Produkte, Kleidung oder vis
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### Typografie, Poster und strukturierte Layouts (2)
+### Typografie, Poster und strukturierte Layouts (3)
 
 Gestaltete Visuals, bei denen lesbare Schrift, Hierarchie, Abstände und wiederholbare Layoutregeln zählen.
 
@@ -696,6 +696,41 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 ---
 
+<a id="prompt-9"></a>
+
+#### No. 5: Aquarell-Hochzeitsplakat mit klaren Leistungsblöcken
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Beschreibung
+
+Ein strukturiertes Luxusplakat mit Blumenrahmen, Monogramm, exakten Überschriften, vier Service-Icons und Beratungsfeld.
+
+##### Originalprompt (Englisch)
+
+```
+Create a luxury advertising poster for a fictional wedding-planning studio. Modern minimal composition in blush pink, ivory, sage green, and restrained gold. Build a watercolor floral frame from roses, eucalyptus, pampas grass, and gold-leaf line art. At the top center, place a circular E&W monogram inside a botanical wreath. Set the exact headline “ELEGANT WEDDINGS, Perfectly Planned” in bold serif type and the exact subheadline “Your Dream Day, Our Expertise” in gold italic serif. Center a tasteful silhouette of a bride and groom holding hands, surrounded by soft watercolor flowers. Below, create four aligned service icons labeled Decoration, Catering, Photography, and Venue. Finish with a gold-bordered CTA box reading “Book Your Free Consultation Today” and fictional contact details. Professional print finish, vertical 4:5, readable typography, no garbled copy, no extra logos.
+```
+
+##### Ergebnisse aus der Quelle
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Aquarell-Hochzeitsplakat mit klaren Leistungsblöcken - Image 1"></td>
+</tr>
+</table>
+
+##### Details
+
+- **Autor:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **Quelle:** [Quelle](https://x.com/abs_uiux/status/2078805002395492649)
+- **Veröffentlicht:** 19. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen · ImagineVid](https://imaginevid.io/de/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### Sequenzielle Gestaltung und Social-Formate (1)
@@ -714,7 +749,7 @@ Porträt- und Art-Direction-Prompts mit Fokus auf Ähnlichkeit, Materialtextur, 
 
 <a id="prompt-4"></a>
 
-#### No. 5: Sesselporträt im Stil alter Meister
+#### No. 6: Sesselporträt im Stil alter Meister
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -778,7 +813,7 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <details>
 <summary>Community-Autoren (7)</summary>
 
-[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -798,6 +833,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt einreichen](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Repository mit Star markieren](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-22T13:40:27.274Z</sub>
+<sub>Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-22T14:40:28.807Z</sub>
 
 </div>

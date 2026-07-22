@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Показатель | Количество |
 |--------|-------|
-| Всего промптов | **8** |
+| Всего промптов | **9** |
 | Избранное | **3** |
-| Обновлено | **среда, 22 июля 2026 г. в 13:40:27 UTC** |
+| Обновлено | **среда, 22 июля 2026 г. в 14:40:28 UTC** |
 
 </div>
 
@@ -622,7 +622,7 @@ Use the uploaded photo as the facial identity reference. Preserve the person's f
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### Типографика, постеры и структурированные макеты (2)
+### Типографика, постеры и структурированные макеты (3)
 
 Дизайнерские изображения, где важны читаемый текст, иерархия, интервалы и повторяемые правила макета.
 
@@ -696,6 +696,41 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 ---
 
+<a id="prompt-9"></a>
+
+#### No. 5: Акварельный свадебный постер с точными блоками услуг
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Описание
+
+Структурированный премиальный постер с цветочной рамкой, монограммой, точными заголовками, четырьмя иконками и блоком консультации.
+
+##### Оригинальный промпт (на английском)
+
+```
+Create a luxury advertising poster for a fictional wedding-planning studio. Modern minimal composition in blush pink, ivory, sage green, and restrained gold. Build a watercolor floral frame from roses, eucalyptus, pampas grass, and gold-leaf line art. At the top center, place a circular E&W monogram inside a botanical wreath. Set the exact headline “ELEGANT WEDDINGS, Perfectly Planned” in bold serif type and the exact subheadline “Your Dream Day, Our Expertise” in gold italic serif. Center a tasteful silhouette of a bride and groom holding hands, surrounded by soft watercolor flowers. Below, create four aligned service icons labeled Decoration, Catering, Photography, and Venue. Finish with a gold-bordered CTA box reading “Book Your Free Consultation Today” and fictional contact details. Professional print finish, vertical 4:5, readable typography, no garbled copy, no extra logos.
+```
+
+##### Результаты из источника
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Акварельный свадебный постер с точными блоками услуг - Image 1"></td>
+</tr>
+</table>
+
+##### Детали
+
+- **Автор:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **Источник:** [Источник](https://x.com/abs_uiux/status/2078805002395492649)
+- **Опубликовано:** 19 июля 2026 г.
+- **Языки:** en
+
+**[Использовать промпт · ImagineVid](https://imaginevid.io/ru/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### Последовательное искусство и соцформаты (1)
@@ -714,7 +749,7 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-4"></a>
 
-#### No. 5: Портрет в кресле в духе старых мастеров
+#### No. 6: Портрет в кресле в духе старых мастеров
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -778,7 +813,7 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 <details>
 <summary>Авторы сообщества (7)</summary>
 
-[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -798,6 +833,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[Отправить промпт](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Этот README создан автоматически. Последнее обновление: 2026-07-22T13:40:27.292Z</sub>
+<sub>Этот README создан автоматически. Последнее обновление: 2026-07-22T14:40:28.818Z</sub>
 
 </div>

@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Métrique | Nombre |
 |--------|-------|
-| Total des prompts | **8** |
+| Total des prompts | **9** |
 | En vedette | **3** |
-| Dernière mise à jour | **mercredi 22 juillet 2026 à 13:40:27 UTC** |
+| Dernière mise à jour | **mercredi 22 juillet 2026 à 14:40:28 UTC** |
 
 </div>
 
@@ -622,7 +622,7 @@ Compositions multiréférences qui préservent personnes, produits, vêtements o
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### Typographie, affiches et mises en page structurées (2)
+### Typographie, affiches et mises en page structurées (3)
 
 Visuels conçus autour d'une typographie lisible, d'une hiérarchie, d'espacements et de règles de mise en page.
 
@@ -696,6 +696,41 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 ---
 
+<a id="prompt-9"></a>
+
+#### No. 5: Affiche de mariage aquarelle aux services précis
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Description
+
+Une affiche luxueuse structurée avec cadre floral, monogramme, titres exacts, quatre icônes et encadré de consultation.
+
+##### Prompt original (en anglais)
+
+```
+Create a luxury advertising poster for a fictional wedding-planning studio. Modern minimal composition in blush pink, ivory, sage green, and restrained gold. Build a watercolor floral frame from roses, eucalyptus, pampas grass, and gold-leaf line art. At the top center, place a circular E&W monogram inside a botanical wreath. Set the exact headline “ELEGANT WEDDINGS, Perfectly Planned” in bold serif type and the exact subheadline “Your Dream Day, Our Expertise” in gold italic serif. Center a tasteful silhouette of a bride and groom holding hands, surrounded by soft watercolor flowers. Below, create four aligned service icons labeled Decoration, Catering, Photography, and Venue. Finish with a gold-bordered CTA box reading “Book Your Free Consultation Today” and fictional contact details. Professional print finish, vertical 4:5, readable typography, no garbled copy, no extra logos.
+```
+
+##### Résultats de la source
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Affiche de mariage aquarelle aux services précis - Image 1"></td>
+</tr>
+</table>
+
+##### Détails
+
+- **Auteur:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **Source:** [Source](https://x.com/abs_uiux/status/2078805002395492649)
+- **Publié:** 19 juillet 2026
+- **Langues:** en
+
+**[Utiliser ce prompt · ImagineVid](https://imaginevid.io/fr/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### Art séquentiel et formats sociaux (1)
@@ -714,7 +749,7 @@ Prompts de portrait et direction artistique guidés par la ressemblance, la mati
 
 <a id="prompt-4"></a>
 
-#### No. 5: Portrait en fauteuil inspiré des maîtres anciens
+#### No. 6: Portrait en fauteuil inspiré des maîtres anciens
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -778,7 +813,7 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <details>
 <summary>Auteurs de la communauté (7)</summary>
 
-[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -798,6 +833,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Soumettre un prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Mettre une star au dépôt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Ce README est généré automatiquement. Dernière mise à jour : 2026-07-22T13:40:27.277Z</sub>
+<sub>Ce README est généré automatiquement. Dernière mise à jour : 2026-07-22T14:40:28.809Z</sub>
 
 </div>

@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **8** |
+| Total Prompts | **9** |
 | Featured | **3** |
-| Last Updated | **Wednesday, July 22, 2026 at 1:40:27 PM UTC** |
+| Last Updated | **Wednesday, July 22, 2026 at 2:40:28 PM UTC** |
 
 </div>
 
@@ -622,7 +622,7 @@ Multi-reference compositions that preserve recognizable people, products, garmen
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### Typography, Posters & Structured Layouts (2)
+### Typography, Posters & Structured Layouts (3)
 
 Designed visuals where readable type, hierarchy, spacing, and repeatable layout rules matter.
 
@@ -696,6 +696,41 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 ---
 
+<a id="prompt-9"></a>
+
+#### No. 5: Watercolor wedding-planner poster with exact service blocks
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Description
+
+A structured luxury poster that combines floral watercolor framing, a monogram, exact headlines, four service icons, and a bordered consultation callout.
+
+##### Prompt
+
+```
+Create a luxury advertising poster for a fictional wedding-planning studio. Modern minimal composition in blush pink, ivory, sage green, and restrained gold. Build a watercolor floral frame from roses, eucalyptus, pampas grass, and gold-leaf line art. At the top center, place a circular E&W monogram inside a botanical wreath. Set the exact headline “ELEGANT WEDDINGS, Perfectly Planned” in bold serif type and the exact subheadline “Your Dream Day, Our Expertise” in gold italic serif. Center a tasteful silhouette of a bride and groom holding hands, surrounded by soft watercolor flowers. Below, create four aligned service icons labeled Decoration, Catering, Photography, and Venue. Finish with a gold-bordered CTA box reading “Book Your Free Consultation Today” and fictional contact details. Professional print finish, vertical 4:5, readable typography, no garbled copy, no extra logos.
+```
+
+##### Source Results
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Watercolor wedding-planner poster with exact service blocks - Image 1"></td>
+</tr>
+</table>
+
+##### Source Details
+
+- **Author:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **Source:** [Source](https://x.com/abs_uiux/status/2078805002395492649)
+- **Published on X:** July 19, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### Sequential Art & Social Formats (1)
@@ -714,7 +749,7 @@ Portrait and art-direction prompts where likeness, material texture, lighting, a
 
 <a id="prompt-4"></a>
 
-#### No. 5: Old-Master Armchair Portrait
+#### No. 6: Old-Master Armchair Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -778,7 +813,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <details>
 <summary>Community creators we thank (7)</summary>
 
-[ABS](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -798,6 +833,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Submit a Prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star this repo](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-22T13:40:27.252Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-22T14:40:28.796Z</sub>
 
 </div>

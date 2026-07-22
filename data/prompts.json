@@ -2,18 +2,37 @@
   {
     "id": 1,
     "model": "muse-image",
-    "title": { "en": "Live Market Price News Photograph" },
-    "description": { "en": "A fact-grounded editorial image that asks Muse Image to research current local prices and render them as readable market-stall labels." },
-    "content": { "en": "Create an ultra-realistic news photograph from Türkiye. Show a greengrocer standing behind a market stall filled with different fruits. Every fruit must have a clearly readable label with its Turkish name and price. Research current average fruit prices in Türkiye and use plausible up-to-date values. Keep the scene observational rather than staged: natural daylight, documentary framing, realistic skin and produce texture, accurate Turkish typography, and no invented brands." },
+    "title": {
+      "en": "Live Market Price News Photograph"
+    },
+    "description": {
+      "en": "A fact-grounded editorial image that asks Muse Image to research current local prices and render them as readable market-stall labels."
+    },
+    "content": {
+      "en": "Create an ultra-realistic news photograph from Türkiye. Show a greengrocer standing behind a market stall filled with different fruits. Every fruit must have a clearly readable label with its Turkish name and price. Research current average fruit prices in Türkiye and use plausible up-to-date values. Keep the scene observational rather than staged: natural daylight, documentary framing, realistic skin and produce texture, accurate Turkish typography, and no invented brands."
+    },
     "sourceLink": "https://x.com/ozansihay/status/2074751589714133153",
     "sourcePublishedAt": "2026-07-08T07:05:00.000Z",
-    "sourceMedia": ["https://pbs.twimg.com/media/HMr-IOpXcAAnURh.jpg"],
-    "author": { "name": "Ozan Sihay", "link": "https://x.com/ozansihay" },
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMr-IOpXcAAnURh.jpg"
+    ],
+    "author": {
+      "name": "Ozan Sihay",
+      "link": "https://x.com/ozansihay"
+    },
     "language": "tr",
     "featured": true,
     "sort": 1,
     "needReferenceImages": false,
-    "imageCategories": { "workflows": [{ "id": 61, "title": "Agentic Research & Factual Visuals", "slug": "agentic-research-factual-visuals" }] },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Agentic Research & Factual Visuals",
+          "slug": "agentic-research-factual-visuals"
+        }
+      ]
+    },
     "sourceMeta": {
       "source": "twitterapi.io",
       "tweet_id": "2074751589714133153",
@@ -28,9 +47,15 @@
   {
     "id": 2,
     "model": "muse-image",
-    "title": { "en": "Character Transfer Without Scene Drift" },
-    "description": { "en": "Replace one character from a cinematic still while preserving the shot, wardrobe, pose, occlusion, lighting, and photographic texture." },
-    "content": { "en": "Use the scene image as the primary source of truth. Replace only the target character with the character from the attached reference sheet. Preserve the original composition, camera angle, lens, framing, background, props, set dressing, architecture, atmosphere, color grade, depth of field, film grain, aspect ratio, and cinematic still quality.\n\nPreserve the reference character's face, likeness, hairstyle, hair texture and length, age, body proportions, build, exact outfit, footwear, accessories, layering, materials, colors, and patterns. Do not beautify, redesign, stylize, or reinterpret the identity. Match the original pose, scale, perspective, eye line, and interaction with the environment.\n\nMatch the scene lighting precisely: direction, softness, contrast, exposure, color temperature, shadow shape, rim light, bounce light, haze, practical sources, and reflections. Preserve foreground occlusions, contact shadows, floor contact, reflections, and environmental effects. Blend hands, feet, hair, clothing edges, and body contours naturally. Do not change any other person, object, background detail, camera position, or mood. The result must look like the replacement character was photographed in the original shot, not pasted into it." },
+    "title": {
+      "en": "Character Transfer Without Scene Drift"
+    },
+    "description": {
+      "en": "Replace one character from a cinematic still while preserving the shot, wardrobe, pose, occlusion, lighting, and photographic texture."
+    },
+    "content": {
+      "en": "Use the scene image as the primary source of truth. Replace only the target character with the character from the attached reference sheet. Preserve the original composition, camera angle, lens, framing, background, props, set dressing, architecture, atmosphere, color grade, depth of field, film grain, aspect ratio, and cinematic still quality.\n\nPreserve the reference character's face, likeness, hairstyle, hair texture and length, age, body proportions, build, exact outfit, footwear, accessories, layering, materials, colors, and patterns. Do not beautify, redesign, stylize, or reinterpret the identity. Match the original pose, scale, perspective, eye line, and interaction with the environment.\n\nMatch the scene lighting precisely: direction, softness, contrast, exposure, color temperature, shadow shape, rim light, bounce light, haze, practical sources, and reflections. Preserve foreground occlusions, contact shadows, floor contact, reflections, and environmental effects. Blend hands, feet, hair, clothing edges, and body contours naturally. Do not change any other person, object, background detail, camera position, or mood. The result must look like the replacement character was photographed in the original shot, not pasted into it."
+    },
     "sourceLink": "https://x.com/VictorInFocus/status/2075689215510122714",
     "sourcePublishedAt": "2026-07-10T21:10:48.000Z",
     "sourceMedia": [
@@ -39,12 +64,23 @@
       "https://pbs.twimg.com/media/HM5PLCsWkAAL7Ls.jpg",
       "https://pbs.twimg.com/media/HM5PM6-WUAE-8dS.jpg"
     ],
-    "author": { "name": "V", "link": "https://x.com/VictorInFocus" },
+    "author": {
+      "name": "V",
+      "link": "https://x.com/VictorInFocus"
+    },
     "language": "en",
     "featured": true,
     "sort": 2,
     "needReferenceImages": true,
-    "imageCategories": { "workflows": [{ "id": 63, "title": "Multi-Reference Composition & Identity", "slug": "multi-reference-composition-identity" }] },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Multi-Reference Composition & Identity",
+          "slug": "multi-reference-composition-identity"
+        }
+      ]
+    },
     "sourceMeta": {
       "source": "twitterapi.io",
       "tweet_id": "2075689215510122714",
@@ -60,9 +96,15 @@
   {
     "id": 3,
     "model": "muse-image",
-    "title": { "en": "Seamless Four-Card Panorama Carousel" },
-    "description": { "en": "Build one continuous master artwork, then slice it into four vertical cards without changing perspective, lighting, identity, or seam geometry." },
-    "content": { "en": "Act as a visual art director, continuity supervisor, image compositor, and production technician. Create one uninterrupted panoramic artwork for a four-card 9:16 social carousel. Do not generate four independent illustrations.\n\nMASTER: 4320 × 1920 px, one camera, one lens, one horizon, one perspective system, one light direction, one atmosphere, one color grade, and one coherent world. Slice only after the master is final: Card 01 x=0–1079, Card 02 x=1080–2159, Card 03 x=2160–3239, Card 04 x=3240–4319. Export in that order at 1080 × 1920 px each.\n\nCOMPOSITION: create a left-to-right progression: hook, continuation, reveal, resolution. Carry at least one broad continuity element such as a road, garment, architecture, cloud bank, or light beam through multiple cards. Keep faces, eyes, hands, text, logos, and small focal objects at least 120 px away from internal seams. Never add gutters, borders, labels, duplicated objects, missing pixels, or overlap.\n\nCONSISTENCY: preserve subject anatomy, identity, costume, materials, scale, shadows, contact points, and environmental depth. Use one intentional palette and motivated light source. Text is excluded unless explicitly supplied; if supplied, reproduce it exactly and keep it inside safe areas.\n\nQUALITY CONTROL: reconstruct Cards 01–04 edge-to-edge with zero spacing. Inspect all seams for aligned horizon, perspective, architecture, fabric, hair, light, color, and texture. If any seam fails, repair the master and export all four cards again. Never patch a card independently." },
+    "title": {
+      "en": "Seamless Four-Card Panorama Carousel"
+    },
+    "description": {
+      "en": "Build one continuous master artwork, then slice it into four vertical cards without changing perspective, lighting, identity, or seam geometry."
+    },
+    "content": {
+      "en": "Act as a visual art director, continuity supervisor, image compositor, and production technician. Create one uninterrupted panoramic artwork for a four-card 9:16 social carousel. Do not generate four independent illustrations.\n\nMASTER: 4320 × 1920 px, one camera, one lens, one horizon, one perspective system, one light direction, one atmosphere, one color grade, and one coherent world. Slice only after the master is final: Card 01 x=0–1079, Card 02 x=1080–2159, Card 03 x=2160–3239, Card 04 x=3240–4319. Export in that order at 1080 × 1920 px each.\n\nCOMPOSITION: create a left-to-right progression: hook, continuation, reveal, resolution. Carry at least one broad continuity element such as a road, garment, architecture, cloud bank, or light beam through multiple cards. Keep faces, eyes, hands, text, logos, and small focal objects at least 120 px away from internal seams. Never add gutters, borders, labels, duplicated objects, missing pixels, or overlap.\n\nCONSISTENCY: preserve subject anatomy, identity, costume, materials, scale, shadows, contact points, and environmental depth. Use one intentional palette and motivated light source. Text is excluded unless explicitly supplied; if supplied, reproduce it exactly and keep it inside safe areas.\n\nQUALITY CONTROL: reconstruct Cards 01–04 edge-to-edge with zero spacing. Inspect all seams for aligned horizon, perspective, architecture, fabric, hair, light, color, and texture. If any seam fails, repair the master and export all four cards again. Never patch a card independently."
+    },
     "sourceLink": "https://x.com/IamEmily2050/status/2075734256316199185",
     "sourcePublishedAt": "2026-07-11T00:09:46.000Z",
     "sourceMedia": [
@@ -71,12 +113,23 @@
       "https://pbs.twimg.com/media/HM58fy3XYAA0zAk.jpg",
       "https://pbs.twimg.com/media/HM58fy1XcAAayV9.jpg"
     ],
-    "author": { "name": "Emily", "link": "https://x.com/IamEmily2050" },
+    "author": {
+      "name": "Emily",
+      "link": "https://x.com/IamEmily2050"
+    },
     "language": "en",
     "featured": true,
     "sort": 3,
     "needReferenceImages": false,
-    "imageCategories": { "workflows": [{ "id": 65, "title": "Sequential Art & Social Formats", "slug": "sequential-art-social-formats" }] },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 65,
+          "title": "Sequential Art & Social Formats",
+          "slug": "sequential-art-social-formats"
+        }
+      ]
+    },
     "sourceMeta": {
       "source": "twitterapi.io",
       "tweet_id": "2075734256316199185",
@@ -91,18 +144,37 @@
   {
     "id": 4,
     "model": "muse-image",
-    "title": { "en": "Old-Master Armchair Portrait" },
-    "description": { "en": "A restrained portrait recipe built around worn leather, mottled teal plaster, directional light, and a deeply baked editorial grade." },
-    "content": { "en": "A young woman reclines in an oversized vintage wingback armchair of deep chestnut leather, arranged with languid elegance in a painterly composition that echoes Old Master portraiture. She wears a pale cream silk dress with a muted dusty-rose and sage floral pattern. Her dark hair is swept back from a pale angular face; dark red lips and an unflinching gaze face the viewer. The worn leather glows along brass-studded seams and rolled arms.\n\nBehind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. Soft directional light falls from the left, shaping her arm and the folds of the dress while the right side falls into gentle shadow. Use a restrained complementary warm-and-cool palette, fine-art photography, cinematic color grading, rich tactile texture, and a timeless contemplative mood." },
+    "title": {
+      "en": "Old-Master Armchair Portrait"
+    },
+    "description": {
+      "en": "A restrained portrait recipe built around worn leather, mottled teal plaster, directional light, and a deeply baked editorial grade."
+    },
+    "content": {
+      "en": "A young woman reclines in an oversized vintage wingback armchair of deep chestnut leather, arranged with languid elegance in a painterly composition that echoes Old Master portraiture. She wears a pale cream silk dress with a muted dusty-rose and sage floral pattern. Her dark hair is swept back from a pale angular face; dark red lips and an unflinching gaze face the viewer. The worn leather glows along brass-studded seams and rolled arms.\n\nBehind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. Soft directional light falls from the left, shaping her arm and the folds of the dress while the right side falls into gentle shadow. Use a restrained complementary warm-and-cool palette, fine-art photography, cinematic color grading, rich tactile texture, and a timeless contemplative mood."
+    },
     "sourceLink": "https://x.com/Chain_Loader/status/2076324392183943418",
     "sourcePublishedAt": "2026-07-12T15:14:45.000Z",
-    "sourceMedia": ["https://pbs.twimg.com/media/HNCVSZ6bQAAQJkR.jpg"],
-    "author": { "name": "Chain Loader", "link": "https://x.com/Chain_Loader" },
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNCVSZ6bQAAQJkR.jpg"
+    ],
+    "author": {
+      "name": "Chain Loader",
+      "link": "https://x.com/Chain_Loader"
+    },
     "language": "en",
     "featured": false,
     "sort": 4,
     "needReferenceImages": false,
-    "imageCategories": { "workflows": [{ "id": 66, "title": "Portraits, Texture & Art Direction", "slug": "portraits-texture-art-direction" }] },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 66,
+          "title": "Portraits, Texture & Art Direction",
+          "slug": "portraits-texture-art-direction"
+        }
+      ]
+    },
     "sourceMeta": {
       "source": "twitterapi.io",
       "tweet_id": "2076324392183943418",
@@ -117,21 +189,38 @@
   {
     "id": 5,
     "model": "muse-image",
-    "title": { "en": "Step Out of the Unity Editor" },
-    "description": { "en": "A playful reference edit that turns a software viewport into a physical boundary, followed by a targeted glass-shatter refinement." },
-    "content": { "en": "Using my uploaded portrait as the identity reference, generate an image of me stepping out of the Unity Editor's Scene view while holding a solid red 3D cube. The editor viewport should read clearly as a digital workspace behind me, while my front leg and torso cross into the real room. Preserve my face, clothing, and body proportions. Add convincing contact shadows and perspective where the screen boundary breaks.\n\nRefinement: enlarge the shattered-glass effect around the point where I cross the viewport. Keep the face, pose, cube, editor UI, camera, and lighting unchanged; alter only the broken boundary and flying glass fragments." },
+    "title": {
+      "en": "Step Out of the Unity Editor"
+    },
+    "description": {
+      "en": "A playful reference edit that turns a software viewport into a physical boundary, followed by a targeted glass-shatter refinement."
+    },
+    "content": {
+      "en": "Using my uploaded portrait as the identity reference, generate an image of me stepping out of the Unity Editor's Scene view while holding a solid red 3D cube. The editor viewport should read clearly as a digital workspace behind me, while my front leg and torso cross into the real room. Preserve my face, clothing, and body proportions. Add convincing contact shadows and perspective where the screen boundary breaks.\n\nRefinement: enlarge the shattered-glass effect around the point where I cross the viewport. Keep the face, pose, cube, editor UI, camera, and lighting unchanged; alter only the broken boundary and flying glass fragments."
+    },
     "sourceLink": "https://x.com/Dilmerv/status/2074632200394523110",
     "sourcePublishedAt": "2026-07-07T23:10:36.000Z",
     "sourceMedia": [
       "https://pbs.twimg.com/media/HMqSskFbQAAaJVb.jpg",
       "https://pbs.twimg.com/media/HMqSskBa0AAkNSL.jpg"
     ],
-    "author": { "name": "Dilmer", "link": "https://x.com/Dilmerv" },
+    "author": {
+      "name": "Dilmer",
+      "link": "https://x.com/Dilmerv"
+    },
     "language": "en",
     "featured": false,
     "sort": 5,
     "needReferenceImages": true,
-    "imageCategories": { "workflows": [{ "id": 62, "title": "Precision Editing & Scene Preservation", "slug": "precision-editing-scene-preservation" }] },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Precision Editing & Scene Preservation",
+          "slug": "precision-editing-scene-preservation"
+        }
+      ]
+    },
     "sourceMeta": {
       "source": "twitterapi.io",
       "tweet_id": "2074632200394523110",
@@ -146,18 +235,37 @@
   {
     "id": 6,
     "model": "muse-image",
-    "title": { "en": "Turkish Independent Sci-Fi Poster" },
-    "description": { "en": "A compact test of concept invention, vertical composition, and readable localized title design." },
-    "content": { "en": "Design a vertical poster for an independent science-fiction film set in Türkiye. Invent a short, memorable Turkish title and render it accurately. Build a distinctive cinematic concept rather than imitating an existing franchise. Use one strong central visual idea, controlled negative space, practical-looking photography, restrained production credits, and a coherent color grade. The title must remain the clearest text element." },
+    "title": {
+      "en": "Turkish Independent Sci-Fi Poster"
+    },
+    "description": {
+      "en": "A compact test of concept invention, vertical composition, and readable localized title design."
+    },
+    "content": {
+      "en": "Design a vertical poster for an independent science-fiction film set in Türkiye. Invent a short, memorable Turkish title and render it accurately. Build a distinctive cinematic concept rather than imitating an existing franchise. Use one strong central visual idea, controlled negative space, practical-looking photography, restrained production credits, and a coherent color grade. The title must remain the clearest text element."
+    },
     "sourceLink": "https://x.com/ozansihay/status/2074762671342186760",
     "sourcePublishedAt": "2026-07-08T07:49:02.000Z",
-    "sourceMedia": ["https://pbs.twimg.com/media/HMsJYvPWwAABNOy.jpg"],
-    "author": { "name": "Ozan Sihay", "link": "https://x.com/ozansihay" },
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMsJYvPWwAABNOy.jpg"
+    ],
+    "author": {
+      "name": "Ozan Sihay",
+      "link": "https://x.com/ozansihay"
+    },
     "language": "tr",
     "featured": false,
     "sort": 6,
     "needReferenceImages": false,
-    "imageCategories": { "workflows": [{ "id": 64, "title": "Typography, Posters & Structured Layouts", "slug": "typography-posters-structured-layouts" }] },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Typography, Posters & Structured Layouts",
+          "slug": "typography-posters-structured-layouts"
+        }
+      ]
+    },
     "sourceMeta": {
       "source": "twitterapi.io",
       "tweet_id": "2074762671342186760",
@@ -172,18 +280,37 @@
   {
     "id": 7,
     "model": "muse-image",
-    "title": { "en": "Prime-Number Creature Index" },
-    "description": { "en": "A deliberately difficult structured-layout test that maps prime numbers to distinct collectible creatures." },
-    "content": { "en": "Create a clean illustrated index titled PRIME CREATURES. Include one original collectible creature for each prime number from 2 through 47: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, and 47. Arrange them in a disciplined grid. Each cell must contain exactly one creature, the correct prime number, and a short unique name. Make every silhouette and color identity distinct while keeping one consistent illustration system. Do not include composite numbers, duplicate creatures, missing primes, extra labels, or franchise characters." },
+    "title": {
+      "en": "Prime-Number Creature Index"
+    },
+    "description": {
+      "en": "A deliberately difficult structured-layout test that maps prime numbers to distinct collectible creatures."
+    },
+    "content": {
+      "en": "Create a clean illustrated index titled PRIME CREATURES. Include one original collectible creature for each prime number from 2 through 47: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, and 47. Arrange them in a disciplined grid. Each cell must contain exactly one creature, the correct prime number, and a short unique name. Make every silhouette and color identity distinct while keeping one consistent illustration system. Do not include composite numbers, duplicate creatures, missing primes, extra labels, or franchise characters."
+    },
     "sourceLink": "https://x.com/minimaxir/status/2074619946026586223",
     "sourcePublishedAt": "2026-07-07T22:21:54.000Z",
-    "sourceMedia": ["https://pbs.twimg.com/media/HMqH0-qaYAAI3TM.jpg"],
-    "author": { "name": "Max Woolf", "link": "https://x.com/minimaxir" },
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMqH0-qaYAAI3TM.jpg"
+    ],
+    "author": {
+      "name": "Max Woolf",
+      "link": "https://x.com/minimaxir"
+    },
     "language": "en",
     "featured": false,
     "sort": 7,
     "needReferenceImages": false,
-    "imageCategories": { "workflows": [{ "id": 64, "title": "Typography, Posters & Structured Layouts", "slug": "typography-posters-structured-layouts" }] },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Typography, Posters & Structured Layouts",
+          "slug": "typography-posters-structured-layouts"
+        }
+      ]
+    },
     "sourceMeta": {
       "source": "twitterapi.io",
       "tweet_id": "2074619946026586223",
@@ -198,18 +325,37 @@
   {
     "id": 8,
     "model": "muse-image",
-    "title": { "en": "Golden-Hour Hausa Luxury Portrait" },
-    "description": { "en": "A reference-led editorial portrait that locks facial identity while coordinating traditional clothing, modern architecture, automotive styling, and natural golden-hour light." },
-    "content": { "en": "Use the uploaded photo as the facial identity reference. Preserve the person's facial structure, skin tone, hairstyle, eyebrows, eyes, nose, lips, ears, age, proportions, and natural expression with maximum accuracy. Create a premium, ultra-realistic full-body portrait of the subject standing confidently outside a modern luxury home during golden hour. Dress him in a light-grey traditional Hausa kaftan made from high-quality fabric, with long sleeves, matching tailored trousers, subtle chest embroidery, a patterned Hausa cap, and slim transparent eyeglasses. He stands naturally with one hand in his pocket, looking slightly downward with a calm, thoughtful expression. Behind him, show a dark-grey contemporary mansion with large glass windows, warm wall lights, ornamental palms in black planters, and part of a glossy black luxury sedan. Use interlocking grey-and-black driveway stones, soft golden sunlight, realistic shadows, shallow depth of field, natural skin texture, crisp fabric folds, restrained HDR, and premium lifestyle-magazine composition. Full-frame camera, 85mm lens, f/2, ISO 100, eye-level vertical 4:5 framing. No facial drift, body distortion, extra limbs, text, watermark, or artificial beauty retouching." },
+    "title": {
+      "en": "Golden-Hour Hausa Luxury Portrait"
+    },
+    "description": {
+      "en": "A reference-led editorial portrait that locks facial identity while coordinating traditional clothing, modern architecture, automotive styling, and natural golden-hour light."
+    },
+    "content": {
+      "en": "Use the uploaded photo as the facial identity reference. Preserve the person's facial structure, skin tone, hairstyle, eyebrows, eyes, nose, lips, ears, age, proportions, and natural expression with maximum accuracy. Create a premium, ultra-realistic full-body portrait of the subject standing confidently outside a modern luxury home during golden hour. Dress him in a light-grey traditional Hausa kaftan made from high-quality fabric, with long sleeves, matching tailored trousers, subtle chest embroidery, a patterned Hausa cap, and slim transparent eyeglasses. He stands naturally with one hand in his pocket, looking slightly downward with a calm, thoughtful expression. Behind him, show a dark-grey contemporary mansion with large glass windows, warm wall lights, ornamental palms in black planters, and part of a glossy black luxury sedan. Use interlocking grey-and-black driveway stones, soft golden sunlight, realistic shadows, shallow depth of field, natural skin texture, crisp fabric folds, restrained HDR, and premium lifestyle-magazine composition. Full-frame camera, 85mm lens, f/2, ISO 100, eye-level vertical 4:5 framing. No facial drift, body distortion, extra limbs, text, watermark, or artificial beauty retouching."
+    },
     "sourceLink": "https://x.com/abs_uiux/status/2076737842399633676",
     "sourcePublishedAt": "2026-07-13T18:37:40.000Z",
-    "sourceMedia": ["https://pbs.twimg.com/media/HNIODWPWgAA2E9X.jpg"],
-    "author": { "name": "ABS", "link": "https://x.com/abs_uiux" },
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNIODWPWgAA2E9X.jpg"
+    ],
+    "author": {
+      "name": "ABS",
+      "link": "https://x.com/abs_uiux"
+    },
     "language": "en",
     "featured": false,
     "sort": 8,
     "needReferenceImages": true,
-    "imageCategories": { "workflows": [{ "id": 62, "title": "Precision Editing & Scene Preservation", "slug": "precision-editing-scene-preservation" }] },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Precision Editing & Scene Preservation",
+          "slug": "precision-editing-scene-preservation"
+        }
+      ]
+    },
     "sourceMeta": {
       "source": "twitterapi.io",
       "tweet_id": "2076737842399633676",
@@ -222,5 +368,54 @@
       "collected_at": "2026-07-19",
       "curation_note": "Recovered from the creator's thread reply; promotional filler was removed while identity, wardrobe, environment, camera, and negative constraints were preserved."
     }
+  },
+  {
+    "id": 9,
+    "model": "muse-image",
+    "title": {
+      "en": "Watercolor wedding-planner poster with exact service blocks"
+    },
+    "description": {
+      "en": "A structured luxury poster that combines floral watercolor framing, a monogram, exact headlines, four service icons, and a bordered consultation callout."
+    },
+    "content": {
+      "en": "Create a luxury advertising poster for a fictional wedding-planning studio. Modern minimal composition in blush pink, ivory, sage green, and restrained gold. Build a watercolor floral frame from roses, eucalyptus, pampas grass, and gold-leaf line art. At the top center, place a circular E&W monogram inside a botanical wreath. Set the exact headline “ELEGANT WEDDINGS, Perfectly Planned” in bold serif type and the exact subheadline “Your Dream Day, Our Expertise” in gold italic serif. Center a tasteful silhouette of a bride and groom holding hands, surrounded by soft watercolor flowers. Below, create four aligned service icons labeled Decoration, Catering, Photography, and Venue. Finish with a gold-bordered CTA box reading “Book Your Free Consultation Today” and fictional contact details. Professional print finish, vertical 4:5, readable typography, no garbled copy, no extra logos."
+    },
+    "sourceLink": "https://x.com/abs_uiux/status/2078805002395492649",
+    "sourcePublishedAt": "2026-07-19T11:31:49.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg"
+    ],
+    "author": {
+      "name": "Abkr Sadiq",
+      "link": "https://x.com/abs_uiux"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2078805002395492649",
+      "model_evidence": "muse-image",
+      "collected_at": "2026-07-22",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 2,
+      "replyCount": 8,
+      "likeCount": 34,
+      "quoteCount": 0,
+      "viewCount": 1659,
+      "bookmarkCount": 18
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Typography, Posters & Structured Layouts",
+          "slug": "typography-posters-structured-layouts"
+        }
+      ]
+    },
+    "sort": 9
   }
 ]
