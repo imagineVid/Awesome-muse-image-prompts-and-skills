@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | 提示词总数 | **9** |
 | 精选 | **3** |
-| 最后更新 | **2026年7月22日星期三 UTC 21:00:47** |
+| 最后更新 | **2026年7月23日星期四 UTC 02:20:54** |
 
 </div>
 
@@ -833,6 +833,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[提交提示词](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>本 README 自动生成。最后更新： 2026-07-22T21:00:47.482Z</sub>
+<sub>本 README 自动生成。最后更新： 2026-07-23T02:20:54.993Z</sub>
 
 </div>
