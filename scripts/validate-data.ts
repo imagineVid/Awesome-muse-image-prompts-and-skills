@@ -1,6 +1,6 @@
 /**
  * [INPUT]: 依赖 data/ 的提示词、13 语本地化元数据与案例，依赖 prompt-quality 及媒体审计工具
- * [OUTPUT]: 对外提供结构、来源、本地化覆盖、分类和重复媒体的发布前校验命令
+ * [OUTPUT]: 对外提供结构、来源、本地化覆盖、分类、GitHub 可渲染媒体和重复媒体的发布前校验命令
  * [POS]: scripts 的质量闸门，被 README 生成与持续集成共同调用
  * [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
  */
@@ -243,7 +243,12 @@ function validateStructuralDuplicates(
       }
 
       for (const media of officialCase.media) {
-        if (/^https:\/\//.test(media.url)) continue;
+        if (/^https:\/\//.test(media.url)) {
+          if (media.url.includes("lookaside.fbsbx.com") && !media.url.includes("transcode_extension=webp")) {
+            errors.push(`Official cases: case ${officialCase.id} lookaside media must request webp transcoding for GitHub rendering`);
+          }
+          continue;
+        }
         const mediaPath = path.join(ROOT_DIR, media.url);
         if (!media.url.startsWith("public/official-cases/")) {
           errors.push(`Official cases: case ${officialCase.id} must use first-party HTTPS or public/official-cases media`);

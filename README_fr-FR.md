@@ -177,14 +177,14 @@ Short natural-language edits published by Meta, paired with the resulting Muse I
 
 **Before:**
 
-<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1497625018273802&amp;version=1783371765" height="340" alt="Historical photo restoration Before">
+<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1497625018273802&amp;version=1783371765&amp;transcode_extension=webp" height="340" alt="Historical photo restoration Before">
 
 </td>
 <td width="50%" valign="top">
 
 **After:**
 
-<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1234655725368510&amp;version=1783371828" height="340" alt="Historical photo restoration After">
+<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1234655725368510&amp;version=1783371828&amp;transcode_extension=webp" height="340" alt="Historical photo restoration After">
 
 </td>
 </tr>
@@ -208,14 +208,14 @@ Restore this image.
 
 **Before:**
 
-<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1542641807320755&amp;version=1783371854" height="340" alt="Fog removal with valley reveal Before">
+<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1542641807320755&amp;version=1783371854&amp;transcode_extension=webp" height="340" alt="Fog removal with valley reveal Before">
 
 </td>
 <td width="50%" valign="top">
 
 **After:**
 
-<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1555696182918676&amp;version=1783371872" height="340" alt="Fog removal with valley reveal After">
+<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1555696182918676&amp;version=1783371872&amp;transcode_extension=webp" height="340" alt="Fog removal with valley reveal After">
 
 </td>
 </tr>
@@ -239,14 +239,14 @@ Edit this to clear up the fog and reveal the beautiful valley below.
 
 **Before:**
 
-<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=2073875150007095&amp;version=1783371892" height="340" alt="Rainbow-gradient flower edit Before">
+<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=2073875150007095&amp;version=1783371892&amp;transcode_extension=webp" height="340" alt="Rainbow-gradient flower edit Before">
 
 </td>
 <td width="50%" valign="top">
 
 **After:**
 
-<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1031962309364259&amp;version=1783371926" height="340" alt="Rainbow-gradient flower edit After">
+<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1031962309364259&amp;version=1783371926&amp;transcode_extension=webp" height="340" alt="Rainbow-gradient flower edit After">
 
 </td>
 </tr>
@@ -270,14 +270,14 @@ Change the flower so the petals form a rainbow gradient.
 
 **Before:**
 
-<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1496618395832148&amp;version=1783371947" height="340" alt="Exact parking-sign text replacement Before">
+<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1496618395832148&amp;version=1783371947&amp;transcode_extension=webp" height="340" alt="Exact parking-sign text replacement Before">
 
 </td>
 <td width="50%" valign="top">
 
 **After:**
 
-<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=4419784281629180&amp;version=1783371971" height="340" alt="Exact parking-sign text replacement After">
+<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=4419784281629180&amp;version=1783371971&amp;transcode_extension=webp" height="340" alt="Exact parking-sign text replacement After">
 
 </td>
 </tr>
@@ -301,14 +301,14 @@ Change this image to be '$3.00 ALL DAY', change the 'NO FREE PARKING' text to 'F
 
 **Before:**
 
-<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=2461873970995790&amp;version=1783371998" height="340" alt="Context-preserving zoom-out Before">
+<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=2461873970995790&amp;version=1783371998&amp;transcode_extension=webp" height="340" alt="Context-preserving zoom-out Before">
 
 </td>
 <td width="50%" valign="top">
 
 **After:**
 
-<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=2222922151829879&amp;version=1783372013" height="340" alt="Context-preserving zoom-out After">
+<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=2222922151829879&amp;version=1783372013&amp;transcode_extension=webp" height="340" alt="Context-preserving zoom-out After">
 
 </td>
 </tr>
@@ -338,21 +338,21 @@ A scene carried across multiple edits while identity, environment, and an embedd
 
 **Picnic:**
 
-<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1719369075952525&amp;version=1783727678" height="300" alt="Cat-and-dog picnic becomes a complete cafe identity Picnic">
+<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1719369075952525&amp;version=1783727678&amp;transcode_extension=webp" height="300" alt="Cat-and-dog picnic becomes a complete cafe identity Picnic">
 
 </td>
 <td width="33%" valign="top">
 
 **Interior:**
 
-<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=2094485221415221&amp;version=1783727678" height="300" alt="Cat-and-dog picnic becomes a complete cafe identity Interior">
+<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=2094485221415221&amp;version=1783727678&amp;transcode_extension=webp" height="300" alt="Cat-and-dog picnic becomes a complete cafe identity Interior">
 
 </td>
 <td width="33%" valign="top">
 
 **Exterior:**
 
-<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1506241741199488&amp;version=1783727678" height="300" alt="Cat-and-dog picnic becomes a complete cafe identity Exterior">
+<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=1506241741199488&amp;version=1783727678&amp;transcode_extension=webp" height="300" alt="Cat-and-dog picnic becomes a complete cafe identity Exterior">
 
 </td>
 </tr>
@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | Total des prompts | **9** |
 | En vedette | **3** |
-| Dernière mise à jour | **vendredi 24 juillet 2026 à 06:22:02 UTC** |
+| Dernière mise à jour | **vendredi 24 juillet 2026 à 08:56:59 UTC** |
 
 </div>
 
@@ -833,6 +833,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Soumettre un prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Mettre une star au dépôt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Ce README est généré automatiquement. Dernière mise à jour : 2026-07-24T06:22:02.484Z</sub>
+<sub>Ce README est généré automatiquement. Dernière mise à jour : 2026-07-24T08:56:59.119Z</sub>
 
 </div>

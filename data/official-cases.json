@@ -39,8 +39,8 @@
         "id": 5,
         "title": "Historical photo restoration",
         "media": [
-          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1497625018273802&version=1783371765", "label": "Before", "height": 340 },
-          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1234655725368510&version=1783371828", "label": "After", "height": 340 }
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1497625018273802&version=1783371765&transcode_extension=webp", "label": "Before", "height": 340 },
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1234655725368510&version=1783371828&transcode_extension=webp", "label": "After", "height": 340 }
         ],
         "prompt": "Restore this image."
       },
@@ -48,8 +48,8 @@
         "id": 6,
         "title": "Fog removal with valley reveal",
         "media": [
-          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1542641807320755&version=1783371854", "label": "Before", "height": 340 },
-          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1555696182918676&version=1783371872", "label": "After", "height": 340 }
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1542641807320755&version=1783371854&transcode_extension=webp", "label": "Before", "height": 340 },
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1555696182918676&version=1783371872&transcode_extension=webp", "label": "After", "height": 340 }
         ],
         "prompt": "Edit this to clear up the fog and reveal the beautiful valley below."
       },
@@ -57,8 +57,8 @@
         "id": 7,
         "title": "Rainbow-gradient flower edit",
         "media": [
-          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2073875150007095&version=1783371892", "label": "Before", "height": 340 },
-          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1031962309364259&version=1783371926", "label": "After", "height": 340 }
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2073875150007095&version=1783371892&transcode_extension=webp", "label": "Before", "height": 340 },
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1031962309364259&version=1783371926&transcode_extension=webp", "label": "After", "height": 340 }
         ],
         "prompt": "Change the flower so the petals form a rainbow gradient."
       },
@@ -66,8 +66,8 @@
         "id": 8,
         "title": "Exact parking-sign text replacement",
         "media": [
-          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1496618395832148&version=1783371947", "label": "Before", "height": 340 },
-          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=4419784281629180&version=1783371971", "label": "After", "height": 340 }
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1496618395832148&version=1783371947&transcode_extension=webp", "label": "Before", "height": 340 },
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=4419784281629180&version=1783371971&transcode_extension=webp", "label": "After", "height": 340 }
         ],
         "prompt": "Change this image to be '$3.00 ALL DAY', change the 'NO FREE PARKING' text to 'FREE PARKING ON WEEKENDS', and change the phone number to 555-5555."
       },
@@ -75,8 +75,8 @@
         "id": 9,
         "title": "Context-preserving zoom-out",
         "media": [
-          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2461873970995790&version=1783371998", "label": "Before", "height": 340 },
-          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2222922151829879&version=1783372013", "label": "After", "height": 340 }
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2461873970995790&version=1783371998&transcode_extension=webp", "label": "Before", "height": 340 },
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2222922151829879&version=1783372013&transcode_extension=webp", "label": "After", "height": 340 }
         ],
         "prompt": "Zoom out slightly to show the chaos the dog has seen, giving context to its sheepish look."
       }
@@ -91,9 +91,9 @@
         "id": 10,
         "title": "Cat-and-dog picnic becomes a complete cafe identity",
         "media": [
-          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1719369075952525&version=1783727678", "label": "Picnic", "height": 300 },
-          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2094485221415221&version=1783727678", "label": "Interior", "height": 300 },
-          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1506241741199488&version=1783727678", "label": "Exterior", "height": 300 }
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1719369075952525&version=1783727678&transcode_extension=webp", "label": "Picnic", "height": 300 },
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2094485221415221&version=1783727678&transcode_extension=webp", "label": "Interior", "height": 300 },
+          { "url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1506241741199488&version=1783727678&transcode_extension=webp", "label": "Exterior", "height": 300 }
         ],
         "prompt": "Make an image of the referenced cat and dog as best friends having a picnic on a sunny day in vintage 35mm style. Then place that exact picnic image in a frame on a cozy cafe wall, and finally show the cafe exterior while keeping the framed photo visible through the window."
       }

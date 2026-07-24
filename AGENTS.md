@@ -27,6 +27,7 @@ package.json - Node 24 与 pnpm 的验证、测试和生成命令。
 
 ## 发布闸门
 - 运行 `pnpm run generate`、`pnpm test`、`pnpm run typecheck`；需要媒体级重复审计时运行 `pnpm run audit:duplicates`。
+- GitHub README 中的 Meta lookaside 官方案例图必须显式请求 `transcode_extension=webp`，避免远端返回 `application/octet-stream` 导致前后对比破图。
 - README 是结构化数据的生成产物，数据、生成器与全部语言 README 必须同一次提交。
 
 [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
