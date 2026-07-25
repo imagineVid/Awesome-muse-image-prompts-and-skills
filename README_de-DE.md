@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | Prompts gesamt | **9** |
 | Ausgewählt | **3** |
-| Zuletzt aktualisiert | **Samstag, 25. Juli 2026 um 16:52:20 UTC** |
+| Zuletzt aktualisiert | **Samstag, 25. Juli 2026 um 20:43:56 UTC** |
 
 </div>
 
@@ -833,6 +833,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt einreichen](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Repository mit Star markieren](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-25T16:52:20.170Z</sub>
+<sub>Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-25T20:43:56.206Z</sub>
 
 </div>
