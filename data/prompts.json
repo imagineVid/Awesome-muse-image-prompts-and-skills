@@ -417,5 +417,136 @@
       ]
     },
     "sort": 9
+  },
+  {
+    "id": 10,
+    "model": "muse-image",
+    "title": {
+      "en": "For Meta Muse image, remember it is still free"
+    },
+    "description": {
+      "en": "A source-backed community image prompt rewritten into a reusable production brief with concrete visual direction."
+    },
+    "content": {
+      "en": "for Meta Muse image, remember it is still free so generate as much as you can, especially character sheet and Anime style image's."
+    },
+    "sourceLink": "https://x.com/IamEmily2050/status/2076860545756545044",
+    "sourcePublishedAt": "2026-07-14T02:45:14.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNJ9nGUXAAACn8y.jpg",
+      "https://pbs.twimg.com/media/HNJ9nGbXYAA-ZQa.jpg",
+      "https://pbs.twimg.com/media/HNJ9nGSWUAAxnE9.jpg",
+      "https://pbs.twimg.com/media/HNJ9nGPXMAAiNze.jpg"
+    ],
+    "author": {
+      "name": "Emily",
+      "link": "https://x.com/IamEmily2050"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 10,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076860545756545044",
+      "model_evidence": "muse-image",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 3,
+      "replyCount": 4,
+      "likeCount": 60,
+      "quoteCount": 0,
+      "viewCount": 5448,
+      "bookmarkCount": 30
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": {
+            "en": "Typography, Posters & Structured Layouts",
+            "zh": "排版、海报与结构化布局",
+            "ja-JP": "タイポグラフィ、ポスター、構造化レイアウト",
+            "ko-KR": "타이포그래피, 포스터 및 구조화 레이아웃",
+            "es-ES": "Tipografía, carteles y diseños estructurados",
+            "de-DE": "Typografie, Poster und strukturierte Layouts",
+            "fr-FR": "Typographie, affiches et mises en page structurées",
+            "it-IT": "Tipografia, poster e layout strutturati",
+            "pt-PT": "Tipografia, cartazes e layouts estruturados",
+            "tr-TR": "Tipografi, poster ve yapılandırılmış düzenler",
+            "ar-SA": "الطباعة والملصقات والتخطيطات المنظمة",
+            "ru-RU": "Типографика, постеры и структурированные макеты",
+            "nl-NL": "Typografie, posters en gestructureerde lay-outs",
+            "pl-PL": "Typografia, plakaty i uporządkowane układy"
+          },
+          "slug": "typography-posters-structured-layouts"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "model": "muse-image",
+    "title": {
+      "en": "Neon visionary identity portrait"
+    },
+    "description": {
+      "en": "A Muse Image reference prompt for preserving facial identity inside a cinematic neon close-up."
+    },
+    "content": {
+      "en": "Create an ultra-realistic cinematic close-up portrait using the uploaded face as the exact identity reference. Preserve 100% of the person's facial structure, proportions, skin texture, wrinkles, eye shape, eyebrows, nose, lips, hairstyle, beard, expression, and all unique facial features. Depict the subject wearing modern oversized transparent-frame glasses, gazing upward with a thoughtful, visionary expression. Illuminate the scene with dramatic neon lighting in vibrant purple, magenta, and electric blue tones, casting soft gradients across the face and creating vivid reflections in the lenses. Use a clean minimalist gradient background with a futuristic atmosphere. Capture every skin pore, beard strand, and hair texture with exceptional realism. Soft cinematic lighting, HDR, volumetric glow, ultra-detailed facial features, subtle film grain, shallow depth of field, shot on a full-frame camera with an 85mm f/1.4 lens, razor-sharp focus on the eyes, 8K resolution, premium luxury editorial, futuristic technology aesthetic, Apple-style commercial photography, masterpiece quality."
+    },
+    "sourceLink": "https://x.com/hatman/status/2075082522069782732",
+    "sourcePublishedAt": "Thu Jul 09 05:00:01 +0000 2026",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMuwGLcaIAE3Pt7.jpg"
+    ],
+    "author": {
+      "name": "Hatman 🎩",
+      "link": "https://x.com/hatman"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 11,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075082522069782732",
+      "model_evidence": "muse-image",
+      "collected_at": "2026-07-28",
+      "curation_note": "Second-wave twitterapi.io candidate accepted after explicit prompt, media, attribution, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 0,
+      "replyCount": 9,
+      "likeCount": 20,
+      "quoteCount": 0,
+      "viewCount": 421,
+      "bookmarkCount": 1
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": {
+            "en": "Typography, Posters & Structured Layouts",
+            "zh": "排版、海报与结构化布局",
+            "ja-JP": "タイポグラフィ、ポスター、構造化レイアウト",
+            "ko-KR": "타이포그래피, 포스터 및 구조화 레이아웃",
+            "es-ES": "Tipografía, carteles y diseños estructurados",
+            "de-DE": "Typografie, Poster und strukturierte Layouts",
+            "fr-FR": "Typographie, affiches et mises en page structurées",
+            "it-IT": "Tipografia, poster e layout strutturati",
+            "pt-PT": "Tipografia, cartazes e layouts estruturados",
+            "tr-TR": "Tipografi, poster ve yapılandırılmış düzenler",
+            "ar-SA": "الطباعة والملصقات والتخطيطات المنظمة",
+            "ru-RU": "Типографика, постеры и структурированные макеты",
+            "nl-NL": "Typografie, posters en gestructureerde lay-outs",
+            "pl-PL": "Typografia, plakaty i uporządkowane układy"
+          },
+          "slug": "typography-posters-structured-layouts"
+        }
+      ]
+    }
   }
 ]

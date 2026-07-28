@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **9** |
+| Total Prompts | **11** |
 | Featured | **3** |
-| Last Updated | **Tuesday, July 28, 2026 at 1:53:50 PM UTC** |
+| Last Updated | **Tuesday, July 28, 2026 at 10:51:22 AM UTC** |
 
 </div>
 
@@ -622,7 +622,7 @@ Multi-reference compositions that preserve recognizable people, products, garmen
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### Typography, Posters & Structured Layouts (3)
+### Typography, Posters & Structured Layouts (5)
 
 Designed visuals where readable type, hierarchy, spacing, and repeatable layout rules matter.
 
@@ -731,6 +731,80 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 ---
 
+<a id="prompt-10"></a>
+
+#### No. 6: For Meta Muse image, remember it is still free
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Description
+
+A source-backed community image prompt rewritten into a reusable production brief with concrete visual direction.
+
+##### Prompt
+
+```
+for Meta Muse image, remember it is still free so generate as much as you can, especially character sheet and Anime style image's.
+```
+
+##### Source Results
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGUXAAACn8y.jpg" width="100%" alt="For Meta Muse image, remember it is still free - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGbXYAA-ZQa.jpg" width="100%" alt="For Meta Muse image, remember it is still free - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGSWUAAxnE9.jpg" width="100%" alt="For Meta Muse image, remember it is still free - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGPXMAAiNze.jpg" width="100%" alt="For Meta Muse image, remember it is still free - Image 4"></td>
+</tr>
+</table>
+
+##### Source Details
+
+- **Author:** [Emily](https://x.com/IamEmily2050)
+- **Source:** [Source](https://x.com/IamEmily2050/status/2076860545756545044)
+- **Published on X:** July 14, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/ai-image-generator)**
+
+---
+
+<a id="prompt-11"></a>
+
+#### No. 7: Neon visionary identity portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Description
+
+A Muse Image reference prompt for preserving facial identity inside a cinematic neon close-up.
+
+##### Prompt
+
+```
+Create an ultra-realistic cinematic close-up portrait using the uploaded face as the exact identity reference. Preserve 100% of the person's facial structure, proportions, skin texture, wrinkles, eye shape, eyebrows, nose, lips, hairstyle, beard, expression, and all unique facial features. Depict the subject wearing modern oversized transparent-frame glasses, gazing upward with a thoughtful, visionary expression. Illuminate the scene with dramatic neon lighting in vibrant purple, magenta, and electric blue tones, casting soft gradients across the face and creating vivid reflections in the lenses. Use a clean minimalist gradient background with a futuristic atmosphere. Capture every skin pore, beard strand, and hair texture with exceptional realism. Soft cinematic lighting, HDR, volumetric glow, ultra-detailed facial features, subtle film grain, shallow depth of field, shot on a full-frame camera with an 85mm f/1.4 lens, razor-sharp focus on the eyes, 8K resolution, premium luxury editorial, futuristic technology aesthetic, Apple-style commercial photography, masterpiece quality.
+```
+
+##### Source Results
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuwGLcaIAE3Pt7.jpg" width="100%" alt="Neon visionary identity portrait - Image 1"></td>
+</tr>
+</table>
+
+##### Source Details
+
+- **Author:** [Hatman 🎩](https://x.com/hatman)
+- **Source:** [Source](https://x.com/hatman/status/2075082522069782732)
+- **Published on X:** July 9, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### Sequential Art & Social Formats (1)
@@ -749,7 +823,7 @@ Portrait and art-direction prompts where likeness, material texture, lighting, a
 
 <a id="prompt-4"></a>
 
-#### No. 6: Old-Master Armchair Portrait
+#### No. 8: Old-Master Armchair Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -811,9 +885,9 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 ## Acknowledgements
 
 <details>
-<summary>Community creators we thank (7)</summary>
+<summary>Community creators we thank (8)</summary>
 
-[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Hatman 🎩](https://x.com/hatman) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -833,6 +907,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Submit a Prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star this repo](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-28T13:53:50.298Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-28T10:51:22.061Z</sub>
 
 </div>

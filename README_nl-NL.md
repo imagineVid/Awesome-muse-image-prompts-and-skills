@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Metriek | Aantal |
 |--------|-------|
-| Totaal prompts | **9** |
+| Totaal prompts | **11** |
 | Uitgelicht | **3** |
-| Laatst bijgewerkt | **dinsdag 28 juli 2026 om 13:53:50 UTC** |
+| Laatst bijgewerkt | **dinsdag 28 juli 2026 om 10:51:22 UTC** |
 
 </div>
 
@@ -622,7 +622,7 @@ Composities met meerdere referenties die personen, producten, kleding of visuele
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### Typografie, posters en gestructureerde lay-outs (3)
+### Typografie, posters en gestructureerde lay-outs (5)
 
 Ontworpen beelden waarin leesbare tekst, hiërarchie, witruimte en herhaalbare lay-outregels centraal staan.
 
@@ -731,6 +731,80 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 ---
 
+<a id="prompt-10"></a>
+
+#### No. 6: Nieuwe case: For Meta Muse image, remember it is still free
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Beschrijving
+
+Herbruikbare promptcase uit een openbare X-bron, met duidelijke visuele regie en controleerbare productie-eisen.
+
+##### Oorspronkelijke prompt (Engels)
+
+```
+for Meta Muse image, remember it is still free so generate as much as you can, especially character sheet and Anime style image's.
+```
+
+##### Bronresultaten
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGUXAAACn8y.jpg" width="100%" alt="Nieuwe case: For Meta Muse image, remember it is still free - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGbXYAA-ZQa.jpg" width="100%" alt="Nieuwe case: For Meta Muse image, remember it is still free - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGSWUAAxnE9.jpg" width="100%" alt="Nieuwe case: For Meta Muse image, remember it is still free - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGPXMAAiNze.jpg" width="100%" alt="Nieuwe case: For Meta Muse image, remember it is still free - Image 4"></td>
+</tr>
+</table>
+
+##### Details
+
+- **Auteur:** [Emily](https://x.com/IamEmily2050)
+- **Bron:** [Bron](https://x.com/IamEmily2050/status/2076860545756545044)
+- **Gepubliceerd:** 14 juli 2026
+- **Talen:** en
+
+**[Gebruik deze prompt · ImagineVid](https://imaginevid.io/nl/ai-image-generator)**
+
+---
+
+<a id="prompt-11"></a>
+
+#### No. 7: New case: Neon visionary identity portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Beschrijving
+
+Geselecteerde X-prompt met helder visueel doel, controleerbare compositie, openbaar mediabewijs en traceerbare bron.
+
+##### Oorspronkelijke prompt (Engels)
+
+```
+Create an ultra-realistic cinematic close-up portrait using the uploaded face as the exact identity reference. Preserve 100% of the person's facial structure, proportions, skin texture, wrinkles, eye shape, eyebrows, nose, lips, hairstyle, beard, expression, and all unique facial features. Depict the subject wearing modern oversized transparent-frame glasses, gazing upward with a thoughtful, visionary expression. Illuminate the scene with dramatic neon lighting in vibrant purple, magenta, and electric blue tones, casting soft gradients across the face and creating vivid reflections in the lenses. Use a clean minimalist gradient background with a futuristic atmosphere. Capture every skin pore, beard strand, and hair texture with exceptional realism. Soft cinematic lighting, HDR, volumetric glow, ultra-detailed facial features, subtle film grain, shallow depth of field, shot on a full-frame camera with an 85mm f/1.4 lens, razor-sharp focus on the eyes, 8K resolution, premium luxury editorial, futuristic technology aesthetic, Apple-style commercial photography, masterpiece quality.
+```
+
+##### Bronresultaten
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuwGLcaIAE3Pt7.jpg" width="100%" alt="New case: Neon visionary identity portrait - Image 1"></td>
+</tr>
+</table>
+
+##### Details
+
+- **Auteur:** [Hatman 🎩](https://x.com/hatman)
+- **Bron:** [Bron](https://x.com/hatman/status/2075082522069782732)
+- **Gepubliceerd:** 9 juli 2026
+- **Talen:** en
+
+**[Gebruik deze prompt · ImagineVid](https://imaginevid.io/nl/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### Sequentiële kunst en sociale formaten (1)
@@ -749,7 +823,7 @@ Portret- en artdirectionprompts waarin gelijkenis, materiaaltextuur, licht en ee
 
 <a id="prompt-4"></a>
 
-#### No. 6: Fauteuilportret in de sfeer van oude meesters
+#### No. 8: Fauteuilportret in de sfeer van oude meesters
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -811,9 +885,9 @@ Uitgegeven onder [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 ## Dankbetuigingen
 
 <details>
-<summary>Makers uit de community (7)</summary>
+<summary>Makers uit de community (8)</summary>
 
-[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Hatman 🎩](https://x.com/hatman) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -833,6 +907,6 @@ Uitgegeven onder [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt indienen](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef deze repo een Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Deze README is automatisch gegenereerd. Laatst bijgewerkt: 2026-07-28T13:53:50.342Z</sub>
+<sub>Deze README is automatisch gegenereerd. Laatst bijgewerkt: 2026-07-28T10:51:22.106Z</sub>
 
 </div>

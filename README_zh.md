@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **9** |
+| 提示词总数 | **11** |
 | 精选 | **3** |
-| 最后更新 | **2026年7月28日星期二 UTC 13:53:50** |
+| 最后更新 | **2026年7月28日星期二 UTC 10:51:22** |
 
 </div>
 
@@ -622,7 +622,7 @@ Use the uploaded photo as the facial identity reference. Preserve the person's f
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### 排版、海报与结构化布局 (3)
+### 排版、海报与结构化布局 (5)
 
 强调文字可读性、信息层级、间距与可复用版式规则的设计视觉。
 
@@ -731,6 +731,80 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 ---
 
+<a id="prompt-10"></a>
+
+#### No. 6: 新增案例：For Meta Muse image, remember it is still free
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 说明
+
+来自 X 的可复用提示词案例，重点保留清晰的视觉目标、可控构图和来源可追溯性。
+
+##### 原始提示词（英文）
+
+```
+for Meta Muse image, remember it is still free so generate as much as you can, especially character sheet and Anime style image's.
+```
+
+##### 来源结果
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGUXAAACn8y.jpg" width="100%" alt="新增案例：For Meta Muse image, remember it is still free - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGbXYAA-ZQa.jpg" width="100%" alt="新增案例：For Meta Muse image, remember it is still free - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGSWUAAxnE9.jpg" width="100%" alt="新增案例：For Meta Muse image, remember it is still free - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGPXMAAiNze.jpg" width="100%" alt="新增案例：For Meta Muse image, remember it is still free - Image 4"></td>
+</tr>
+</table>
+
+##### 详情
+
+- **作者:** [Emily](https://x.com/IamEmily2050)
+- **来源:** [来源](https://x.com/IamEmily2050/status/2076860545756545044)
+- **发布时间:** 2026年7月14日
+- **语言:** en
+
+**[使用这个提示词 · ImagineVid](https://imaginevid.io/zh/ai-image-generator)**
+
+---
+
+<a id="prompt-11"></a>
+
+#### No. 7: New case: Neon visionary identity portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### 说明
+
+来自 X 的精选提示词案例，保留清晰视觉目标、可控构图、公开素材证据与来源可追溯性。
+
+##### 原始提示词（英文）
+
+```
+Create an ultra-realistic cinematic close-up portrait using the uploaded face as the exact identity reference. Preserve 100% of the person's facial structure, proportions, skin texture, wrinkles, eye shape, eyebrows, nose, lips, hairstyle, beard, expression, and all unique facial features. Depict the subject wearing modern oversized transparent-frame glasses, gazing upward with a thoughtful, visionary expression. Illuminate the scene with dramatic neon lighting in vibrant purple, magenta, and electric blue tones, casting soft gradients across the face and creating vivid reflections in the lenses. Use a clean minimalist gradient background with a futuristic atmosphere. Capture every skin pore, beard strand, and hair texture with exceptional realism. Soft cinematic lighting, HDR, volumetric glow, ultra-detailed facial features, subtle film grain, shallow depth of field, shot on a full-frame camera with an 85mm f/1.4 lens, razor-sharp focus on the eyes, 8K resolution, premium luxury editorial, futuristic technology aesthetic, Apple-style commercial photography, masterpiece quality.
+```
+
+##### 来源结果
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuwGLcaIAE3Pt7.jpg" width="100%" alt="New case: Neon visionary identity portrait - Image 1"></td>
+</tr>
+</table>
+
+##### 详情
+
+- **作者:** [Hatman 🎩](https://x.com/hatman)
+- **来源:** [来源](https://x.com/hatman/status/2075082522069782732)
+- **发布时间:** 2026年7月9日
+- **语言:** en
+
+**[使用这个提示词 · ImagineVid](https://imaginevid.io/zh/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### 连续画面与社交媒体格式 (1)
@@ -749,7 +823,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <a id="prompt-4"></a>
 
-#### No. 6: 古典大师风扶手椅肖像
+#### No. 8: 古典大师风扶手椅肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -811,9 +885,9 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 ## 致谢
 
 <details>
-<summary>查看并感谢社区作者 (7)</summary>
+<summary>查看并感谢社区作者 (8)</summary>
 
-[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Hatman 🎩](https://x.com/hatman) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -833,6 +907,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[提交提示词](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>本 README 自动生成。最后更新： 2026-07-28T13:53:50.305Z</sub>
+<sub>本 README 自动生成。最后更新： 2026-07-28T10:51:22.067Z</sub>
 
 </div>

@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Métrica | Quantidade |
 |--------|-------|
-| Total de prompts | **9** |
+| Total de prompts | **11** |
 | Destaque | **3** |
-| Última atualização | **terça-feira, 28 de julho de 2026 às 13:53:50 UTC** |
+| Última atualização | **terça-feira, 28 de julho de 2026 às 10:51:22 UTC** |
 
 </div>
 
@@ -622,7 +622,7 @@ Composições com várias referências que preservam pessoas, produtos, vestuár
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
-### Tipografia, cartazes e layouts estruturados (3)
+### Tipografia, cartazes e layouts estruturados (5)
 
 Visuais de design em que contam texto legível, hierarquia, espaçamento e regras de composição reutilizáveis.
 
@@ -731,6 +731,80 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 ---
 
+<a id="prompt-10"></a>
+
+#### No. 6: Novo caso: For Meta Muse image, remember it is still free
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Descrição
+
+Caso reutilizável baseado numa fonte pública do X, com direção visual clara e restrições verificáveis.
+
+##### Prompt original (em inglês)
+
+```
+for Meta Muse image, remember it is still free so generate as much as you can, especially character sheet and Anime style image's.
+```
+
+##### Resultados da fonte
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGUXAAACn8y.jpg" width="100%" alt="Novo caso: For Meta Muse image, remember it is still free - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGbXYAA-ZQa.jpg" width="100%" alt="Novo caso: For Meta Muse image, remember it is still free - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGSWUAAxnE9.jpg" width="100%" alt="Novo caso: For Meta Muse image, remember it is still free - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNJ9nGPXMAAiNze.jpg" width="100%" alt="Novo caso: For Meta Muse image, remember it is still free - Image 4"></td>
+</tr>
+</table>
+
+##### Detalhes
+
+- **Autor:** [Emily](https://x.com/IamEmily2050)
+- **Fonte:** [Fonte](https://x.com/IamEmily2050/status/2076860545756545044)
+- **Publicado:** 14 de julho de 2026
+- **Idiomas:** en
+
+**[Usar este prompt · ImagineVid](https://imaginevid.io/pt/ai-image-generator)**
+
+---
+
+<a id="prompt-11"></a>
+
+#### No. 7: New case: Neon visionary identity portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Descrição
+
+Caso selecionado do X com objetivo visual claro, composicao controlavel, evidencia publica de midia e fonte rastreavel.
+
+##### Prompt original (em inglês)
+
+```
+Create an ultra-realistic cinematic close-up portrait using the uploaded face as the exact identity reference. Preserve 100% of the person's facial structure, proportions, skin texture, wrinkles, eye shape, eyebrows, nose, lips, hairstyle, beard, expression, and all unique facial features. Depict the subject wearing modern oversized transparent-frame glasses, gazing upward with a thoughtful, visionary expression. Illuminate the scene with dramatic neon lighting in vibrant purple, magenta, and electric blue tones, casting soft gradients across the face and creating vivid reflections in the lenses. Use a clean minimalist gradient background with a futuristic atmosphere. Capture every skin pore, beard strand, and hair texture with exceptional realism. Soft cinematic lighting, HDR, volumetric glow, ultra-detailed facial features, subtle film grain, shallow depth of field, shot on a full-frame camera with an 85mm f/1.4 lens, razor-sharp focus on the eyes, 8K resolution, premium luxury editorial, futuristic technology aesthetic, Apple-style commercial photography, masterpiece quality.
+```
+
+##### Resultados da fonte
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuwGLcaIAE3Pt7.jpg" width="100%" alt="New case: Neon visionary identity portrait - Image 1"></td>
+</tr>
+</table>
+
+##### Detalhes
+
+- **Autor:** [Hatman 🎩](https://x.com/hatman)
+- **Fonte:** [Fonte](https://x.com/hatman/status/2075082522069782732)
+- **Publicado:** 9 de julho de 2026
+- **Idiomas:** en
+
+**[Usar este prompt · ImagineVid](https://imaginevid.io/pt/ai-image-generator)**
+
+---
+
 <a id="workflow-sequential-art-social-formats"></a>
 
 ### Arte sequencial e formatos sociais (1)
@@ -749,7 +823,7 @@ Prompts de retrato e direção artística guiados por semelhança, textura, luz 
 
 <a id="prompt-4"></a>
 
-#### No. 6: Retrato em poltrona inspirado nos mestres antigos
+#### No. 8: Retrato em poltrona inspirado nos mestres antigos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -811,9 +885,9 @@ Disponibilizado sob a licença [CC BY 4.0](https://creativecommons.org/licenses/
 ## Agradecimentos
 
 <details>
-<summary>Autores da comunidade (7)</summary>
+<summary>Autores da comunidade (8)</summary>
 
-[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Hatman 🎩](https://x.com/hatman) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -833,6 +907,6 @@ Disponibilizado sob a licença [CC BY 4.0](https://creativecommons.org/licenses/
 **[Enviar prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adicionar uma Star ao repositório](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>README gerado automaticamente. Última atualização: 2026-07-28T13:53:50.330Z</sub>
+<sub>README gerado automaticamente. Última atualização: 2026-07-28T10:51:22.096Z</sub>
 
 </div>
