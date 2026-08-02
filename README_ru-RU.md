@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | Всего промптов | **11** |
 | Избранное | **3** |
-| Обновлено | **воскресенье, 2 августа 2026 г. в 13:10:00 UTC** |
+| Обновлено | **воскресенье, 2 августа 2026 г. в 16:53:59 UTC** |
 
 </div>
 
@@ -907,6 +907,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[Отправить промпт](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Этот README создан автоматически. Последнее обновление: 2026-08-02T13:10:00.871Z</sub>
+<sub>Этот README создан автоматически. Последнее обновление: 2026-08-02T16:53:59.105Z</sub>
 
 </div>
