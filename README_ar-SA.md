@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | إجمالي التعليمات | **12** |
 | مميز | **3** |
-| آخر تحديث | **الاثنين، ٣ أغسطس ٢٠٢٦ في ١:٢٧:٠٣ م UTC** |
+| آخر تحديث | **الاثنين، ٣ أغسطس ٢٠٢٦ في ٢:١١:٥٨ م UTC** |
 
 </div>
 
@@ -698,13 +698,13 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: ملصق زفاف مائي بكتل خدمات دقيقة
+#### No. 5: Luxury wedding-planner advertising poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 ##### الوصف
 
-ملصق فاخر منظم يجمع إطاراً نباتياً ومونوغراماً وعناوين دقيقة وأربع أيقونات ودعوة للاستشارة.
+A source-backed Muse Image layout case that tests readable typography, restrained romantic color, service icons, and print-ready hierarchy in one vertical poster.
 
 ##### التعليمة الأصلية (بالإنجليزية)
 
@@ -716,7 +716,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="ملصق زفاف مائي بكتل خدمات دقيقة - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Luxury wedding-planner advertising poster - Image 1"></td>
 </tr>
 </table>
 
@@ -945,6 +945,6 @@ Create an ultra-photorealistic documentary street photograph of a person standin
 **[إرسال تعليمة](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمستودع](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-08-03T13:27:03.088Z</sub>
+<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-08-03T14:11:58.058Z</sub>
 
 </div>

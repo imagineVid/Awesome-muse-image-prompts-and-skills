@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | Prompts gesamt | **12** |
 | Ausgewählt | **3** |
-| Zuletzt aktualisiert | **Montag, 3. August 2026 um 13:27:03 UTC** |
+| Zuletzt aktualisiert | **Montag, 3. August 2026 um 14:11:58 UTC** |
 
 </div>
 
@@ -698,13 +698,13 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: Aquarell-Hochzeitsplakat mit klaren Leistungsblöcken
+#### No. 5: Luxuriöses Werbeplakat für eine Hochzeitsplanung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 ##### Beschreibung
 
-Ein strukturiertes Luxusplakat mit Blumenrahmen, Monogramm, exakten Überschriften, vier Service-Icons und Beratungsfeld.
+Ein quellenbasierter Muse-Image-Layoutfall, der lesbare Typografie, zurückhaltende romantische Farben, Service-Icons und eine druckreife Hierarchie auf einem Hochkantplakat prüft.
 
 ##### Originalprompt (Englisch)
 
@@ -716,7 +716,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Aquarell-Hochzeitsplakat mit klaren Leistungsblöcken - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Luxuriöses Werbeplakat für eine Hochzeitsplanung - Image 1"></td>
 </tr>
 </table>
 
@@ -945,6 +945,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt einreichen](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Repository mit Star markieren](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-03T13:27:03.065Z</sub>
+<sub>Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-03T14:11:58.004Z</sub>
 
 </div>

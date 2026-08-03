@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | プロンプト総数 | **12** |
 | 注目 | **3** |
-| 最終更新 | **2026年8月3日月曜日 13:27:03 UTC** |
+| 最終更新 | **2026年8月3日月曜日 14:11:57 UTC** |
 
 </div>
 
@@ -698,13 +698,13 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: 正確なサービス欄を備えた水彩ウェディングポスター
+#### No. 5: 高級ウェディングプランナーの広告ポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 ##### 説明
 
-水彩の花枠、モノグラム、正確な見出し、4つのサービスアイコン、金縁の相談欄を組み合わせた上質な構成ポスター。
+読みやすい文字、抑制したロマンチックな色、サービスアイコン、印刷向けの階層を一枚の縦長ポスターで検証する出典付きMuse Imageレイアウトケース。
 
 ##### 原文プロンプト（英語）
 
@@ -716,7 +716,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="正確なサービス欄を備えた水彩ウェディングポスター - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="高級ウェディングプランナーの広告ポスター - Image 1"></td>
 </tr>
 </table>
 
@@ -945,6 +945,6 @@ Create an ultra-photorealistic documentary street photograph of a person standin
 **[プロンプトを投稿](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-08-03T13:27:03.047Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-08-03T14:11:57.983Z</sub>
 
 </div>

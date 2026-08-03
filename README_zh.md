@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | 提示词总数 | **12** |
 | 精选 | **3** |
-| 最后更新 | **2026年8月3日星期一 UTC 13:27:03** |
+| 最后更新 | **2026年8月3日星期一 UTC 14:11:57** |
 
 </div>
 
@@ -698,13 +698,13 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: 带精确服务模块的水彩婚礼策划海报
+#### No. 5: 奢华婚礼策划广告海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 ##### 说明
 
-一张结构化奢华海报，结合水彩花框、字母徽标、精确标题、四个服务图标与描金咨询区。
+在一张竖版海报中检验清晰排版、克制浪漫配色、服务图标和印刷级信息层级的来源明确 Muse Image 布局案例。
 
 ##### 原始提示词（英文）
 
@@ -716,7 +716,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="带精确服务模块的水彩婚礼策划海报 - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="奢华婚礼策划广告海报 - Image 1"></td>
 </tr>
 </table>
 
@@ -945,6 +945,6 @@ Create an ultra-photorealistic documentary street photograph of a person standin
 **[提交提示词](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>本 README 自动生成。最后更新： 2026-08-03T13:27:03.042Z</sub>
+<sub>本 README 自动生成。最后更新： 2026-08-03T14:11:57.974Z</sub>
 
 </div>

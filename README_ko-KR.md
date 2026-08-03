@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | 총 프롬프트 | **12** |
 | 추천 | **3** |
-| 마지막 업데이트 | **2026년 8월 3일 월요일 오후 1시 27분 3초 UTC** |
+| 마지막 업데이트 | **2026년 8월 3일 월요일 PM 2시 11분 57초 UTC** |
 
 </div>
 
@@ -698,13 +698,13 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: 정확한 서비스 블록이 있는 수채화 웨딩 포스터
+#### No. 5: 럭셔리 웨딩 플래너 광고 포스터
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 ##### 설명
 
-수채화 꽃 테두리, 모노그램, 정확한 제목, 네 개의 서비스 아이콘과 금색 상담 상자를 결합한 구조적인 고급 포스터.
+세로 포스터 하나에서 읽기 쉬운 타이포그래피, 절제된 로맨틱 컬러, 서비스 아이콘, 인쇄용 계층 구조를 검증하는 출처 기반 Muse Image 레이아웃 사례입니다.
 
 ##### 원문 프롬프트(영어)
 
@@ -716,7 +716,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="정확한 서비스 블록이 있는 수채화 웨딩 포스터 - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="럭셔리 웨딩 플래너 광고 포스터 - Image 1"></td>
 </tr>
 </table>
 
@@ -945,6 +945,6 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 **[프롬프트 제출](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[저장소에 Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-08-03T13:27:03.053Z</sub>
+<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-08-03T14:11:57.988Z</sub>
 
 </div>

@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | Total de prompts | **12** |
 | Destaque | **3** |
-| Última atualização | **segunda-feira, 3 de agosto de 2026 às 13:27:03 UTC** |
+| Última atualização | **segunda-feira, 3 de agosto de 2026 às 14:11:58 UTC** |
 
 </div>
 
@@ -698,13 +698,13 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: Cartaz de casamento em aquarela com serviços exatos
+#### No. 5: Luxury wedding-planner advertising poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 ##### Descrição
 
-Um cartaz luxuoso e estruturado com moldura floral, monograma, títulos exatos, quatro ícones e chamada de consulta.
+A source-backed Muse Image layout case that tests readable typography, restrained romantic color, service icons, and print-ready hierarchy in one vertical poster.
 
 ##### Prompt original (em inglês)
 
@@ -716,7 +716,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Cartaz de casamento em aquarela com serviços exatos - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Luxury wedding-planner advertising poster - Image 1"></td>
 </tr>
 </table>
 
@@ -945,6 +945,6 @@ Disponibilizado sob a licença [CC BY 4.0](https://creativecommons.org/licenses/
 **[Enviar prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adicionar uma Star ao repositório](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>README gerado automaticamente. Última atualização: 2026-08-03T13:27:03.079Z</sub>
+<sub>README gerado automaticamente. Última atualização: 2026-08-03T14:11:58.032Z</sub>
 
 </div>

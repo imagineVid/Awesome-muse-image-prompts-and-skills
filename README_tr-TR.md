@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | Toplam prompt | **12** |
 | Öne çıkan | **3** |
-| Son güncelleme | **3 Ağustos 2026 Pazartesi 13:27:03 UTC** |
+| Son güncelleme | **3 Ağustos 2026 Pazartesi 14:11:58 UTC** |
 
 </div>
 
@@ -698,13 +698,13 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: Net hizmet bloklu suluboya düğün afişi
+#### No. 5: Luxury wedding-planner advertising poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 ##### Açıklama
 
-Çiçek çerçevesi, monogram, kesin başlıklar, dört hizmet simgesi ve danışma çağrısını birleştiren düzenli lüks afiş.
+A source-backed Muse Image layout case that tests readable typography, restrained romantic color, service icons, and print-ready hierarchy in one vertical poster.
 
 ##### Özgün prompt (İngilizce)
 
@@ -716,7 +716,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Net hizmet bloklu suluboya düğün afişi - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Luxury wedding-planner advertising poster - Image 1"></td>
 </tr>
 </table>
 
@@ -945,6 +945,6 @@ Tüm kurallar için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına bakın.
 **[Prompt gönder](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Depoya Star ver](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Bu README otomatik oluşturuldu. Son güncelleme: 2026-08-03T13:27:03.084Z</sub>
+<sub>Bu README otomatik oluşturuldu. Son güncelleme: 2026-08-03T14:11:58.047Z</sub>
 
 </div>

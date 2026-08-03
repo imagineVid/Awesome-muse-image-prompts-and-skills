@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | Prompt totali | **12** |
 | In evidenza | **3** |
-| Ultimo aggiornamento | **lunedì 3 agosto 2026 alle ore 13:27:03 UTC** |
+| Ultimo aggiornamento | **lunedì 3 agosto 2026 alle ore 14:11:58 UTC** |
 
 </div>
 
@@ -698,13 +698,13 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: Poster nuziale ad acquerello con servizi precisi
+#### No. 5: Luxury wedding-planner advertising poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 ##### Descrizione
 
-Un poster di lusso strutturato con cornice floreale, monogramma, titoli esatti, quattro icone e riquadro consulenza.
+A source-backed Muse Image layout case that tests readable typography, restrained romantic color, service icons, and print-ready hierarchy in one vertical poster.
 
 ##### Prompt originale (in inglese)
 
@@ -716,7 +716,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Poster nuziale ad acquerello con servizi precisi - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Luxury wedding-planner advertising poster - Image 1"></td>
 </tr>
 </table>
 
@@ -945,6 +945,6 @@ Distribuito con licenza [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 **[Invia prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Aggiungi una Star al repository](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>README generato automaticamente. Ultimo aggiornamento: 2026-08-03T13:27:03.074Z</sub>
+<sub>README generato automaticamente. Ultimo aggiornamento: 2026-08-03T14:11:58.026Z</sub>
 
 </div>

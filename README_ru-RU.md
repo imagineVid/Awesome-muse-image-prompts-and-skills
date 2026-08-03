@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | Всего промптов | **12** |
 | Избранное | **3** |
-| Обновлено | **понедельник, 3 августа 2026 г. в 13:27:03 UTC** |
+| Обновлено | **понедельник, 3 августа 2026 г. в 14:11:58 UTC** |
 
 </div>
 
@@ -698,13 +698,13 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: Акварельный свадебный постер с точными блоками услуг
+#### No. 5: Luxury wedding-planner advertising poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 ##### Описание
 
-Структурированный премиальный постер с цветочной рамкой, монограммой, точными заголовками, четырьмя иконками и блоком консультации.
+A source-backed Muse Image layout case that tests readable typography, restrained romantic color, service icons, and print-ready hierarchy in one vertical poster.
 
 ##### Оригинальный промпт (на английском)
 
@@ -716,7 +716,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Акварельный свадебный постер с точными блоками услуг - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Luxury wedding-planner advertising poster - Image 1"></td>
 </tr>
 </table>
 
@@ -945,6 +945,6 @@ Create an ultra-photorealistic documentary street photograph of a person standin
 **[Отправить промпт](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Этот README создан автоматически. Последнее обновление: 2026-08-03T13:27:03.093Z</sub>
+<sub>Этот README создан автоматически. Последнее обновление: 2026-08-03T14:11:58.063Z</sub>
 
 </div>

@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | Prompts totales | **12** |
 | Destacado | **3** |
-| Última actualización | **lunes, 3 de agosto de 2026, 13:27:03 UTC** |
+| Última actualización | **lunes, 3 de agosto de 2026, 14:11:57 UTC** |
 
 </div>
 
@@ -698,13 +698,13 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: Póster nupcial en acuarela con servicios exactos
+#### No. 5: Cartel publicitario de lujo para una organizadora de bodas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 ##### Descripción
 
-Un cartel de lujo estructurado con marco floral, monograma, titulares exactos, cuatro iconos y llamada a consulta.
+Un caso de composición de Muse Image basado en una fuente que prueba tipografía legible, color romántico sobrio, iconos de servicios y jerarquía lista para imprimir en un póster vertical.
 
 ##### Prompt original (en inglés)
 
@@ -716,7 +716,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Póster nupcial en acuarela con servicios exactos - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Cartel publicitario de lujo para una organizadora de bodas - Image 1"></td>
 </tr>
 </table>
 
@@ -945,6 +945,6 @@ Publicado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Enviar un prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dar star al repo](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Este README se genera automáticamente. Última actualización: 2026-08-03T13:27:03.059Z</sub>
+<sub>Este README se genera automáticamente. Última actualización: 2026-08-03T14:11:57.996Z</sub>
 
 </div>

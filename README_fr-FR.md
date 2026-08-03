@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | Total des prompts | **12** |
 | En vedette | **3** |
-| Dernière mise à jour | **lundi 3 août 2026 à 13:27:03 UTC** |
+| Dernière mise à jour | **lundi 3 août 2026 à 14:11:58 UTC** |
 
 </div>
 
@@ -698,13 +698,13 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: Affiche de mariage aquarelle aux services précis
+#### No. 5: Affiche publicitaire de luxe pour une agence de mariage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 ##### Description
 
-Une affiche luxueuse structurée avec cadre floral, monogramme, titres exacts, quatre icônes et encadré de consultation.
+Un cas de mise en page Muse Image documenté par une source, qui teste une typographie lisible, des couleurs romantiques maîtrisées, des icônes de services et une hiérarchie prête à imprimer.
 
 ##### Prompt original (en anglais)
 
@@ -716,7 +716,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Affiche de mariage aquarelle aux services précis - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNlmIAHWUAABBDB.jpg" width="100%" alt="Affiche publicitaire de luxe pour une agence de mariage - Image 1"></td>
 </tr>
 </table>
 
@@ -945,6 +945,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Soumettre un prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Mettre une star au dépôt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Ce README est généré automatiquement. Dernière mise à jour : 2026-08-03T13:27:03.070Z</sub>
+<sub>Ce README est généré automatiquement. Dernière mise à jour : 2026-08-03T14:11:58.011Z</sub>
 
 </div>
