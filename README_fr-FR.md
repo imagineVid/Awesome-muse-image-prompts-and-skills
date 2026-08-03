@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Métrique | Nombre |
 |--------|-------|
-| Total des prompts | **11** |
+| Total des prompts | **12** |
 | En vedette | **3** |
-| Dernière mise à jour | **mardi 28 juillet 2026 à 10:51:22 UTC** |
+| Dernière mise à jour | **lundi 3 août 2026 à 13:15:41 UTC** |
 
 </div>
 
@@ -817,7 +817,7 @@ Carrousels, cases, séquences narratives et formats sociaux cohérents d'une ima
 
 <a id="workflow-portraits-texture-art-direction"></a>
 
-### Portraits, texture et direction artistique (1)
+### Portraits, texture et direction artistique (2)
 
 Prompts de portrait et direction artistique guidés par la ressemblance, la matière, la lumière et un langage visuel assumé.
 
@@ -852,6 +852,44 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 - **Auteur:** [Chain Loader](https://x.com/Chain_Loader)
 - **Source:** [Source](https://x.com/Chain_Loader/status/2076324392183943418)
 - **Publié:** 12 juillet 2026
+- **Langues:** en
+
+**[Utiliser ce prompt · ImagineVid](https://imaginevid.io/fr/ai-image-generator)**
+
+---
+
+<a id="prompt-12"></a>
+
+#### No. 9: Test de typographie turque sous la pluie
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Description
+
+Un cas documenté par une source autour de « Test de typographie turque sous la pluie », avec des instructions réutilisables et un résultat vérifiable.
+
+##### Prompt original (en anglais)
+
+```
+Create an ultra-photorealistic documentary street photograph of a person standing on a crowded city street during heavy rain, holding a small white note directly toward the camera. The note must be sharp, fully visible, and contain exactly this Turkish text: “Bu yapay zekâ testi; Türkçe metin doğruluğunu, el yazısını, insan ve el anatomisini, fotogerçekçiliği, yağmurlu hava koşullarını, kalabalık sokak detaylarını ve doğal ışığın gerçekçi yansımasını değerlendirmek için hazırlanmıştır: ç, ğ, ı, İ, ö, ş, ü.” Rain-soaked pavement with physically accurate reflections, realistic raindrops and wet clothing, pedestrians with umbrellas softly blurred in the background, natural grey overcast daylight, subtle reflections from storefronts and streetlights, authentic skin texture, anatomically correct hands and fingers, shallow depth of field, professional full-frame camera photograph, cinematic documentary realism, extremely detailed, ultra realistic. Aspect ratio 3:4.
+```
+
+##### Résultats de la source
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="Test de typographie turque sous la pluie - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="Test de typographie turque sous la pluie - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="Test de typographie turque sous la pluie - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="Test de typographie turque sous la pluie - Image 4"></td>
+</tr>
+</table>
+
+##### Détails
+
+- **Auteur:** [Ozan Sihay](https://x.com/ozansihay)
+- **Source:** [Source](https://x.com/ozansihay/status/2080218385607008613)
+- **Publié:** 23 juillet 2026
 - **Langues:** en
 
 **[Utiliser ce prompt · ImagineVid](https://imaginevid.io/fr/ai-image-generator)**
@@ -907,6 +945,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Soumettre un prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Mettre une star au dépôt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Ce README est généré automatiquement. Dernière mise à jour : 2026-07-28T10:51:22.091Z</sub>
+<sub>Ce README est généré automatiquement. Dernière mise à jour : 2026-08-03T13:15:41.082Z</sub>
 
 </div>

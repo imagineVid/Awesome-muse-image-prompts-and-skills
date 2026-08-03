@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Показатель | Количество |
 |--------|-------|
-| Всего промптов | **11** |
+| Всего промптов | **12** |
 | Избранное | **3** |
-| Обновлено | **вторник, 28 июля 2026 г. в 10:51:22 UTC** |
+| Обновлено | **понедельник, 3 августа 2026 г. в 13:15:41 UTC** |
 
 </div>
 
@@ -817,7 +817,7 @@ Create an ultra-realistic cinematic close-up portrait using the uploaded face as
 
 <a id="workflow-portraits-texture-art-direction"></a>
 
-### Портреты, фактура и арт-дирекшн (1)
+### Портреты, фактура и арт-дирекшн (2)
 
 Портретные и арт-директорские промпты с акцентом на сходство, фактуру, свет и осознанный визуальный язык.
 
@@ -852,6 +852,44 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 - **Автор:** [Chain Loader](https://x.com/Chain_Loader)
 - **Источник:** [Источник](https://x.com/Chain_Loader/status/2076324392183943418)
 - **Опубликовано:** 12 июля 2026 г.
+- **Языки:** en
+
+**[Использовать промпт · ImagineVid](https://imaginevid.io/ru/ai-image-generator)**
+
+---
+
+<a id="prompt-12"></a>
+
+#### No. 9: Тест турецкой типографики под дождём
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Описание
+
+Кейс с подтверждённым источником о задаче «Тест турецкой типографики под дождём», с повторно используемыми инструкциями и проверяемым результатом.
+
+##### Оригинальный промпт (на английском)
+
+```
+Create an ultra-photorealistic documentary street photograph of a person standing on a crowded city street during heavy rain, holding a small white note directly toward the camera. The note must be sharp, fully visible, and contain exactly this Turkish text: “Bu yapay zekâ testi; Türkçe metin doğruluğunu, el yazısını, insan ve el anatomisini, fotogerçekçiliği, yağmurlu hava koşullarını, kalabalık sokak detaylarını ve doğal ışığın gerçekçi yansımasını değerlendirmek için hazırlanmıştır: ç, ğ, ı, İ, ö, ş, ü.” Rain-soaked pavement with physically accurate reflections, realistic raindrops and wet clothing, pedestrians with umbrellas softly blurred in the background, natural grey overcast daylight, subtle reflections from storefronts and streetlights, authentic skin texture, anatomically correct hands and fingers, shallow depth of field, professional full-frame camera photograph, cinematic documentary realism, extremely detailed, ultra realistic. Aspect ratio 3:4.
+```
+
+##### Результаты из источника
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="Тест турецкой типографики под дождём - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="Тест турецкой типографики под дождём - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="Тест турецкой типографики под дождём - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="Тест турецкой типографики под дождём - Image 4"></td>
+</tr>
+</table>
+
+##### Детали
+
+- **Автор:** [Ozan Sihay](https://x.com/ozansihay)
+- **Источник:** [Источник](https://x.com/ozansihay/status/2080218385607008613)
+- **Опубликовано:** 23 июля 2026 г.
 - **Языки:** en
 
 **[Использовать промпт · ImagineVid](https://imaginevid.io/ru/ai-image-generator)**
@@ -907,6 +945,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[Отправить промпт](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Этот README создан автоматически. Последнее обновление: 2026-07-28T10:51:22.104Z</sub>
+<sub>Этот README создан автоматически. Последнее обновление: 2026-08-03T13:15:41.100Z</sub>
 
 </div>

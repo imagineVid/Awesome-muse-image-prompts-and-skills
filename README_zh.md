@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **11** |
+| 提示词总数 | **12** |
 | 精选 | **3** |
-| 最后更新 | **2026年7月28日星期二 UTC 10:51:22** |
+| 最后更新 | **2026年8月3日星期一 UTC 13:15:41** |
 
 </div>
 
@@ -817,7 +817,7 @@ Create an ultra-realistic cinematic close-up portrait using the uploaded face as
 
 <a id="workflow-portraits-texture-art-direction"></a>
 
-### 肖像、质感与艺术指导 (1)
+### 肖像、质感与艺术指导 (2)
 
 以人物相似度、材质纹理、光线与明确视觉语言为核心的肖像和艺术指导提示词。
 
@@ -852,6 +852,44 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 - **作者:** [Chain Loader](https://x.com/Chain_Loader)
 - **来源:** [来源](https://x.com/Chain_Loader/status/2076324392183943418)
 - **发布时间:** 2026年7月12日
+- **语言:** en
+
+**[使用这个提示词 · ImagineVid](https://imaginevid.io/zh/ai-image-generator)**
+
+---
+
+<a id="prompt-12"></a>
+
+#### No. 9: 雨中土耳其语排版测试
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 说明
+
+以可复用指令和可核验结果媒体测试“雨中土耳其语排版测试”的来源明确案例。
+
+##### 原始提示词（英文）
+
+```
+Create an ultra-photorealistic documentary street photograph of a person standing on a crowded city street during heavy rain, holding a small white note directly toward the camera. The note must be sharp, fully visible, and contain exactly this Turkish text: “Bu yapay zekâ testi; Türkçe metin doğruluğunu, el yazısını, insan ve el anatomisini, fotogerçekçiliği, yağmurlu hava koşullarını, kalabalık sokak detaylarını ve doğal ışığın gerçekçi yansımasını değerlendirmek için hazırlanmıştır: ç, ğ, ı, İ, ö, ş, ü.” Rain-soaked pavement with physically accurate reflections, realistic raindrops and wet clothing, pedestrians with umbrellas softly blurred in the background, natural grey overcast daylight, subtle reflections from storefronts and streetlights, authentic skin texture, anatomically correct hands and fingers, shallow depth of field, professional full-frame camera photograph, cinematic documentary realism, extremely detailed, ultra realistic. Aspect ratio 3:4.
+```
+
+##### 来源结果
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="雨中土耳其语排版测试 - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="雨中土耳其语排版测试 - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="雨中土耳其语排版测试 - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="雨中土耳其语排版测试 - Image 4"></td>
+</tr>
+</table>
+
+##### 详情
+
+- **作者:** [Ozan Sihay](https://x.com/ozansihay)
+- **来源:** [来源](https://x.com/ozansihay/status/2080218385607008613)
+- **发布时间:** 2026年7月23日
 - **语言:** en
 
 **[使用这个提示词 · ImagineVid](https://imaginevid.io/zh/ai-image-generator)**
@@ -907,6 +945,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[提交提示词](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>本 README 自动生成。最后更新： 2026-07-28T10:51:22.067Z</sub>
+<sub>本 README 自动生成。最后更新： 2026-08-03T13:15:41.066Z</sub>
 
 </div>

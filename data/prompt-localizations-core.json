@@ -35,6 +35,10 @@
     "9": {
       "title": "带精确服务模块的水彩婚礼策划海报",
       "description": "一张结构化奢华海报，结合水彩花框、字母徽标、精确标题、四个服务图标与描金咨询区。"
+    },
+    "12": {
+      "title": "雨中土耳其语排版测试",
+      "description": "以可复用指令和可核验结果媒体测试“雨中土耳其语排版测试”的来源明确案例。"
     }
   },
   "ja-JP": {
@@ -73,6 +77,10 @@
     "9": {
       "title": "正確なサービス欄を備えた水彩ウェディングポスター",
       "description": "水彩の花枠、モノグラム、正確な見出し、4つのサービスアイコン、金縁の相談欄を組み合わせた上質な構成ポスター。"
+    },
+    "12": {
+      "title": "雨に濡れたトルコ語タイポグラフィテスト",
+      "description": "「雨に濡れたトルコ語タイポグラフィテスト」を検証可能な結果メディアと再利用できる指示で試す、出典付きのケースです。"
     }
   },
   "ko-KR": {
@@ -111,6 +119,10 @@
     "9": {
       "title": "정확한 서비스 블록이 있는 수채화 웨딩 포스터",
       "description": "수채화 꽃 테두리, 모노그램, 정확한 제목, 네 개의 서비스 아이콘과 금색 상담 상자를 결합한 구조적인 고급 포스터."
+    },
+    "12": {
+      "title": "비에 젖은 터키어 타이포그래피 테스트",
+      "description": "검증 가능한 결과 미디어와 재사용 가능한 지침으로 '비에 젖은 터키어 타이포그래피 테스트'을 테스트하는 출처 기반 사례입니다."
     }
   },
   "es-ES": {
@@ -149,6 +161,10 @@
     "9": {
       "title": "Póster nupcial en acuarela con servicios exactos",
       "description": "Un cartel de lujo estructurado con marco floral, monograma, titulares exactos, cuatro iconos y llamada a consulta."
+    },
+    "12": {
+      "title": "Prueba tipográfica turca bajo la lluvia",
+      "description": "Un caso respaldado por fuentes que explora «Prueba tipográfica turca bajo la lluvia», con instrucciones reutilizables y medios de resultado verificables."
     }
   },
   "de-DE": {
@@ -187,6 +203,10 @@
     "9": {
       "title": "Aquarell-Hochzeitsplakat mit klaren Leistungsblöcken",
       "description": "Ein strukturiertes Luxusplakat mit Blumenrahmen, Monogramm, exakten Überschriften, vier Service-Icons und Beratungsfeld."
+    },
+    "12": {
+      "title": "Türkischer Typografietest im Regen",
+      "description": "Ein quellenbelegter Fall zu „Türkischer Typografietest im Regen“ mit wiederverwendbaren Anweisungen und überprüfbaren Ergebnismedien."
     }
   },
   "fr-FR": {
@@ -225,6 +245,10 @@
     "9": {
       "title": "Affiche de mariage aquarelle aux services précis",
       "description": "Une affiche luxueuse structurée avec cadre floral, monogramme, titres exacts, quatre icônes et encadré de consultation."
+    },
+    "12": {
+      "title": "Test de typographie turque sous la pluie",
+      "description": "Un cas documenté par une source autour de « Test de typographie turque sous la pluie », avec des instructions réutilisables et un résultat vérifiable."
     }
   }
 }

@@ -548,5 +548,72 @@
         }
       ]
     }
+  },
+  {
+    "id": 12,
+    "model": "muse-image",
+    "title": {
+      "en": "Rain-soaked Turkish typography test"
+    },
+    "description": {
+      "en": "A source-backed Muse Image comparison case that tests Turkish text fidelity, handwriting, hands, rain reflections, and documentary realism in one scene."
+    },
+    "content": {
+      "en": "Create an ultra-photorealistic documentary street photograph of a person standing on a crowded city street during heavy rain, holding a small white note directly toward the camera. The note must be sharp, fully visible, and contain exactly this Turkish text: “Bu yapay zekâ testi; Türkçe metin doğruluğunu, el yazısını, insan ve el anatomisini, fotogerçekçiliği, yağmurlu hava koşullarını, kalabalık sokak detaylarını ve doğal ışığın gerçekçi yansımasını değerlendirmek için hazırlanmıştır: ç, ğ, ı, İ, ö, ş, ü.” Rain-soaked pavement with physically accurate reflections, realistic raindrops and wet clothing, pedestrians with umbrellas softly blurred in the background, natural grey overcast daylight, subtle reflections from storefronts and streetlights, authentic skin texture, anatomically correct hands and fingers, shallow depth of field, professional full-frame camera photograph, cinematic documentary realism, extremely detailed, ultra realistic. Aspect ratio 3:4."
+    },
+    "sourceLink": "https://x.com/ozansihay/status/2080218385607008613",
+    "sourcePublishedAt": "2026-07-23T09:08:06.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg",
+      "https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg",
+      "https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg",
+      "https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg"
+    ],
+    "author": {
+      "name": "Ozan Sihay",
+      "link": "https://x.com/ozansihay"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 12,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2080218385607008613",
+      "prompt_source": "reply_text_prompt_normalized",
+      "model_evidence": "muse-image",
+      "collected_at": "2026-08-03",
+      "retweetCount": 2,
+      "replyCount": 51,
+      "likeCount": 95,
+      "quoteCount": 0,
+      "viewCount": 38964,
+      "bookmarkCount": 76,
+      "prompt_tweet_id": "2080218389260177744"
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 66,
+          "title": {
+            "en": "Portraits, Texture & Art Direction",
+            "zh": "肖像、质感与艺术指导",
+            "ja-JP": "ポートレート、質感、アートディレクション",
+            "ko-KR": "인물, 질감 및 아트 디렉션",
+            "es-ES": "Retratos, textura y dirección artística",
+            "de-DE": "Porträts, Textur und Art Direction",
+            "fr-FR": "Portraits, texture et direction artistique",
+            "it-IT": "Ritratti, texture e direzione artistica",
+            "pt-PT": "Retratos, textura e direção artística",
+            "tr-TR": "Portre, doku ve sanat yönetimi",
+            "ar-SA": "الصور الشخصية والملمس والإخراج الفني",
+            "ru-RU": "Портреты, фактура и арт-дирекшн",
+            "nl-NL": "Portretten, textuur en artdirection",
+            "pl-PL": "Portrety, faktura i kierunek artystyczny"
+          },
+          "slug": "portraits-texture-art-direction"
+        }
+      ]
+    }
   }
 ]

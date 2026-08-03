@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | 항목 | 수량 |
 |--------|-------|
-| 총 프롬프트 | **11** |
+| 총 프롬프트 | **12** |
 | 추천 | **3** |
-| 마지막 업데이트 | **2026년 7월 28일 화요일 AM 10시 51분 22초 UTC** |
+| 마지막 업데이트 | **2026년 8월 3일 월요일 PM 1시 15분 41초 UTC** |
 
 </div>
 
@@ -817,7 +817,7 @@ Create an ultra-realistic cinematic close-up portrait using the uploaded face as
 
 <a id="workflow-portraits-texture-art-direction"></a>
 
-### 인물, 질감 및 아트 디렉션 (1)
+### 인물, 질감 및 아트 디렉션 (2)
 
 인물 유사성, 재질 질감, 조명과 의도적인 시각 언어를 중심으로 한 인물 및 아트 디렉션입니다.
 
@@ -852,6 +852,44 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 - **작성자:** [Chain Loader](https://x.com/Chain_Loader)
 - **출처:** [출처](https://x.com/Chain_Loader/status/2076324392183943418)
 - **게시일:** 2026년 7월 12일
+- **언어:** en
+
+**[이 프롬프트 사용 · ImagineVid](https://imaginevid.io/ko/ai-image-generator)**
+
+---
+
+<a id="prompt-12"></a>
+
+#### No. 9: 비에 젖은 터키어 타이포그래피 테스트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 설명
+
+검증 가능한 결과 미디어와 재사용 가능한 지침으로 '비에 젖은 터키어 타이포그래피 테스트'을 테스트하는 출처 기반 사례입니다.
+
+##### 원문 프롬프트(영어)
+
+```
+Create an ultra-photorealistic documentary street photograph of a person standing on a crowded city street during heavy rain, holding a small white note directly toward the camera. The note must be sharp, fully visible, and contain exactly this Turkish text: “Bu yapay zekâ testi; Türkçe metin doğruluğunu, el yazısını, insan ve el anatomisini, fotogerçekçiliği, yağmurlu hava koşullarını, kalabalık sokak detaylarını ve doğal ışığın gerçekçi yansımasını değerlendirmek için hazırlanmıştır: ç, ğ, ı, İ, ö, ş, ü.” Rain-soaked pavement with physically accurate reflections, realistic raindrops and wet clothing, pedestrians with umbrellas softly blurred in the background, natural grey overcast daylight, subtle reflections from storefronts and streetlights, authentic skin texture, anatomically correct hands and fingers, shallow depth of field, professional full-frame camera photograph, cinematic documentary realism, extremely detailed, ultra realistic. Aspect ratio 3:4.
+```
+
+##### 출처 이미지
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="비에 젖은 터키어 타이포그래피 테스트 - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="비에 젖은 터키어 타이포그래피 테스트 - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="비에 젖은 터키어 타이포그래피 테스트 - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="비에 젖은 터키어 타이포그래피 테스트 - Image 4"></td>
+</tr>
+</table>
+
+##### 세부 정보
+
+- **작성자:** [Ozan Sihay](https://x.com/ozansihay)
+- **출처:** [출처](https://x.com/ozansihay/status/2080218385607008613)
+- **게시일:** 2026년 7월 23일
 - **언어:** en
 
 **[이 프롬프트 사용 · ImagineVid](https://imaginevid.io/ko/ai-image-generator)**
@@ -907,6 +945,6 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 **[프롬프트 제출](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[저장소에 Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-28T10:51:22.083Z</sub>
+<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-08-03T13:15:41.072Z</sub>
 
 </div>

@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | 項目 | 数 |
 |--------|-------|
-| プロンプト総数 | **11** |
+| プロンプト総数 | **12** |
 | 注目 | **3** |
-| 最終更新 | **2026年7月28日火曜日 10:51:22 UTC** |
+| 最終更新 | **2026年8月3日月曜日 13:15:41 UTC** |
 
 </div>
 
@@ -817,7 +817,7 @@ Create an ultra-realistic cinematic close-up portrait using the uploaded face as
 
 <a id="workflow-portraits-texture-art-direction"></a>
 
-### ポートレート、質感、アートディレクション (1)
+### ポートレート、質感、アートディレクション (2)
 
 人物の同一性、素材感、照明、意図的な画面言語を重視する肖像・アートディレクション。
 
@@ -852,6 +852,44 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 - **作者:** [Chain Loader](https://x.com/Chain_Loader)
 - **出典:** [出典](https://x.com/Chain_Loader/status/2076324392183943418)
 - **公開日:** 2026年7月12日
+- **言語:** en
+
+**[このプロンプトを使う · ImagineVid](https://imaginevid.io/ja/ai-image-generator)**
+
+---
+
+<a id="prompt-12"></a>
+
+#### No. 9: 雨に濡れたトルコ語タイポグラフィテスト
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 説明
+
+「雨に濡れたトルコ語タイポグラフィテスト」を検証可能な結果メディアと再利用できる指示で試す、出典付きのケースです。
+
+##### 原文プロンプト（英語）
+
+```
+Create an ultra-photorealistic documentary street photograph of a person standing on a crowded city street during heavy rain, holding a small white note directly toward the camera. The note must be sharp, fully visible, and contain exactly this Turkish text: “Bu yapay zekâ testi; Türkçe metin doğruluğunu, el yazısını, insan ve el anatomisini, fotogerçekçiliği, yağmurlu hava koşullarını, kalabalık sokak detaylarını ve doğal ışığın gerçekçi yansımasını değerlendirmek için hazırlanmıştır: ç, ğ, ı, İ, ö, ş, ü.” Rain-soaked pavement with physically accurate reflections, realistic raindrops and wet clothing, pedestrians with umbrellas softly blurred in the background, natural grey overcast daylight, subtle reflections from storefronts and streetlights, authentic skin texture, anatomically correct hands and fingers, shallow depth of field, professional full-frame camera photograph, cinematic documentary realism, extremely detailed, ultra realistic. Aspect ratio 3:4.
+```
+
+##### 出典画像
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="雨に濡れたトルコ語タイポグラフィテスト - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="雨に濡れたトルコ語タイポグラフィテスト - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="雨に濡れたトルコ語タイポグラフィテスト - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="雨に濡れたトルコ語タイポグラフィテスト - Image 4"></td>
+</tr>
+</table>
+
+##### 詳細
+
+- **作者:** [Ozan Sihay](https://x.com/ozansihay)
+- **出典:** [出典](https://x.com/ozansihay/status/2080218385607008613)
+- **公開日:** 2026年7月23日
 - **言語:** en
 
 **[このプロンプトを使う · ImagineVid](https://imaginevid.io/ja/ai-image-generator)**
@@ -907,6 +945,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[プロンプトを投稿](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-07-28T10:51:22.075Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-08-03T13:15:41.069Z</sub>
 
 </div>

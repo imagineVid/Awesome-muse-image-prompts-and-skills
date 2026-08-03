@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Metrik | Sayı |
 |--------|-------|
-| Toplam prompt | **11** |
+| Toplam prompt | **12** |
 | Öne çıkan | **3** |
-| Son güncelleme | **28 Temmuz 2026 Salı 10:51:22 UTC** |
+| Son güncelleme | **3 Ağustos 2026 Pazartesi 13:15:41 UTC** |
 
 </div>
 
@@ -817,7 +817,7 @@ Kareler arasında tutarlı kalması gereken kaydırmalı gönderiler, paneller, 
 
 <a id="workflow-portraits-texture-art-direction"></a>
 
-### Portre, doku ve sanat yönetimi (1)
+### Portre, doku ve sanat yönetimi (2)
 
 Benzerlik, malzeme dokusu, ışık ve bilinçli görsel dilin öne çıktığı portre ve sanat yönetimi promptları.
 
@@ -852,6 +852,44 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 - **Yazar:** [Chain Loader](https://x.com/Chain_Loader)
 - **Kaynak:** [Kaynak](https://x.com/Chain_Loader/status/2076324392183943418)
 - **Yayınlandı:** 12 Temmuz 2026
+- **Diller:** en
+
+**[Bu promptu kullan · ImagineVid](https://imaginevid.io/tr/ai-image-generator)**
+
+---
+
+<a id="prompt-12"></a>
+
+#### No. 9: Yağmur altında Türkçe tipografi testi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Açıklama
+
+“Yağmur altında Türkçe tipografi testi” konusunu yeniden kullanılabilir talimatlar ve doğrulanabilir sonuç medyasıyla ele alan kaynaklı bir vaka.
+
+##### Özgün prompt (İngilizce)
+
+```
+Create an ultra-photorealistic documentary street photograph of a person standing on a crowded city street during heavy rain, holding a small white note directly toward the camera. The note must be sharp, fully visible, and contain exactly this Turkish text: “Bu yapay zekâ testi; Türkçe metin doğruluğunu, el yazısını, insan ve el anatomisini, fotogerçekçiliği, yağmurlu hava koşullarını, kalabalık sokak detaylarını ve doğal ışığın gerçekçi yansımasını değerlendirmek için hazırlanmıştır: ç, ğ, ı, İ, ö, ş, ü.” Rain-soaked pavement with physically accurate reflections, realistic raindrops and wet clothing, pedestrians with umbrellas softly blurred in the background, natural grey overcast daylight, subtle reflections from storefronts and streetlights, authentic skin texture, anatomically correct hands and fingers, shallow depth of field, professional full-frame camera photograph, cinematic documentary realism, extremely detailed, ultra realistic. Aspect ratio 3:4.
+```
+
+##### Kaynak sonuçları
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="Yağmur altında Türkçe tipografi testi - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="Yağmur altında Türkçe tipografi testi - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="Yağmur altında Türkçe tipografi testi - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="Yağmur altında Türkçe tipografi testi - Image 4"></td>
+</tr>
+</table>
+
+##### Detaylar
+
+- **Yazar:** [Ozan Sihay](https://x.com/ozansihay)
+- **Kaynak:** [Kaynak](https://x.com/ozansihay/status/2080218385607008613)
+- **Yayınlandı:** 23 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan · ImagineVid](https://imaginevid.io/tr/ai-image-generator)**
@@ -907,6 +945,6 @@ Tüm kurallar için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına bakın.
 **[Prompt gönder](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Depoya Star ver](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Bu README otomatik oluşturuldu. Son güncelleme: 2026-07-28T10:51:22.098Z</sub>
+<sub>Bu README otomatik oluşturuldu. Son güncelleme: 2026-08-03T13:15:41.092Z</sub>
 
 </div>

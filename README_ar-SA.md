@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | المقياس | العدد |
 |--------|-------|
-| إجمالي التعليمات | **11** |
+| إجمالي التعليمات | **12** |
 | مميز | **3** |
-| آخر تحديث | **الثلاثاء، ٢٨ يوليو ٢٠٢٦ في ١٠:٥١:٢٢ ص UTC** |
+| آخر تحديث | **الاثنين، ٣ أغسطس ٢٠٢٦ في ١:١٥:٤١ م UTC** |
 
 </div>
 
@@ -817,7 +817,7 @@ Create an ultra-realistic cinematic close-up portrait using the uploaded face as
 
 <a id="workflow-portraits-texture-art-direction"></a>
 
-### الصور الشخصية والملمس والإخراج الفني (1)
+### الصور الشخصية والملمس والإخراج الفني (2)
 
 مطالبات للصور الشخصية والتوجيه الفني تقودها الملامح والخامات والإضاءة واللغة البصرية المقصودة.
 
@@ -852,6 +852,44 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 - **المؤلف:** [Chain Loader](https://x.com/Chain_Loader)
 - **المصدر:** [المصدر](https://x.com/Chain_Loader/status/2076324392183943418)
 - **تاريخ النشر:** ١٢ يوليو ٢٠٢٦
+- **اللغات:** en
+
+**[استخدم هذه التعليمة · ImagineVid](https://imaginevid.io/ar/ai-image-generator)**
+
+---
+
+<a id="prompt-12"></a>
+
+#### No. 9: اختبار للخط التركي تحت المطر
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### الوصف
+
+حالة موثقة بالمصدر حول «اختبار للخط التركي تحت المطر»، مع تعليمات قابلة لإعادة الاستخدام ووسائط نتيجة قابلة للتحقق.
+
+##### التعليمة الأصلية (بالإنجليزية)
+
+```
+Create an ultra-photorealistic documentary street photograph of a person standing on a crowded city street during heavy rain, holding a small white note directly toward the camera. The note must be sharp, fully visible, and contain exactly this Turkish text: “Bu yapay zekâ testi; Türkçe metin doğruluğunu, el yazısını, insan ve el anatomisini, fotogerçekçiliği, yağmurlu hava koşullarını, kalabalık sokak detaylarını ve doğal ışığın gerçekçi yansımasını değerlendirmek için hazırlanmıştır: ç, ğ, ı, İ, ö, ş, ü.” Rain-soaked pavement with physically accurate reflections, realistic raindrops and wet clothing, pedestrians with umbrellas softly blurred in the background, natural grey overcast daylight, subtle reflections from storefronts and streetlights, authentic skin texture, anatomically correct hands and fingers, shallow depth of field, professional full-frame camera photograph, cinematic documentary realism, extremely detailed, ultra realistic. Aspect ratio 3:4.
+```
+
+##### نتائج المصدر
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="اختبار للخط التركي تحت المطر - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="اختبار للخط التركي تحت المطر - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="اختبار للخط التركي تحت المطر - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="اختبار للخط التركي تحت المطر - Image 4"></td>
+</tr>
+</table>
+
+##### التفاصيل
+
+- **المؤلف:** [Ozan Sihay](https://x.com/ozansihay)
+- **المصدر:** [المصدر](https://x.com/ozansihay/status/2080218385607008613)
+- **تاريخ النشر:** ٢٣ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة · ImagineVid](https://imaginevid.io/ar/ai-image-generator)**
@@ -907,6 +945,6 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 **[إرسال تعليمة](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمستودع](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-28T10:51:22.101Z</sub>
+<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-08-03T13:15:41.097Z</sub>
 
 </div>

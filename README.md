@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **11** |
+| Total Prompts | **12** |
 | Featured | **3** |
-| Last Updated | **Tuesday, July 28, 2026 at 10:51:22 AM UTC** |
+| Last Updated | **Monday, August 3, 2026 at 1:15:41 PM UTC** |
 
 </div>
 
@@ -817,7 +817,7 @@ Carousels, panels, story sequences, and social formats that must remain coherent
 
 <a id="workflow-portraits-texture-art-direction"></a>
 
-### Portraits, Texture & Art Direction (1)
+### Portraits, Texture & Art Direction (2)
 
 Portrait and art-direction prompts where likeness, material texture, lighting, and a deliberate visual language lead.
 
@@ -852,6 +852,44 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 - **Author:** [Chain Loader](https://x.com/Chain_Loader)
 - **Source:** [Source](https://x.com/Chain_Loader/status/2076324392183943418)
 - **Published on X:** July 12, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/ai-image-generator)**
+
+---
+
+<a id="prompt-12"></a>
+
+#### No. 9: Rain-soaked Turkish typography test
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Description
+
+A source-backed Muse Image comparison case that tests Turkish text fidelity, handwriting, hands, rain reflections, and documentary realism in one scene.
+
+##### Prompt
+
+```
+Create an ultra-photorealistic documentary street photograph of a person standing on a crowded city street during heavy rain, holding a small white note directly toward the camera. The note must be sharp, fully visible, and contain exactly this Turkish text: “Bu yapay zekâ testi; Türkçe metin doğruluğunu, el yazısını, insan ve el anatomisini, fotogerçekçiliği, yağmurlu hava koşullarını, kalabalık sokak detaylarını ve doğal ışığın gerçekçi yansımasını değerlendirmek için hazırlanmıştır: ç, ğ, ı, İ, ö, ş, ü.” Rain-soaked pavement with physically accurate reflections, realistic raindrops and wet clothing, pedestrians with umbrellas softly blurred in the background, natural grey overcast daylight, subtle reflections from storefronts and streetlights, authentic skin texture, anatomically correct hands and fingers, shallow depth of field, professional full-frame camera photograph, cinematic documentary realism, extremely detailed, ultra realistic. Aspect ratio 3:4.
+```
+
+##### Source Results
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="Rain-soaked Turkish typography test - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="Rain-soaked Turkish typography test - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="Rain-soaked Turkish typography test - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="Rain-soaked Turkish typography test - Image 4"></td>
+</tr>
+</table>
+
+##### Source Details
+
+- **Author:** [Ozan Sihay](https://x.com/ozansihay)
+- **Source:** [Source](https://x.com/ozansihay/status/2080218385607008613)
+- **Published on X:** July 23, 2026
 - **Prompt language:** en
 
 **[Use this prompt on ImagineVid](https://imaginevid.io/ai-image-generator)**
@@ -907,6 +945,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Submit a Prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star this repo](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-28T10:51:22.061Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-08-03T13:15:41.060Z</sub>
 
 </div>
