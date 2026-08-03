@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | Toplam prompt | **12** |
 | Öne çıkan | **3** |
-| Son güncelleme | **3 Ağustos 2026 Pazartesi 13:15:41 UTC** |
+| Son güncelleme | **3 Ağustos 2026 Pazartesi 13:27:03 UTC** |
 
 </div>
 
@@ -945,6 +945,6 @@ Tüm kurallar için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına bakın.
 **[Prompt gönder](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Depoya Star ver](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Bu README otomatik oluşturuldu. Son güncelleme: 2026-08-03T13:15:41.092Z</sub>
+<sub>Bu README otomatik oluşturuldu. Son güncelleme: 2026-08-03T13:27:03.084Z</sub>
 
 </div>
