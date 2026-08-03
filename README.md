@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **12** |
+| Total Prompts | **13** |
 | Featured | **3** |
-| Last Updated | **Monday, August 3, 2026 at 2:11:57 PM UTC** |
+| Last Updated | **Monday, August 3, 2026 at 3:15:35 PM UTC** |
 
 </div>
 
@@ -612,13 +612,49 @@ Use the uploaded photo as the facial identity reference. Preserve the person's f
 
 <a id="workflow-multi-reference-composition-identity"></a>
 
-### Multi-Reference Composition & Identity (1)
+### Multi-Reference Composition & Identity (2)
 
 Multi-reference compositions that preserve recognizable people, products, garments, or visual systems.
 
 **Featured Community Prompts**
 
 - [Character Transfer Without Scene Drift](#prompt-2)
+
+<a id="prompt-13"></a>
+
+#### No. 3: Multi-reference art direction with inline image roles
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Description
+
+A transparent reconstruction from Meta’s official Muse Image capability post, testing interleaved text and image roles for identity, wardrobe, objects, environments, and style.
+
+##### Prompt
+
+```
+Create a polished editorial group portrait using inline reference images assigned by role: [person reference] supplies the subject’s identity and facial structure; [wardrobe reference] supplies the outfit; [object reference] supplies a hero prop; [environment reference] supplies the location; [style reference] supplies the color and material language. Preserve the subject’s identity, the prop’s shape, the wardrobe construction, and the environment’s spatial logic. Place each reference inline next to its instruction and keep every image’s role distinct. Compose one coherent scene with natural scale, plausible lighting, consistent perspective, readable negative space, and no accidental duplication. Do not merge reference subjects, replace the requested object, invent logos or text, or copy an unrelated layout.
+```
+
+##### Source Results
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMpqV8QWEAALF7k.jpg" width="100%" alt="Multi-reference art direction with inline image roles - Image 1"></td>
+</tr>
+</table>
+
+##### Source Details
+
+- **Author:** [AI at Meta](https://x.com/AIatMeta)
+- **Source:** [Source](https://x.com/AIatMeta/status/2074587874448625869)
+- **Published on X:** July 7, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/ai-image-generator)**
+
+---
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
@@ -628,7 +664,7 @@ Designed visuals where readable type, hierarchy, spacing, and repeatable layout 
 
 <a id="prompt-6"></a>
 
-#### No. 3: Turkish Independent Sci-Fi Poster
+#### No. 4: Turkish Independent Sci-Fi Poster
 
 ![Language-TR](https://img.shields.io/badge/Language-TR-blue)
 
@@ -663,7 +699,7 @@ Design a vertical poster for an independent science-fiction film set in Türkiye
 
 <a id="prompt-7"></a>
 
-#### No. 4: Prime-Number Creature Index
+#### No. 5: Prime-Number Creature Index
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -698,7 +734,7 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: Watercolor wedding-planner poster with exact service blocks
+#### No. 6: Watercolor wedding-planner poster with exact service blocks
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -733,7 +769,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <a id="prompt-10"></a>
 
-#### No. 6: For Meta Muse image, remember it is still free
+#### No. 7: For Meta Muse image, remember it is still free
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -771,7 +807,7 @@ for Meta Muse image, remember it is still free so generate as much as you can, e
 
 <a id="prompt-11"></a>
 
-#### No. 7: Neon visionary identity portrait
+#### No. 8: Neon visionary identity portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -823,7 +859,7 @@ Portrait and art-direction prompts where likeness, material texture, lighting, a
 
 <a id="prompt-4"></a>
 
-#### No. 8: Old-Master Armchair Portrait
+#### No. 9: Old-Master Armchair Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -860,7 +896,7 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 
 <a id="prompt-12"></a>
 
-#### No. 9: Rain-soaked Turkish typography test
+#### No. 10: Rain-soaked Turkish typography test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -923,9 +959,10 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 ## Acknowledgements
 
 <details>
-<summary>Community creators we thank (8)</summary>
+<summary>Community creators we thank (9)</summary>
 
-[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Hatman 🎩](https://x.com/hatman) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [AI at Meta](https://x.com/AIatMeta) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Hatman 🎩](https://x.com/hatman) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay)<br>
+[V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -945,6 +982,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Submit a Prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star this repo](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-08-03T14:11:57.967Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-08-03T15:15:35.077Z</sub>
 
 </div>

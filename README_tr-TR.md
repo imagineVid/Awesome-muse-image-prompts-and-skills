@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Metrik | Sayı |
 |--------|-------|
-| Toplam prompt | **12** |
+| Toplam prompt | **13** |
 | Öne çıkan | **3** |
-| Son güncelleme | **3 Ağustos 2026 Pazartesi 14:11:58 UTC** |
+| Son güncelleme | **3 Ağustos 2026 Pazartesi 15:15:35 UTC** |
 
 </div>
 
@@ -612,13 +612,49 @@ Use the uploaded photo as the facial identity reference. Preserve the person's f
 
 <a id="workflow-multi-reference-composition-identity"></a>
 
-### Çoklu referans kompozisyonu ve kimlik (1)
+### Çoklu referans kompozisyonu ve kimlik (2)
 
 İnsanları, ürünleri, kıyafetleri veya görsel sistemleri tanınabilir tutan çoklu referans kompozisyonları.
 
 **Community · Öne çıkan promptlar**
 
 - [Sahneyi bozmadan karakter aktarımı](#prompt-2)
+
+<a id="prompt-13"></a>
+
+#### No. 3: Satır içi görsel rolleriyle çoklu referans sanat yönetimi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Açıklama
+
+Kimlik, kıyafet, nesne, ortam ve stil için metin ile görsel rollerini birlikte sınayan Meta’nın resmi Muse Image paylaşımının şeffaf bir yeniden kurgusudur.
+
+##### Özgün prompt (İngilizce)
+
+```
+Create a polished editorial group portrait using inline reference images assigned by role: [person reference] supplies the subject’s identity and facial structure; [wardrobe reference] supplies the outfit; [object reference] supplies a hero prop; [environment reference] supplies the location; [style reference] supplies the color and material language. Preserve the subject’s identity, the prop’s shape, the wardrobe construction, and the environment’s spatial logic. Place each reference inline next to its instruction and keep every image’s role distinct. Compose one coherent scene with natural scale, plausible lighting, consistent perspective, readable negative space, and no accidental duplication. Do not merge reference subjects, replace the requested object, invent logos or text, or copy an unrelated layout.
+```
+
+##### Kaynak sonuçları
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMpqV8QWEAALF7k.jpg" width="100%" alt="Satır içi görsel rolleriyle çoklu referans sanat yönetimi - Image 1"></td>
+</tr>
+</table>
+
+##### Detaylar
+
+- **Yazar:** [AI at Meta](https://x.com/AIatMeta)
+- **Kaynak:** [Kaynak](https://x.com/AIatMeta/status/2074587874448625869)
+- **Yayınlandı:** 7 Temmuz 2026
+- **Diller:** en
+
+**[Bu promptu kullan · ImagineVid](https://imaginevid.io/tr/ai-image-generator)**
+
+---
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
@@ -628,7 +664,7 @@ Okunabilir yazı, hiyerarşi, boşluk ve tekrarlanabilir yerleşim kurallarına 
 
 <a id="prompt-6"></a>
 
-#### No. 3: Bağımsız Türk bilimkurgu afişi
+#### No. 4: Bağımsız Türk bilimkurgu afişi
 
 ![Language-TR](https://img.shields.io/badge/Language-TR-blue)
 
@@ -663,7 +699,7 @@ Design a vertical poster for an independent science-fiction film set in Türkiye
 
 <a id="prompt-7"></a>
 
-#### No. 4: Asal sayı yaratıkları dizini
+#### No. 5: Asal sayı yaratıkları dizini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -698,7 +734,7 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: Luxury wedding-planner advertising poster
+#### No. 6: Luxury wedding-planner advertising poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -733,7 +769,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <a id="prompt-10"></a>
 
-#### No. 6: Yeni örnek: For Meta Muse image, remember it is still free
+#### No. 7: Yeni örnek: For Meta Muse image, remember it is still free
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -771,7 +807,7 @@ for Meta Muse image, remember it is still free so generate as much as you can, e
 
 <a id="prompt-11"></a>
 
-#### No. 7: New case: Neon visionary identity portrait
+#### No. 8: New case: Neon visionary identity portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -823,7 +859,7 @@ Benzerlik, malzeme dokusu, ışık ve bilinçli görsel dilin öne çıktığı 
 
 <a id="prompt-4"></a>
 
-#### No. 8: Eski ustalar esintili koltuk portresi
+#### No. 9: Eski ustalar esintili koltuk portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -860,7 +896,7 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 
 <a id="prompt-12"></a>
 
-#### No. 9: Yağmur altında Türkçe tipografi testi
+#### No. 10: Yağmur altında Türkçe tipografi testi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -923,9 +959,10 @@ Tüm kurallar için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına bakın.
 ## Teşekkürler
 
 <details>
-<summary>Topluluk üreticileri (8)</summary>
+<summary>Topluluk üreticileri (9)</summary>
 
-[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Hatman 🎩](https://x.com/hatman) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [AI at Meta](https://x.com/AIatMeta) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Hatman 🎩](https://x.com/hatman) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay)<br>
+[V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -945,6 +982,6 @@ Tüm kurallar için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına bakın.
 **[Prompt gönder](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Depoya Star ver](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Bu README otomatik oluşturuldu. Son güncelleme: 2026-08-03T14:11:58.047Z</sub>
+<sub>Bu README otomatik oluşturuldu. Son güncelleme: 2026-08-03T15:15:35.112Z</sub>
 
 </div>

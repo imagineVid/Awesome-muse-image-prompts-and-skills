@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **12** |
+| 提示词总数 | **13** |
 | 精选 | **3** |
-| 最后更新 | **2026年8月3日星期一 UTC 14:11:57** |
+| 最后更新 | **2026年8月3日星期一 UTC 15:15:35** |
 
 </div>
 
@@ -612,13 +612,49 @@ Use the uploaded photo as the facial identity reference. Preserve the person's f
 
 <a id="workflow-multi-reference-composition-identity"></a>
 
-### 多参考合成与身份一致性 (1)
+### 多参考合成与身份一致性 (2)
 
 组合多个参考图，同时保持人物、产品、服装或视觉系统的可识别一致性。
 
 **Community · 精选提示词**
 
 - [无场景漂移的角色替换](#prompt-2)
+
+<a id="prompt-13"></a>
+
+#### No. 3: 以内联图像角色组织多参考图艺术指导
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### 说明
+
+透明重构 Meta 官方 Muse Image 能力介绍，用交错的文字和图像角色检验人物、服装、物体、环境与风格控制。
+
+##### 原始提示词（英文）
+
+```
+Create a polished editorial group portrait using inline reference images assigned by role: [person reference] supplies the subject’s identity and facial structure; [wardrobe reference] supplies the outfit; [object reference] supplies a hero prop; [environment reference] supplies the location; [style reference] supplies the color and material language. Preserve the subject’s identity, the prop’s shape, the wardrobe construction, and the environment’s spatial logic. Place each reference inline next to its instruction and keep every image’s role distinct. Compose one coherent scene with natural scale, plausible lighting, consistent perspective, readable negative space, and no accidental duplication. Do not merge reference subjects, replace the requested object, invent logos or text, or copy an unrelated layout.
+```
+
+##### 来源结果
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMpqV8QWEAALF7k.jpg" width="100%" alt="以内联图像角色组织多参考图艺术指导 - Image 1"></td>
+</tr>
+</table>
+
+##### 详情
+
+- **作者:** [AI at Meta](https://x.com/AIatMeta)
+- **来源:** [来源](https://x.com/AIatMeta/status/2074587874448625869)
+- **发布时间:** 2026年7月7日
+- **语言:** en
+
+**[使用这个提示词 · ImagineVid](https://imaginevid.io/zh/ai-image-generator)**
+
+---
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
@@ -628,7 +664,7 @@ Use the uploaded photo as the facial identity reference. Preserve the person's f
 
 <a id="prompt-6"></a>
 
-#### No. 3: 土耳其独立科幻电影海报
+#### No. 4: 土耳其独立科幻电影海报
 
 ![Language-TR](https://img.shields.io/badge/Language-TR-blue)
 
@@ -663,7 +699,7 @@ Design a vertical poster for an independent science-fiction film set in Türkiye
 
 <a id="prompt-7"></a>
 
-#### No. 4: 质数生物图鉴
+#### No. 5: 质数生物图鉴
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -698,7 +734,7 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: 奢华婚礼策划广告海报
+#### No. 6: 奢华婚礼策划广告海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -733,7 +769,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <a id="prompt-10"></a>
 
-#### No. 6: 新增案例：For Meta Muse image, remember it is still free
+#### No. 7: 新增案例：For Meta Muse image, remember it is still free
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -771,7 +807,7 @@ for Meta Muse image, remember it is still free so generate as much as you can, e
 
 <a id="prompt-11"></a>
 
-#### No. 7: New case: Neon visionary identity portrait
+#### No. 8: New case: Neon visionary identity portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -823,7 +859,7 @@ Create an ultra-realistic cinematic close-up portrait using the uploaded face as
 
 <a id="prompt-4"></a>
 
-#### No. 8: 古典大师风扶手椅肖像
+#### No. 9: 古典大师风扶手椅肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -860,7 +896,7 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 
 <a id="prompt-12"></a>
 
-#### No. 9: 雨中土耳其语排版测试
+#### No. 10: 雨中土耳其语排版测试
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -923,9 +959,10 @@ Create an ultra-photorealistic documentary street photograph of a person standin
 ## 致谢
 
 <details>
-<summary>查看并感谢社区作者 (8)</summary>
+<summary>查看并感谢社区作者 (9)</summary>
 
-[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Hatman 🎩](https://x.com/hatman) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [AI at Meta](https://x.com/AIatMeta) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Hatman 🎩](https://x.com/hatman) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay)<br>
+[V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -945,6 +982,6 @@ Create an ultra-photorealistic documentary street photograph of a person standin
 **[提交提示词](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>本 README 自动生成。最后更新： 2026-08-03T14:11:57.974Z</sub>
+<sub>本 README 自动生成。最后更新： 2026-08-03T15:15:35.082Z</sub>
 
 </div>

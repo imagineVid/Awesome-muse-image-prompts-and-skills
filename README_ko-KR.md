@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | 항목 | 수량 |
 |--------|-------|
-| 총 프롬프트 | **12** |
+| 총 프롬프트 | **13** |
 | 추천 | **3** |
-| 마지막 업데이트 | **2026년 8월 3일 월요일 PM 2시 11분 57초 UTC** |
+| 마지막 업데이트 | **2026년 8월 3일 월요일 PM 3시 15분 35초 UTC** |
 
 </div>
 
@@ -612,13 +612,49 @@ Use the uploaded photo as the facial identity reference. Preserve the person's f
 
 <a id="workflow-multi-reference-composition-identity"></a>
 
-### 다중 참조 합성 및 정체성 (1)
+### 다중 참조 합성 및 정체성 (2)
 
 여러 참조를 결합하면서 인물, 제품, 의상 또는 시각 체계의 일관성을 보존합니다.
 
 **Community · 추천 프롬프트**
 
 - [장면 흔들림 없는 캐릭터 교체](#prompt-2)
+
+<a id="prompt-13"></a>
+
+#### No. 3: 이미지 역할을 인라인으로 지정하는 멀티 레퍼런스 아트 디렉션
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### 설명
+
+인물 정체성, 의상, 오브젝트, 환경과 스타일을 텍스트와 이미지의 교차 역할로 검증하는 Meta 공식 Muse Image 게시물의 투명한 재구성입니다.
+
+##### 원문 프롬프트(영어)
+
+```
+Create a polished editorial group portrait using inline reference images assigned by role: [person reference] supplies the subject’s identity and facial structure; [wardrobe reference] supplies the outfit; [object reference] supplies a hero prop; [environment reference] supplies the location; [style reference] supplies the color and material language. Preserve the subject’s identity, the prop’s shape, the wardrobe construction, and the environment’s spatial logic. Place each reference inline next to its instruction and keep every image’s role distinct. Compose one coherent scene with natural scale, plausible lighting, consistent perspective, readable negative space, and no accidental duplication. Do not merge reference subjects, replace the requested object, invent logos or text, or copy an unrelated layout.
+```
+
+##### 출처 이미지
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMpqV8QWEAALF7k.jpg" width="100%" alt="이미지 역할을 인라인으로 지정하는 멀티 레퍼런스 아트 디렉션 - Image 1"></td>
+</tr>
+</table>
+
+##### 세부 정보
+
+- **작성자:** [AI at Meta](https://x.com/AIatMeta)
+- **출처:** [출처](https://x.com/AIatMeta/status/2074587874448625869)
+- **게시일:** 2026년 7월 7일
+- **언어:** en
+
+**[이 프롬프트 사용 · ImagineVid](https://imaginevid.io/ko/ai-image-generator)**
+
+---
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
@@ -628,7 +664,7 @@ Use the uploaded photo as the facial identity reference. Preserve the person's f
 
 <a id="prompt-6"></a>
 
-#### No. 3: 튀르키예 독립 SF 영화 포스터
+#### No. 4: 튀르키예 독립 SF 영화 포스터
 
 ![Language-TR](https://img.shields.io/badge/Language-TR-blue)
 
@@ -663,7 +699,7 @@ Design a vertical poster for an independent science-fiction film set in Türkiye
 
 <a id="prompt-7"></a>
 
-#### No. 4: 소수 생물 도감
+#### No. 5: 소수 생물 도감
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -698,7 +734,7 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: 럭셔리 웨딩 플래너 광고 포스터
+#### No. 6: 럭셔리 웨딩 플래너 광고 포스터
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -733,7 +769,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <a id="prompt-10"></a>
 
-#### No. 6: 신규 사례: For Meta Muse image, remember it is still free
+#### No. 7: 신규 사례: For Meta Muse image, remember it is still free
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -771,7 +807,7 @@ for Meta Muse image, remember it is still free so generate as much as you can, e
 
 <a id="prompt-11"></a>
 
-#### No. 7: New case: Neon visionary identity portrait
+#### No. 8: New case: Neon visionary identity portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -823,7 +859,7 @@ Create an ultra-realistic cinematic close-up portrait using the uploaded face as
 
 <a id="prompt-4"></a>
 
-#### No. 8: 고전 회화풍 윙백 체어 초상
+#### No. 9: 고전 회화풍 윙백 체어 초상
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -860,7 +896,7 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 
 <a id="prompt-12"></a>
 
-#### No. 9: 비에 젖은 터키어 타이포그래피 테스트
+#### No. 10: 비에 젖은 터키어 타이포그래피 테스트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -923,9 +959,10 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 ## 감사의 말
 
 <details>
-<summary>커뮤니티 제작자 감사 명단 (8)</summary>
+<summary>커뮤니티 제작자 감사 명단 (9)</summary>
 
-[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Hatman 🎩](https://x.com/hatman) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [AI at Meta](https://x.com/AIatMeta) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Hatman 🎩](https://x.com/hatman) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay)<br>
+[V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -945,6 +982,6 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 **[프롬프트 제출](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[저장소에 Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-08-03T14:11:57.988Z</sub>
+<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-08-03T15:15:35.089Z</sub>
 
 </div>

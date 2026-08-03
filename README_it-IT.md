@@ -372,9 +372,9 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 
 | Metrica | Conteggio |
 |--------|-------|
-| Prompt totali | **12** |
+| Prompt totali | **13** |
 | In evidenza | **3** |
-| Ultimo aggiornamento | **lunedì 3 agosto 2026 alle ore 14:11:58 UTC** |
+| Ultimo aggiornamento | **lunedì 3 agosto 2026 alle ore 15:15:35 UTC** |
 
 </div>
 
@@ -612,13 +612,49 @@ Use the uploaded photo as the facial identity reference. Preserve the person's f
 
 <a id="workflow-multi-reference-composition-identity"></a>
 
-### Composizione multi-riferimento e identità (1)
+### Composizione multi-riferimento e identità (2)
 
 Composizioni multi-riferimento che conservano persone, prodotti, abiti o sistemi visivi riconoscibili.
 
 **Community · Prompt in evidenza**
 
 - [Trasferimento del personaggio senza deriva della scena](#prompt-2)
+
+<a id="prompt-13"></a>
+
+#### No. 3: Art direction con più riferimenti e ruoli delle immagini integrati
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Descrizione
+
+Una ricostruzione trasparente del post ufficiale di Meta su Muse Image, che prova ruoli alternati di testo e immagini per identità, abiti, oggetti, ambienti e stile.
+
+##### Prompt originale (in inglese)
+
+```
+Create a polished editorial group portrait using inline reference images assigned by role: [person reference] supplies the subject’s identity and facial structure; [wardrobe reference] supplies the outfit; [object reference] supplies a hero prop; [environment reference] supplies the location; [style reference] supplies the color and material language. Preserve the subject’s identity, the prop’s shape, the wardrobe construction, and the environment’s spatial logic. Place each reference inline next to its instruction and keep every image’s role distinct. Compose one coherent scene with natural scale, plausible lighting, consistent perspective, readable negative space, and no accidental duplication. Do not merge reference subjects, replace the requested object, invent logos or text, or copy an unrelated layout.
+```
+
+##### Risultati dalla fonte
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMpqV8QWEAALF7k.jpg" width="100%" alt="Art direction con più riferimenti e ruoli delle immagini integrati - Image 1"></td>
+</tr>
+</table>
+
+##### Dettagli
+
+- **Autore:** [AI at Meta](https://x.com/AIatMeta)
+- **Fonte:** [Fonte](https://x.com/AIatMeta/status/2074587874448625869)
+- **Pubblicato:** 7 luglio 2026
+- **Lingue:** en
+
+**[Usa questo prompt · ImagineVid](https://imaginevid.io/it/ai-image-generator)**
+
+---
 
 <a id="workflow-typography-posters-structured-layouts"></a>
 
@@ -628,7 +664,7 @@ Visual progettati in cui contano testo leggibile, gerarchia, spaziatura e regole
 
 <a id="prompt-6"></a>
 
-#### No. 3: Poster turco di fantascienza indipendente
+#### No. 4: Poster turco di fantascienza indipendente
 
 ![Language-TR](https://img.shields.io/badge/Language-TR-blue)
 
@@ -663,7 +699,7 @@ Design a vertical poster for an independent science-fiction film set in Türkiye
 
 <a id="prompt-7"></a>
 
-#### No. 4: Indice di creature dei numeri primi
+#### No. 5: Indice di creature dei numeri primi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -698,7 +734,7 @@ Create a clean illustrated index titled PRIME CREATURES. Include one original co
 
 <a id="prompt-9"></a>
 
-#### No. 5: Luxury wedding-planner advertising poster
+#### No. 6: Luxury wedding-planner advertising poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -733,7 +769,7 @@ Create a luxury advertising poster for a fictional wedding-planning studio. Mode
 
 <a id="prompt-10"></a>
 
-#### No. 6: Nuovo caso: For Meta Muse image, remember it is still free
+#### No. 7: Nuovo caso: For Meta Muse image, remember it is still free
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -771,7 +807,7 @@ for Meta Muse image, remember it is still free so generate as much as you can, e
 
 <a id="prompt-11"></a>
 
-#### No. 7: New case: Neon visionary identity portrait
+#### No. 8: New case: Neon visionary identity portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -823,7 +859,7 @@ Prompt di ritratto e art direction guidati da somiglianza, texture, luce e lingu
 
 <a id="prompt-4"></a>
 
-#### No. 8: Ritratto in poltrona ispirato agli antichi maestri
+#### No. 9: Ritratto in poltrona ispirato agli antichi maestri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -860,7 +896,7 @@ Behind her, mottled teal and deep-blue plaster suggests age and quiet grandeur. 
 
 <a id="prompt-12"></a>
 
-#### No. 9: Test di tipografia turca sotto la pioggia
+#### No. 10: Test di tipografia turca sotto la pioggia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -923,9 +959,10 @@ Distribuito con licenza [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 ## Ringraziamenti
 
 <details>
-<summary>Autori della community (8)</summary>
+<summary>Autori della community (9)</summary>
 
-[Abkr Sadiq](https://x.com/abs_uiux) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Hatman 🎩](https://x.com/hatman) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay) · [V](https://x.com/VictorInFocus)
+[Abkr Sadiq](https://x.com/abs_uiux) · [AI at Meta](https://x.com/AIatMeta) · [Chain Loader](https://x.com/Chain_Loader) · [Dilmer](https://x.com/Dilmerv) · [Emily](https://x.com/IamEmily2050) · [Hatman 🎩](https://x.com/hatman) · [Max Woolf](https://x.com/minimaxir) · [Ozan Sihay](https://x.com/ozansihay)<br>
+[V](https://x.com/VictorInFocus)
 
 </details>
 
@@ -945,6 +982,6 @@ Distribuito con licenza [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 **[Invia prompt](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Aggiungi una Star al repository](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>README generato automaticamente. Ultimo aggiornamento: 2026-08-03T14:11:58.026Z</sub>
+<sub>README generato automaticamente. Ultimo aggiornamento: 2026-08-03T15:15:35.103Z</sub>
 
 </div>

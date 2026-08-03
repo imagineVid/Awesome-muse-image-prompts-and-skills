@@ -615,5 +615,69 @@
         }
       ]
     }
+  },
+  {
+    "id": 13,
+    "model": "muse-image",
+    "title": {
+      "en": "Multi-reference art direction with inline image roles"
+    },
+    "description": {
+      "en": "A transparent reconstruction from Meta’s official Muse Image capability post, testing interleaved text and image roles for identity, wardrobe, objects, environments, and style."
+    },
+    "content": {
+      "en": "Create a polished editorial group portrait using inline reference images assigned by role: [person reference] supplies the subject’s identity and facial structure; [wardrobe reference] supplies the outfit; [object reference] supplies a hero prop; [environment reference] supplies the location; [style reference] supplies the color and material language. Preserve the subject’s identity, the prop’s shape, the wardrobe construction, and the environment’s spatial logic. Place each reference inline next to its instruction and keep every image’s role distinct. Compose one coherent scene with natural scale, plausible lighting, consistent perspective, readable negative space, and no accidental duplication. Do not merge reference subjects, replace the requested object, invent logos or text, or copy an unrelated layout."
+    },
+    "sourceLink": "https://x.com/AIatMeta/status/2074587874448625869",
+    "sourcePublishedAt": "2026-07-07T20:14:27.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMpqV8QWEAALF7k.jpg"
+    ],
+    "author": {
+      "name": "AI at Meta",
+      "link": "https://x.com/AIatMeta"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 13,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074587874448625869",
+      "prompt_source": "official_editorial_reconstruction",
+      "model_evidence": "muse-image",
+      "collected_at": "2026-08-03",
+      "retweetCount": 1,
+      "replyCount": 1,
+      "likeCount": 19,
+      "quoteCount": 0,
+      "viewCount": 1759,
+      "bookmarkCount": 3,
+      "source_note": "The source is Meta’s official Muse Image capability post. The reusable prompt is an editorial reconstruction of its stated multi-reference and interleaved-prompt behavior, not a verbatim Meta prompt."
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 63,
+          "title": {
+            "en": "Multi-Reference Composition & Identity",
+            "zh": "多参考合成与身份一致性",
+            "ja-JP": "複数参照合成と同一性",
+            "ko-KR": "다중 참조 합성 및 정체성",
+            "es-ES": "Composición multirreferencia e identidad",
+            "de-DE": "Multi-Referenz-Komposition und Identität",
+            "fr-FR": "Composition multiréférence et identité",
+            "it-IT": "Composizione multi-riferimento e identità",
+            "pt-PT": "Composição multirreferência e identidade",
+            "tr-TR": "Çoklu referans kompozisyonu ve kimlik",
+            "ar-SA": "التركيب متعدد المراجع والحفاظ على الهوية",
+            "ru-RU": "Композиция по нескольким референсам и идентичность",
+            "nl-NL": "Compositie met meerdere referenties en identiteit",
+            "pl-PL": "Kompozycja wieloreferencyjna i tożsamość"
+          },
+          "slug": "multi-reference-composition-identity"
+        }
+      ]
+    }
   }
 ]

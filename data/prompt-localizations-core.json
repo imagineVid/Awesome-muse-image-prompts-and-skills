@@ -39,6 +39,10 @@
     "12": {
       "title": "雨中土耳其语排版测试",
       "description": "以可复用指令和可核验结果媒体测试“雨中土耳其语排版测试”的来源明确案例。"
+    },
+    "13": {
+      "title": "以内联图像角色组织多参考图艺术指导",
+      "description": "透明重构 Meta 官方 Muse Image 能力介绍，用交错的文字和图像角色检验人物、服装、物体、环境与风格控制。"
     }
   },
   "ja-JP": {
@@ -81,6 +85,10 @@
     "12": {
       "title": "雨に濡れたトルコ語タイポグラフィテスト",
       "description": "「雨に濡れたトルコ語タイポグラフィテスト」を検証可能な結果メディアと再利用できる指示で試す、出典付きのケースです。"
+    },
+    "13": {
+      "title": "画像の役割を指定するマルチリファレンスのアートディレクション",
+      "description": "人物、衣装、物体、環境、スタイルを、テキストと画像の役割を交互に指定して検証するMeta公式Muse Image投稿の透明な再構成。"
     }
   },
   "ko-KR": {
@@ -123,6 +131,10 @@
     "12": {
       "title": "비에 젖은 터키어 타이포그래피 테스트",
       "description": "검증 가능한 결과 미디어와 재사용 가능한 지침으로 '비에 젖은 터키어 타이포그래피 테스트'을 테스트하는 출처 기반 사례입니다."
+    },
+    "13": {
+      "title": "이미지 역할을 인라인으로 지정하는 멀티 레퍼런스 아트 디렉션",
+      "description": "인물 정체성, 의상, 오브젝트, 환경과 스타일을 텍스트와 이미지의 교차 역할로 검증하는 Meta 공식 Muse Image 게시물의 투명한 재구성입니다."
     }
   },
   "es-ES": {
@@ -165,6 +177,10 @@
     "12": {
       "title": "Prueba tipográfica turca bajo la lluvia",
       "description": "Un caso respaldado por fuentes que explora «Prueba tipográfica turca bajo la lluvia», con instrucciones reutilizables y medios de resultado verificables."
+    },
+    "13": {
+      "title": "Dirección artística con varias referencias y roles de imagen integrados",
+      "description": "Una reconstrucción transparente de la publicación oficial de Meta sobre Muse Image, que prueba roles intercalados de texto e imagen para identidad, vestuario, objetos, entornos y estilo."
     }
   },
   "de-DE": {
@@ -207,6 +223,10 @@
     "12": {
       "title": "Türkischer Typografietest im Regen",
       "description": "Ein quellenbelegter Fall zu „Türkischer Typografietest im Regen“ mit wiederverwendbaren Anweisungen und überprüfbaren Ergebnismedien."
+    },
+    "13": {
+      "title": "Art Direction mit mehreren Referenzen und Inline-Bildrollen",
+      "description": "Eine transparent gekennzeichnete Rekonstruktion aus Metas offiziellem Muse-Image-Post, die verschachtelte Text- und Bildrollen für Identität, Kleidung, Objekte, Umgebungen und Stil prüft."
     }
   },
   "fr-FR": {
@@ -249,6 +269,10 @@
     "12": {
       "title": "Test de typographie turque sous la pluie",
       "description": "Un cas documenté par une source autour de « Test de typographie turque sous la pluie », avec des instructions réutilisables et un résultat vérifiable."
+    },
+    "13": {
+      "title": "Direction artistique multi-référence avec rôles d’images intégrés",
+      "description": "Une reconstruction explicitement signalée du post officiel de Meta sur Muse Image, qui teste les rôles alternés du texte et des images pour l’identité, les vêtements, les objets, les environnements et le style."
     }
   }
 }
