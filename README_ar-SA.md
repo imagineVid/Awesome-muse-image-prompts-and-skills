@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | إجمالي التعليمات | **13** |
 | مميز | **3** |
-| آخر تحديث | **الجمعة، ١٤ أغسطس ٢٠٢٦ في ١٢:٥٥:٠٥ م UTC** |
+| آخر تحديث | **الجمعة، ١٤ أغسطس ٢٠٢٦ في ٤:٤٨:٣٦ م UTC** |
 
 </div>
 
@@ -982,6 +982,6 @@ Create an ultra-photorealistic documentary street photograph of a person standin
 **[إرسال تعليمة](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمستودع](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-08-14T12:55:05.469Z</sub>
+<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-08-14T16:48:36.113Z</sub>
 
 </div>
