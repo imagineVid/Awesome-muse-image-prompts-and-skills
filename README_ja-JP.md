@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | プロンプト総数 | **13** |
 | 注目 | **3** |
-| 最終更新 | **2026年8月20日木曜日 0:56:45 UTC** |
+| 最終更新 | **2026年8月20日木曜日 4:32:04 UTC** |
 
 </div>
 
@@ -982,6 +982,6 @@ Create an ultra-photorealistic documentary street photograph of a person standin
 **[プロンプトを投稿](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-08-20T00:56:45.611Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-08-20T04:32:04.911Z</sub>
 
 </div>
