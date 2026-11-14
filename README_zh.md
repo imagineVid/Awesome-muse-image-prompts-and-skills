@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | 提示词总数 | **13** |
 | 精选 | **3** |
-| 最后更新 | **2026年11月14日星期六 UTC 11:09:44** |
+| 最后更新 | **2026年11月14日星期六 UTC 17:35:23** |
 
 </div>
 
@@ -982,6 +982,6 @@ Create an ultra-photorealistic documentary street photograph of a person standin
 **[提交提示词](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>本 README 自动生成。最后更新： 2026-11-14T11:09:44.490Z</sub>
+<sub>本 README 自动生成。最后更新： 2026-11-14T17:35:23.437Z</sub>
 
 </div>
