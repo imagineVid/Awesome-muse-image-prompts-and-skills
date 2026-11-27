@@ -374,7 +374,7 @@ Make an image of the referenced cat and dog as best friends having a picnic on a
 |--------|-------|
 | Всего промптов | **13** |
 | Избранное | **3** |
-| Обновлено | **четверг, 26 ноября 2026 г. в 18:03:25 UTC** |
+| Обновлено | **пятница, 27 ноября 2026 г. в 02:36:35 UTC** |
 
 </div>
 
@@ -982,6 +982,6 @@ Create an ultra-photorealistic documentary street photograph of a person standin
 **[Отправить промпт](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить Star](https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills)**
 
-<sub>Этот README создан автоматически. Последнее обновление: 2026-11-26T18:03:25.703Z</sub>
+<sub>Этот README создан автоматически. Последнее обновление: 2026-11-27T02:36:35.122Z</sub>
 
 </div>
